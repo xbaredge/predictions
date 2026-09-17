@@ -8,7 +8,10 @@ then a builder selects which legs to back. The upload happens at the end of that
 
 - **`board.csv`** — one row per fixture, with the probability for each core market.
 - **`picks.csv`** — one row per backed leg.
-- **`settled.csv`** — appended once results are graded, usually the next day.
+- **`results.csv`** — the final score of every fixture on the board, appended once the match is
+  graded, usually the next day. Published so that any market on the board can be graded by the
+  reader; nothing about which legs were backed enters it.
+- **`settled.csv`** — the backed legs graded, appended at the same time.
 
 Every row carries `published_utc` and `kickoff_utc`. A fixture that has already kicked off is
 never published: `tools/verify.py` checks this for every row.
