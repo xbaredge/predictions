@@ -13,6 +13,8 @@ the fixtures start, and each commit is anchored with [OpenTimestamps](https://op
 
 ```
 2026/W38/board.csv     every fixture the model looked at, with its probability for each market
+2026/W38/goals.csv     the total-goals distribution implied by those probabilities
+2026/W38/scores.csv    the most likely scorelines, as far as the engine records them
 2026/W38/picks.csv     the legs the system backed, with the odds and fair price at upload
 2026/W38/results.csv   the final score of every fixture on the board, added after the match
 2026/W38/settled.csv   backed legs graded, with the fair price near kickoff and CLV
