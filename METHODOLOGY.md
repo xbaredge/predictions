@@ -55,6 +55,11 @@ than guessed.
 
 ## Results
 
+`gradable` in `picks.csv` is 0 for a leg this ledger cannot settle: Asian lines are priced and
+backed by the builder but are not graded by the engine that produces these files. They are
+published anyway — a pick that quietly never settles would be a hidden loser — and they are
+excluded from the record `tools/verify.py` reports.
+
 `result` is 1 for a winning leg and 0 for a loser. `settle_frac` is the fraction of the stake
 that settled, for markets that can settle in part. `profit_1u` is the profit on a one-unit
 stake at the published price. Grading uses final scores from the fixture feed.
