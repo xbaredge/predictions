@@ -70,10 +70,15 @@ def main():
     pnl = sum(num(r["profit_1u"]) or 0 for r in keep if num(r["odds"]))
     clvs = [num(r["clv_pct"]) for r in keep if num(r["clv_pct"]) is not None]
 
+    gradable = [r for r in picks if r.get("gradable", "1") == "1"]
+    done = {(r["run_date"], r["fixture_id"], r["market"]) for r in settled}
+    waiting = [r for r in gradable if (r["run_date"], r["fixture_id"], r["market"]) not in done]
     print(f"board:   {len(board):>6} fixtures")
     print(f"picks:   {len(picks):>6} legs published")
     print(f"settled: {n:>6} legs" + (f"  (filtered: market={a.market or 'all'}, from={a.since or 'start'})"
                                      if a.market or a.since else ""))
+    print(f"pending: {len(waiting):>6} gradable legs not yet settled"
+          f"  ({len(picks) - len(gradable)} legs are marked not gradable — see METHODOLOGY.md)")
     if n:
         print(f"\nhit rate:  {wins}/{n} = {wins / n * 100:.1f}%")
         if staked:
