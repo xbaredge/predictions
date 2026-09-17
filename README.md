@@ -14,7 +14,8 @@ the fixtures start, and each commit is anchored with [OpenTimestamps](https://op
 ```
 2026/W38/board.csv     every fixture the model looked at, with its probability for each market
 2026/W38/picks.csv     the legs the system backed, with the odds and fair price at upload
-2026/W38/settled.csv   results, added after the matches, as new rows
+2026/W38/results.csv   the final score of every fixture on the board, added after the match
+2026/W38/settled.csv   backed legs graded, with the fair price near kickoff and CLV
 stamps/                timestamp proofs, one per upload
 tools/verify.py        recomputes the record from the files in this repo alone
 ```
@@ -40,8 +41,10 @@ ots verify stamps/2026/2026-09-18T070500Z.sha256.ots
 
 ## The board matters as much as the picks
 
-`board.csv` holds every fixture the model rated, not only the ones it backed. A record of
-winning bets alone can always be assembled after the fact; a full board cannot.
+`board.csv` holds every fixture the model rated, not only the ones it backed, and `results.csv`
+gives the final score of each one. Between them you can grade **any** market on the board
+yourself, rather than taking our word for the legs we chose to settle. A record of winning bets
+alone can always be assembled after the fact; a full board with scores cannot.
 
 ## What these numbers are not
 
