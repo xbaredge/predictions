@@ -41,3 +41,164 @@ published_utc,run_date,comp,fixture_id,kickoff_utc,league,home,away,market,grada
 2026-09-18T07:15:29Z,2026-09-18,women,1593138,2026-09-18T16:30:00Z,Frauen_Bundesliga,1899 Hoffenheim W,VfL Wolfsburg W,AWAY_WIN,1,0.6980,1.433,1.420,betfair,0,-0.88,1.456,2026-09-17T12:47:12Z,1.481,2026-09-18T04:49:05Z,0,,v3/binary
 2026-09-18T07:15:29Z,2026-09-18,women,1580933,2026-09-18T17:00:00Z,Feminine_Division,Le Havre W,Lyon W,AWAY_WIN,1,0.6570,1.522,1.020,betfair,0,-32.99,,,,,0,,v3/binary
 2026-09-18T07:15:29Z,2026-09-18,women,1495561,2026-09-18T17:00:00Z,Damallsvenskan_Sweden,Malmö FF W,Djurgården W,UPSET,1,0.2280,4.386,6.500,apifootball,0,48.20,,,,,1,VALUE SINGLE #1,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1575171,2026-09-19T13:30:00Z,Germany_Bundesliga,Hamburger SV,1. FC Köln,ASIAN_OVER_2_0,0,0.9880,1.012,1.230,apifootball,0,21.52,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1493700,2026-09-19T23:30:00Z,USL_Championship,Tampa Bay Rowdies,Birmingham Legion,ASIAN_OVER_2_0,0,0.9860,1.014,1.200,apifootball,0,18.32,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1584004,2026-09-19T12:00:00Z,Germany_3_Liga,Alemannia Aachen,Fortuna Düsseldorf,ASIAN_OVER_2_0,0,0.9840,1.016,1.250,apifootball,0,23.00,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1490482,2026-09-19T23:30:00Z,MLS,San Jose Earthquakes,Los Angeles FC,ASIAN_OVER_2_0,0,0.9810,1.019,1.200,apifootball,0,17.72,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1561930,2026-09-19T15:00:00Z,Austrian_Bundesliga,Austria Lustenau,SCR Altach,ASIAN_OVER_2_0,0,0.9800,1.020,1.320,apifootball,0,29.36,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1494765,2026-09-19T14:00:00Z,Eliteserien,Kristiansund BK,Rosenborg,ASIAN_OVER_2_0,0,0.9700,1.031,1.170,apifootball,0,13.49,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1495951,2026-09-19T14:00:00Z,OBOS_ligaen,Asane,Bryne,ASIAN_OVER_2_0,0,0.9680,1.033,1.300,apifootball,0,25.84,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1584012,2026-09-19T12:00:00Z,Germany_3_Liga,FC Viktoria Köln,FC Ingolstadt 04,ASIAN_OVER_2_0,0,0.9550,1.047,1.230,apifootball,0,17.46,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1551566,2026-09-19T16:00:00Z,Slovak_SuperLiga,Zemplín Michalovce,Dukla Banská Bystrica,OVER_1_5,1,0.9500,1.053,1.140,apifootball,0,8.30,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1555397,2026-09-19T16:00:00Z,Swiss_Super_League,FC Sion,FC Zurich,OVER_2_5,1,0.9500,1.053,1.400,apifootball,0,33.00,1.467,2026-09-16T21:41:12Z,1.437,2026-09-19T04:40:35Z,1,STRICT +EV DOUBLE #2,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1552174,2026-09-19T18:00:00Z,Eredivisie,Ajax,Excelsior,OVER_1_5,1,0.9500,1.053,1.060,apifootball,0,0.70,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1492381,2026-09-19T19:00:00Z,Serie_A_Brazil,Atletico-MG,Chapecoense-sc,OVER_1_5,1,0.9450,1.058,1.220,apifootball,0,15.29,,,,,1,SPECULATIVE DOUBLE #1,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1555396,2026-09-19T16:00:00Z,Swiss_Super_League,BSC Young Boys,Servette FC,ASIAN_OVER_2_0,0,0.9370,1.067,1.130,apifootball,0,5.88,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1584009,2026-09-19T12:00:00Z,Germany_3_Liga,Stuttgart II,SSV Jahn Regensburg,ASIAN_OVER_2_0,0,0.9360,1.068,1.190,apifootball,0,11.38,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1575172,2026-09-19T13:30:00Z,Germany_Bundesliga,Werder Bremen,FC Augsburg,ASIAN_OVER_2_0,0,0.9360,1.068,1.150,apifootball,0,7.64,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1558223,2026-09-19T17:00:00Z,Polish_1_Liga,Miedz Legnica,Stal Rzeszów,OVER_1_5,1,0.9300,1.075,1.170,apifootball,0,8.81,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1558638,2026-09-19T18:45:00Z,Belgium_Pro_League,Anderlecht,Zulte Waregem,ASIAN_OVER_2_0,0,0.9240,1.082,1.320,apifootball,0,21.97,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1555702,2026-09-19T10:00:00Z,J3_League,Gainare Tottori,Nara Club,ASIAN_OVER_2_0,0,0.9220,1.085,1.260,apifootball,0,16.17,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1555510,2026-09-19T17:00:00Z,Israeli_Premier_League,Maccabi Haifa,Ironi Tiberias,ASIAN_OVER_2_0,0,0.9220,1.085,1.210,apifootball,0,11.56,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1591311,2026-09-19T16:00:00Z,2_Lig_Turkey,Menemen FK,Ankaraspor,ASIAN_OVER_2_0,0,0.9200,1.087,1.220,apifootball,0,12.24,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1567915,2026-09-19T13:30:00Z,Austrian_2_Liga,Sturm Graz II,Wacker Innsbruck,OVER_1_5,1,0.9170,1.091,1.170,apifootball,0,7.29,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1558637,2026-09-19T16:15:00Z,Belgium_Pro_League,Charleroi,Cercle Brugge,ASIAN_OVER_2_0,0,0.9120,1.096,1.250,apifootball,0,14.00,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1556079,2026-09-19T09:30:00Z,J1_League,V-varen Nagasaki,Cerezo Osaka,OVER_1_5,1,0.9100,1.099,1.280,betfair,0,16.48,,,,,1,STRICT +EV DOUBLE #2,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1555395,2026-09-19T16:00:00Z,Swiss_Super_League,FC Luzern,Grasshoppers,OVER_2_5,1,0.9070,1.103,1.360,apifootball,0,23.35,1.487,2026-09-16T16:40:26Z,1.422,2026-09-19T04:40:35Z,1,CORE SINGLE #4,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1494000,2026-09-19T23:00:00Z,USL_League_One,Chattanooga Red Wolves,Portland Hearts of Pine,ASIAN_OVER_2_0,0,0.9070,1.103,1.240,apifootball,0,12.47,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1561661,2026-09-19T15:00:00Z,Polish_2_Liga,Chojniczanka Chojnice,Olimpia Grudziądz,ASIAN_OVER_2_0,0,0.9050,1.105,1.240,apifootball,0,12.22,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1574739,2026-09-19T12:45:00Z,Championnat_National,Rouen,Aubagne,ASIAN_OVER_2_0,0,0.9020,1.109,1.450,apifootball,0,30.79,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1552175,2026-09-19T19:00:00Z,Eredivisie,Willem II,Fortuna Sittard,OVER_1_5,1,0.8920,1.121,1.140,apifootball,0,1.69,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1576185,2026-09-19T11:00:00Z,Germany_2_Bundesliga,Karlsruher SC,1. FC Nürnberg,ASIAN_OVER_2_0,0,0.8830,1.133,1.130,apifootball,0,-0.22,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1584420,2026-09-19T17:00:00Z,Super_Lig_Turkey,Trabzonspor,Galatasaray,ASIAN_OVER_2_0,0,0.8810,1.135,1.170,apifootball,0,3.08,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1492386,2026-09-19T21:30:00Z,Serie_A_Brazil,Remo,Santos,OVER_1_5,1,0.8800,1.136,1.280,apifootball,0,12.64,,,,,1,SPECULATIVE DOUBLE #1,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1555509,2026-09-19T17:15:00Z,Israeli_Premier_League,Hapoel Beer Sheva,Ironi Kiryat Shmona,OVER_1_5,1,0.8780,1.139,1.170,apifootball,0,2.73,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1553873,2026-09-19T15:00:00Z,Serbia_SuperLiga,Novi Pazar,Zemun,OVER_2_5,1,0.8640,1.157,1.700,apifootball,0,46.88,1.834,2026-09-17T12:41:49Z,1.789,2026-09-19T04:40:35Z,1,STRICT +EV DOUBLE #1; CORE SINGLE #6,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1507071,2026-09-19T10:00:00Z,K1_League,FC Anyang,Ulsan Hyundai FC,ASIAN_OVER_2_0,0,0.8620,1.160,1.320,apifootball,0,13.78,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1549025,2026-09-19T16:00:00Z,Danish_Superliga,Odense,FC Midtjylland,ASIAN_OVER_2_0,0,0.8590,1.164,1.230,apifootball,0,5.66,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1497712,2026-09-19T13:00:00Z,Superettan,Varbergs BoIS FC,IK brage,ASIAN_OVER_2_0,0,0.8580,1.166,1.300,apifootball,0,11.54,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1553175,2026-09-19T12:45:00Z,Ekstraklasa,Korona Kielce,Raków Częstochowa,OVER_1_5,1,0.8560,1.168,1.270,betfair,0,8.71,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1492385,2026-09-19T20:00:00Z,Serie_A_Brazil,Mirassol,Botafogo,OVER_1_5,1,0.8500,1.176,1.250,apifootball,0,6.25,,,,,1,SPECULATIVE TREBLE #7,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1601540,2026-09-19T13:00:00Z,Serie_B_Italy,Palermo,Padova,HOME_WIN,1,0.8470,1.181,1.610,betfair,0,36.37,1.617,2026-09-17T22:42:37Z,1.573,2026-09-19T01:41:30Z,1,STRICT +EV DOUBLE #1; CORE SINGLE #10,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1565255,2026-09-19T14:30:00Z,Romania_Liga1,CFR 1907 Cluj,FC Botosani,OVER_1_5,1,0.8470,1.181,1.250,apifootball,0,5.87,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1549786,2026-09-19T23:10:00Z,Colombia_PrimeraA,Deportivo Cali,Cucuta,OVER_1_5,1,0.8460,1.182,1.330,apifootball,0,12.52,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1493692,2026-09-19T23:00:00Z,USL_Championship,Charleston Battery,Monterey Bay,ASIAN_OVER_2_0,0,0.8440,1.185,1.200,apifootball,0,1.28,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1552171,2026-09-19T16:45:00Z,Eredivisie,Sparta Rotterdam,Heerenveen,OVER_1_5,1,0.8370,1.195,1.120,apifootball,0,-6.26,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1490484,2026-09-19T23:30:00Z,MLS,New England Revolution,Orlando City SC,ASIAN_OVER_2_0,0,0.8340,1.199,1.150,apifootball,0,-4.09,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1567908,2026-09-19T13:30:00Z,Austrian_2_Liga,Voitsberg,Austria Salzburg,OVER_1_5,1,0.8275,1.208,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1553177,2026-09-19T18:15:00Z,Ekstraklasa,Motor Lublin,Gornik Zabrze,OVER_1_5,1,0.8260,1.211,1.200,apifootball,0,-0.88,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1549792,2026-09-19T19:00:00Z,Colombia_PrimeraA,Millonarios,Chico,OVER_1_5,1,0.8260,1.211,1.250,apifootball,0,3.25,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1555507,2026-09-19T17:30:00Z,Israeli_Premier_League,Beitar Jerusalem,Hapoel Haifa,OVER_1_5,1,0.8160,1.225,1.140,apifootball,0,-6.98,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1551564,2026-09-19T18:30:00Z,Slovak_SuperLiga,Komárno,Slovan Bratislava,OVER_1_5,1,0.8150,1.227,1.140,apifootball,0,-7.09,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1585768,2026-09-19T14:00:00Z,1_Lig_Turkey,Sarıyer,Boluspor,HOME_WIN,1,0.8100,1.235,1.270,betfair,0,2.87,1.278,2026-09-16T16:40:26Z,1.276,2026-09-19T04:40:35Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1548536,2026-09-19T15:00:00Z,Croatia_HNL,NK Varazdin,NK Osijek,OVER_1_5,1,0.8040,1.244,1.250,apifootball,0,0.50,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1556080,2026-09-19T10:30:00Z,J1_League,Yokohama F. Marinos,Mito Hollyhock,OVER_1_5,1,0.7950,1.258,1.220,apifootball,0,-3.01,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1558227,2026-09-19T13:30:00Z,Polish_1_Liga,Polonia Warszawa,Chrobry Głogów,OVER_1_5,1,0.7910,1.264,1.260,betfair,0,-0.33,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1552172,2026-09-19T14:30:00Z,Eredivisie,ADO Den Haag,Cambuur,OVER_1_5,1,0.7880,1.269,1.140,apifootball,0,-10.17,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1556074,2026-09-19T09:00:00Z,J1_League,Kawasaki Frontale,Kashima,OVER_1_5,1,0.7840,1.276,1.210,betfair,0,-5.14,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1601535,2026-09-19T13:00:00Z,Serie_B_Italy,Carrarese,Benevento,OVER_1_5,1,0.7840,1.276,1.310,betfair,0,2.70,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1575170,2026-09-19T13:30:00Z,Germany_Bundesliga,Eintracht Frankfurt,SC Freiburg,OVER_2_5,1,0.7830,1.277,1.550,betfair,0,21.36,1.506,2026-09-16T16:40:26Z,1.493,2026-09-19T01:41:30Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1520888,2026-09-19T19:30:00Z,Serie_B_Brazil,Sport Recife,Juventude,OVER_1_5,1,0.7830,1.277,1.440,apifootball,0,12.75,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1548533,2026-09-19T18:00:00Z,Croatia_HNL,Istra 1961,HNK Gorica,OVER_1_5,1,0.7770,1.287,1.220,apifootball,0,-5.21,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1558222,2026-09-19T10:30:00Z,Polish_1_Liga,Lechia Gdansk,Stal Mielec,OVER_2_5,1,0.7760,1.289,1.580,betfair,0,22.61,1.620,2026-09-16T12:41:33Z,1.597,2026-09-19T04:40:35Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1555512,2026-09-19T17:00:00Z,Israeli_Premier_League,Maccabi Netanya,Maccabi Tel Aviv,OVER_2_5,1,0.7650,1.307,1.440,apifootball,0,10.16,1.483,2026-09-16T21:41:12Z,1.503,2026-09-19T01:41:30Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1494002,2026-09-19T23:00:00Z,USL_League_One,Forward Madison,Alta,OVER_2_5,1,0.7580,1.319,1.570,apifootball,0,19.01,1.680,2026-09-19T04:40:35Z,1.680,2026-09-19T04:40:35Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1551568,2026-09-19T16:00:00Z,Slovak_SuperLiga,Žilina,AS Trencin,HOME_WIN,1,0.7510,1.332,1.330,apifootball,0,-0.12,1.446,2026-09-16T16:40:26Z,1.456,2026-09-19T04:40:35Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1494004,2026-09-19T22:00:00Z,USL_League_One,Richmond Kickers,Charlotte Independence,OVER_2_5,1,0.7420,1.348,1.400,apifootball,0,3.88,1.465,2026-09-19T01:41:30Z,1.465,2026-09-19T04:40:35Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1551565,2026-09-19T16:00:00Z,Slovak_SuperLiga,FK Košice,Ružomberok,HOME_WIN,1,0.7390,1.353,1.500,apifootball,0,10.85,1.520,2026-09-16T16:40:26Z,1.583,2026-09-19T04:40:35Z,1,STRICT +EV TREBLE #7,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1555701,2026-09-19T09:30:00Z,J3_League,Ehime FC,Kamatamare Sanuki,OVER_2_5,1,0.7200,1.389,1.700,betfair,0,22.40,1.734,2026-09-18T16:40:37Z,1.734,2026-09-19T04:40:35Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1606660,2026-09-19T10:00:00Z,J2_League,Yokohama FC,Imabari,HOME_WIN,1,0.7200,1.389,1.610,betfair,0,15.92,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1494766,2026-09-19T16:00:00Z,Eliteserien,Molde,Aalesund,OVER_2_5,1,0.7100,1.408,1.220,apifootball,0,-13.38,1.250,2026-09-16T16:40:26Z,1.259,2026-09-19T04:40:35Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1584010,2026-09-19T12:00:00Z,Germany_3_Liga,Havelse,Fortuna Köln,OVER_2_5,1,0.6910,1.447,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1494003,2026-09-19T23:00:00Z,USL_League_One,NY Cosmos,Westchester SC,OVER_2_5,1,0.6870,1.456,1.500,apifootball,0,3.05,1.564,2026-09-19T04:40:35Z,1.564,2026-09-19T04:40:35Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1576183,2026-09-19T11:00:00Z,Germany_2_Bundesliga,Holstein Kiel,VfL Osnabrück,OVER_2_5,1,0.6760,1.479,1.610,betfair,0,8.84,1.546,2026-09-16T12:41:33Z,1.546,2026-09-19T01:41:30Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1555703,2026-09-19T10:00:00Z,J3_League,Kagoshima United,Tochigi SC,HOME_WIN,1,0.6750,1.481,1.900,betfair,0,28.25,2.157,2026-09-18T16:40:37Z,1.976,2026-09-19T04:40:35Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1570393,2026-09-19T14:15:00Z,La_Liga,Athletic Club,Alaves,HOME_WIN,1,0.6750,1.481,1.650,apifootball,0,11.38,1.681,2026-09-16T16:40:26Z,1.690,2026-09-19T04:40:35Z,1,SPECULATIVE TREBLE #7,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1575507,2026-09-19T19:30:00Z,Liga_Portugal,Sporting CP,Arouca,OVER_2_5,1,0.6720,1.488,1.440,apifootball,0,-3.23,1.467,2026-09-16T21:41:12Z,1.457,2026-09-19T01:41:30Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1561668,2026-09-19T16:00:00Z,Polish_2_Liga,Lechia Zielona Góra,Znicz Pruszków,OVER_2_5,1,0.6660,1.502,1.600,apifootball,0,6.56,1.658,2026-09-17T22:42:37Z,1.691,2026-09-19T04:40:35Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1601534,2026-09-19T17:30:00Z,Serie_B_Italy,Ascoli,Avellino,HOME_WIN,1,0.6440,1.553,2.050,apifootball,0,32.02,2.176,2026-09-17T22:42:37Z,2.176,2026-09-19T01:41:30Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1569928,2026-09-19T14:15:00Z,Spanish_Segunda,FC Andorra,Sporting Gijon,HOME_WIN,1,0.6359,1.573,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1591610,2026-09-19T16:00:00Z,2_Lig_Turkey,Ankaragücü,Serik Spor,HOME_WIN,1,0.6190,1.616,1.670,apifootball,0,3.37,1.949,2026-09-18T22:41:27Z,1.812,2026-09-19T04:40:35Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1556665,2026-09-19T14:00:00Z,Scottish_Premiership,Hibernian,Aberdeen,HOME_WIN,1,0.5970,1.675,1.750,apifootball,0,4.48,1.773,2026-09-16T16:40:26Z,1.802,2026-09-19T04:40:35Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1601541,2026-09-19T15:15:00Z,Serie_B_Italy,Sampdoria,Catanzaro,HOME_WIN,1,0.5870,1.704,2.050,apifootball,0,20.34,2.174,2026-09-17T22:42:37Z,2.208,2026-09-19T04:40:35Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1574734,2026-09-19T12:45:00Z,Championnat_National,Concarneau,Caen,DRAW,1,0.4830,2.070,3.000,apifootball,0,44.90,3.361,2026-09-16T16:40:26Z,3.326,2026-09-19T01:41:30Z,1,VALUE SINGLE #1,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1557043,2026-09-19T14:00:00Z,Scottish_League_One,East Fife,Montrose,DRAW,1,0.4560,2.193,2.900,apifootball,0,32.24,3.470,2026-09-18T22:41:27Z,3.470,2026-09-19T04:40:35Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1553874,2026-09-19T17:00:00Z,Serbia_SuperLiga,OFK Beograd,Radnicki 1923,DRAW,1,0.4410,2.268,3.200,apifootball,0,41.12,3.787,2026-09-17T12:41:49Z,3.725,2026-09-19T01:41:30Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1639782,2026-09-19T21:30:00Z,Primera_Division_Uruguay,Deportivo Maldonado,Cerro Largo,DRAW,1,0.4330,2.309,3.500,apifootball,0,51.55,4.032,2026-09-18T04:42:37Z,3.995,2026-09-19T04:40:35Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1563167,2026-09-19T14:00:00Z,Championship,Birmingham,Middlesbrough,DRAW,1,0.4160,2.404,3.800,betfair,0,58.08,3.761,2026-09-16T16:40:26Z,3.780,2026-09-19T04:40:35Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1553875,2026-09-19T17:00:00Z,Serbia_SuperLiga,Radnik Surdulica,FK Partizan,DRAW,1,0.4090,2.445,3.400,apifootball,0,39.06,3.896,2026-09-17T12:41:49Z,3.927,2026-09-19T01:41:30Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1559165,2026-09-19T14:00:00Z,Belgium_Challenger_Pro,KRC Genk II,Seraing United,DRAW,1,0.4040,2.475,3.400,apifootball,0,37.36,3.994,2026-09-16T16:40:26Z,3.956,2026-09-19T04:40:35Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1550128,2026-09-19T16:00:00Z,Serie_A_Italy,AS Roma,Inter,DRAW,1,0.4030,2.481,3.300,apifootball,0,32.99,3.596,2026-09-16T16:40:26Z,3.622,2026-09-19T04:40:35Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1574732,2026-09-19T12:45:00Z,Championnat_National,Amiens,Orleans,DRAW,1,0.3840,2.604,2.900,apifootball,0,11.36,3.445,2026-09-16T16:40:26Z,3.399,2026-09-19T01:41:30Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1551343,2026-09-19T12:00:00Z,Danish_1st_Division,AB Copenhagen,Esbjerg,DRAW,1,0.3800,2.632,3.400,apifootball,0,29.20,4.228,2026-09-16T12:41:33Z,4.271,2026-09-19T01:41:30Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1563174,2026-09-19T14:00:00Z,Championship,Portsmouth,Blackburn,DRAW,1,0.3760,2.660,3.250,apifootball,0,22.20,3.708,2026-09-16T16:40:26Z,3.657,2026-09-19T04:40:35Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1492775,2026-09-19T18:45:00Z,Irish_Premier_Division,Sligo Rovers,St Patrick's Athl.,DRAW,1,0.3620,2.762,4.500,apifootball,0,62.90,5.334,2026-09-16T21:41:12Z,5.495,2026-09-19T01:41:30Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1584414,2026-09-19T14:00:00Z,Super_Lig_Turkey,Çorum FK,Alanyaspor,DRAW,1,0.3600,2.778,3.100,apifootball,0,11.60,3.644,2026-09-16T16:40:26Z,3.544,2026-09-19T04:40:35Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1510454,2026-09-19T10:00:00Z,K2_League,Seoul E-Land FC,Daegu FC,DRAW,1,0.3590,2.786,3.900,betfair,0,40.01,4.155,2026-09-16T10:27:31Z,4.156,2026-09-19T04:40:35Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1575505,2026-09-19T14:30:00Z,Liga_Portugal,Nacional,Famalicao,DRAW,1,0.3430,2.915,3.200,apifootball,0,9.76,3.502,2026-09-16T16:40:26Z,3.453,2026-09-19T04:40:35Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,leagues,1550136,2026-09-19T18:45:00Z,Serie_A_Italy,Venezia,Lazio,DRAW,1,0.3270,3.058,3.500,apifootball,0,14.45,3.856,2026-09-16T21:41:12Z,3.895,2026-09-19T01:41:30Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638684,2026-09-19T14:00:00Z,FA_Cup_England,Berkhamsted,Hendon,OVER_1_5,1,0.9500,1.053,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638690,2026-09-19T14:00:00Z,FA_Cup_England,Buxton,Ashton United,OVER_1_5,1,0.9500,1.053,1.150,apifootball,0,9.25,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638699,2026-09-19T14:00:00Z,FA_Cup_England,Frome Town,Plymouth Parkway,OVER_1_5,1,0.9500,1.053,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638710,2026-09-19T14:00:00Z,FA_Cup_England,Marine,Radcliffe,OVER_1_5,1,0.9500,1.053,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638716,2026-09-19T14:00:00Z,FA_Cup_England,Salisbury,Taunton Town,OVER_1_5,1,0.9500,1.053,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638721,2026-09-19T14:00:00Z,FA_Cup_England,South Shields,Witton Albion,OVER_1_5,1,0.9500,1.053,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638799,2026-09-19T14:00:00Z,FA_Cup_England,AFC Totton,Gloucester City,OVER_1_5,1,0.9500,1.053,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638724,2026-09-19T14:00:00Z,FA_Cup_England,Swindon Supermarine,Weymouth,OVER_1_5,1,0.9498,1.053,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638691,2026-09-19T14:00:00Z,FA_Cup_England,Chertsey Town,Greenwich Borough,OVER_1_5,1,0.9358,1.069,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638817,2026-09-19T14:00:00Z,FA_Cup_England,Weston-super-Mare,Wimborne Town,OVER_1_5,1,0.9350,1.070,1.170,apifootball,0,9.39,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638893,2026-09-19T14:00:00Z,FA_Cup_England,Thame United,Exmouth,OVER_1_5,1,0.9330,1.072,1.140,apifootball,0,6.36,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1619904,2026-09-19T13:00:00Z,Taca_de_Portugal,Castro Daire,Portimonense,OVER_2_5,1,0.9280,1.078,1.730,apifootball,0,60.54,1.949,2026-09-18T16:45:52Z,1.873,2026-09-19T01:46:13Z,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638807,2026-09-19T14:00:00Z,FA_Cup_England,Dartford,Hayes & Yeading United,OVER_1_5,1,0.9255,1.080,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638725,2026-09-19T14:00:00Z,FA_Cup_England,Tiverton Town,Sholing,OVER_1_5,1,0.9227,1.084,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638681,2026-09-19T14:00:00Z,FA_Cup_England,Anstey Nomads,Newcastle Town,OVER_1_5,1,0.9190,1.088,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638729,2026-09-19T14:00:00Z,FA_Cup_England,Walton & Hersham,Horsham,OVER_1_5,1,0.9190,1.088,1.130,apifootball,0,3.85,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638680,2026-09-19T14:00:00Z,FA_Cup_England,Alvechurch,Racing Club Warwick,OVER_1_5,1,0.9132,1.095,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638728,2026-09-19T14:00:00Z,FA_Cup_England,Waltham Abbey,Dagenham & Redbridge,OVER_1_5,1,0.9118,1.097,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638814,2026-09-19T14:00:00Z,FA_Cup_England,Pagham,Hanworth Villa,OVER_1_5,1,0.9097,1.099,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638686,2026-09-19T14:00:00Z,FA_Cup_England,Bishop's Cleeve,Tadley Calleva,OVER_1_5,1,0.9059,1.104,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638679,2026-09-19T14:00:00Z,FA_Cup_England,AFC Telford United,Worksop Town,OVER_1_5,1,0.8997,1.111,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638687,2026-09-19T14:00:00Z,FA_Cup_England,Brackley Town,AFC Portchester,OVER_1_5,1,0.8880,1.126,1.080,apifootball,0,-4.10,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638810,2026-09-19T14:00:00Z,FA_Cup_England,Hemel Hempstead Town,Wingate & Finchley,ASIAN_OVER_2_0,0,0.8860,1.129,1.230,apifootball,0,8.98,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638727,2026-09-19T14:00:00Z,FA_Cup_England,Uxbridge,Farnborough,OVER_1_5,1,0.8819,1.134,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638708,2026-09-19T14:00:00Z,FA_Cup_England,Lower Breck,Chester,OVER_1_5,1,0.8798,1.137,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638811,2026-09-19T14:00:00Z,FA_Cup_England,Hitchin Town,Leiston,OVER_1_5,1,0.8770,1.140,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638694,2026-09-19T14:00:00Z,FA_Cup_England,Dorchester Town,Oxford City,OVER_1_5,1,0.8760,1.142,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638815,2026-09-19T14:00:00Z,FA_Cup_England,Torquay,AFC Stoneham,OVER_1_5,1,0.8730,1.145,1.050,apifootball,0,-8.33,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638711,2026-09-19T14:00:00Z,FA_Cup_England,Merthyr Town,Truro City,OVER_1_5,1,0.8640,1.157,1.260,apifootball,0,8.86,,,,,1,SPECULATIVE DOUBLE #1,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638812,2026-09-19T14:00:00Z,FA_Cup_England,Kettering Town,Quorn,OVER_2_5,1,0.8640,1.157,1.530,apifootball,0,32.19,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638706,2026-09-19T14:00:00Z,FA_Cup_England,Kingstonian,Leatherhead,OVER_1_5,1,0.8637,1.158,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638709,2026-09-19T14:00:00Z,FA_Cup_England,Maidenhead,Ebbsfleet United,OVER_1_5,1,0.8612,1.161,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638688,2026-09-19T14:00:00Z,FA_Cup_England,Bromsgrove Sporting,Leek Town,OVER_1_5,1,0.8597,1.163,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638718,2026-09-19T14:00:00Z,FA_Cup_England,Slough Town,Chatham Town,OVER_1_5,1,0.8590,1.164,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638803,2026-09-19T14:00:00Z,FA_Cup_England,Cambridge City,Buckhurst Hill,HOME_WIN,1,0.8559,1.168,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638703,2026-09-19T14:00:00Z,FA_Cup_England,Harleston Town,Real Bedford,OVER_1_5,1,0.8556,1.169,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638689,2026-09-19T14:00:00Z,FA_Cup_England,Bury,Workington,ASIAN_OVER_1_75,0,0.8510,1.175,1.220,apifootball,0,3.82,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638695,2026-09-19T14:00:00Z,FA_Cup_England,Dover,Folkestone Invicta,OVER_2_5,1,0.8454,1.183,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638615,2026-09-19T17:00:00Z,Taca_de_Portugal,O Elvas,União de Leiria,ASIAN_OVER_2_0,0,0.8430,1.186,1.500,apifootball,0,26.45,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638816,2026-09-19T14:00:00Z,FA_Cup_England,Warrington Town,South Liverpool,OVER_1_5,1,0.8350,1.198,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638693,2026-09-19T14:00:00Z,FA_Cup_England,Cirencester Town,Farnham Town,OVER_1_5,1,0.8212,1.218,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638712,2026-09-19T14:00:00Z,FA_Cup_England,Morecambe,Southport,OVER_1_5,1,0.8184,1.222,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638697,2026-09-19T14:00:00Z,FA_Cup_England,Eastbourne Borough,Windsor,OVER_1_5,1,0.8183,1.222,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638715,2026-09-19T14:00:00Z,FA_Cup_England,Redditch United,Evesham United,OVER_1_5,1,0.8180,1.222,1.210,apifootball,0,-1.02,,,,,1,SPECULATIVE DOUBLE #2,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638804,2026-09-19T14:00:00Z,FA_Cup_England,Canvey Island,Chelmsford City,OVER_1_5,1,0.8136,1.229,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638696,2026-09-19T14:00:00Z,FA_Cup_England,Dunston UTS,Scarborough Athletic,OVER_1_5,1,0.8124,1.231,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638726,2026-09-19T14:00:00Z,FA_Cup_England,Tonbridge Angels,Ramsgate,OVER_1_5,1,0.8079,1.238,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638801,2026-09-19T14:00:00Z,FA_Cup_England,Barton Town Old Boys,Boldmere St. Michaels,OVER_1_5,1,0.8066,1.240,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638818,2026-09-19T14:00:00Z,FA_Cup_England,Witham Town,St Albans City,OVER_1_5,1,0.8028,1.246,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638705,2026-09-19T14:00:00Z,FA_Cup_England,Hednesford Town,Coventry United,OVER_1_5,1,0.7795,1.283,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638731,2026-09-19T14:00:00Z,FA_Cup_England,Woodford Town,Mulbarton Wanderers,OVER_1_5,1,0.7763,1.288,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638700,2026-09-19T14:00:00Z,FA_Cup_England,Gorleston,Bury Town,OVER_1_5,1,0.7720,1.295,1.120,apifootball,0,-13.54,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638682,2026-09-19T14:00:00Z,FA_Cup_England,Atherton Collieries,Prescot Cables,OVER_1_5,1,0.7650,1.307,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638704,2026-09-19T14:00:00Z,FA_Cup_England,Heaton Stannington,Trafford,OVER_1_5,1,0.7617,1.313,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638717,2026-09-19T14:00:00Z,FA_Cup_England,Slimbridge,Hungerford Town,OVER_1_5,1,0.7611,1.314,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638702,2026-09-19T14:00:00Z,FA_Cup_England,Harborough Town,Rushall Olympic,OVER_1_5,1,0.7586,1.318,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1638730,2026-09-19T14:00:00Z,FA_Cup_England,Rylands,Chorley,OVER_1_5,1,0.7510,1.332,1.230,apifootball,0,-7.63,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,cups,1637525,2026-09-19T14:00:00Z,Taca_de_Portugal,Vitória de Sernache,Varzim,OVER_2_5,1,0.6810,1.468,2.080,apifootball,0,41.65,2.226,2026-09-18T16:45:52Z,2.226,2026-09-19T04:45:17Z,1,CORE SINGLE #5,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,women,1573589,2026-09-19T14:00:00Z,Primera_Division_Femenina,Espanyol W,Madrid CFF W,UNDER_3_5,1,0.7480,1.337,1.250,apifootball,0,-6.50,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,women,1573586,2026-09-19T10:00:00Z,Primera_Division_Femenina,FC Levante Badalona W,Real Sociedad W,AWAY_WIN,1,0.7230,1.383,2.450,apifootball,0,77.13,2.828,2026-09-17T22:49:05Z,2.676,2026-09-19T04:46:23Z,1,CORE SINGLE #1,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,women,1580934,2026-09-19T19:00:00Z,Feminine_Division,Montpellier W,Marseille W,UPSET,1,0.3736,2.677,2.000,derived,1,-25.28,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,women,1495564,2026-09-19T11:00:00Z,Damallsvenskan_Sweden,Vittsjö W,Växjö W,UPSET,1,0.3200,3.125,3.600,apifootball,0,15.20,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,women,1508550,2026-09-19T22:30:00Z,USA_NWSL,North Carolina Courage W,NJ/NY Gotham FC W,UPSET,1,0.2820,3.546,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,women,1508549,2026-09-19T20:00:00Z,USA_NWSL,Orlando Pride W,Portland Thorns W,UPSET,1,0.2606,3.837,,estimate,1,,,,,,0,,v3/binary
+2026-09-19T07:48:19Z,2026-09-19,women,1495559,2026-09-19T13:00:00Z,Damallsvenskan_Sweden,Eskilstuna United W,Häcken W,UPSET,1,0.2550,3.922,10.000,apifootball,0,155.00,,,,,0,,v3/binary
