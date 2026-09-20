@@ -52,8 +52,11 @@ alone can always be assembled after the fact; a full board with scores cannot.
 
 - They are **not** a claim that the system beats the market. Judge that from `settled.csv`.
 - Odds are the best price the system saw at upload time. Some are exchange prices, before
-  commission. Some fixtures are unpriced. **Where a price came from is not published** — odds
-  feeds are licensed, so no file here names a bookmaker, an exchange or a data feed.
+  commission. **Where a price came from is not published** — odds feeds are licensed, so no file
+  here names a bookmaker, an exchange or a data feed.
+- **Some prices are estimated, not quoted** (50 of 203 legs so far, marked
+  `odds_estimated = 1`). An estimated price was inferred from the rest of the market, not taken
+  from anyone's board, so no one could have bet it. Some fixtures are unpriced entirely.
 - Two reference prices are given, and they are not interchangeable. The **panel median** is a
   cross-book median that still contains the bookmakers' margin; the **fair price** has that
   margin removed. CLV against the first reads about 7 percentage points kinder than CLV against

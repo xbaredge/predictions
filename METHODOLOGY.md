@@ -56,8 +56,15 @@ expects, use `goals.csv`.
 ## The odds
 
 `odds` is the price the run had for that leg at upload. Some are exchange prices, quoted before
-commission. `odds_estimated` marks a price that was inferred rather than quoted. Unpriced legs
-are published with blank odds; they are still predictions.
+commission.
+
+**Not every leg has a quoted price.** Where none was available the run works from an *estimated
+price* — inferred from the rest of the market rather than taken from anyone's board — and those
+rows carry `odds_estimated = 1`. 50 of the 203 legs published so far are estimated.
+An estimated price is not a price that could have been taken, so `edge_pct`, `profit_1u` and the
+CLV columns on those rows describe a price that never existed on a screen. Read them as
+indicative and judge the record on the quoted rows. Legs with no price at all are published with
+blank odds; they are still predictions.
 
 Which venue a price came from is not published. Odds feeds are licensed, and the terms covering
 redistribution and attribution are not the same everywhere, so no file here names a bookmaker,

@@ -72,11 +72,14 @@ def main():
     clvm = [num(r.get("clv_median_pct")) for r in keep
             if num(r.get("clv_median_pct")) is not None]
 
+    est = sum(1 for r in picks if r.get("odds_estimated") == "1")
     gradable = [r for r in picks if r.get("gradable", "1") == "1"]
     done = {(r["run_date"], r["fixture_id"], r["market"]) for r in settled}
     waiting = [r for r in gradable if (r["run_date"], r["fixture_id"], r["market"]) not in done]
     print(f"board:   {len(board):>6} fixtures")
-    print(f"picks:   {len(picks):>6} legs published")
+    print(f"picks:   {len(picks):>6} legs published"
+          + (f"  ({est} at an ESTIMATED price, not a quoted one — see METHODOLOGY.md)"
+             if est else ""))
     print(f"settled: {n:>6} legs" + (f"  (filtered: market={a.market or 'all'}, from={a.since or 'start'})"
                                      if a.market or a.since else ""))
     print(f"pending: {len(waiting):>6} gradable legs not yet settled"
