@@ -75,29 +75,37 @@ gap is 1.5 percentage points.
 ## Scorelines
 
 `scores.csv` holds the individual scorelines the engine records for a fixture, most likely
-first. It is a **partial** distribution: three scorelines per fixture, covering a median of 32%
-of the probability, and only about 45% of fixtures have any at all. `p_covered` gives the total
-for each fixture so the missing mass is visible. For a complete view of how many goals the model
-expects, use `goals.csv`.
+first, as `scoreline` ("1-1") and its probability `p`.
+
+It is a **thin** file, and worth being blunt about: exactly three scorelines per fixture, for
+46% of the fixtures on the board, covering a median of 30% of the probability. `p_covered` is
+the total probability of the scorelines published for that fixture, so the 70% that is missing
+is visible rather than implied — if a fixture shows `p_covered = 0.30`, the three scorelines
+account for under a third of what the model thinks can happen, and the rest is not published.
+
+For how many goals the model expects, `goals.csv` is the better file: it covers **every**
+fixture and the whole distribution.
 
 ## The odds
 
 `odds` is the price the run had for that leg at upload. Some are exchange prices, quoted before
 commission.
 
-**Not every leg has a quoted price.** Where none was available the run works from an *estimated
-price* — inferred from the rest of the market rather than taken from anyone's board — and those
-rows carry `odds_estimated = 1`. 50 of the 203 legs published so far are estimated.
-An estimated price is not a price that could have been taken, so `edge_pct`, `profit_1u` and the
-CLV columns on those rows describe a price that never existed on a screen. Read them as
+**Not every leg has a quoted price.** `odds_basis` says which kind each one is: `-` when a book
+quoted the price, `estimated` when it was inferred from the rest of the market rather than taken
+from anyone's board. 50 of the 203 legs published so far are estimated. Because `close_median`
+is published for settled legs, the estimates can be checked against what the market actually
+showed near kickoff — that comparison is the honest way to judge how good they are.
+An estimated price is not a price that could have been taken, so `edge_pct` and the CLV columns
+on those rows describe a price that never existed on a screen. Read them as
 indicative and judge the record on the quoted rows. Legs with no price at all are published with
 blank odds; they are still predictions.
 
 Which venue a price came from is not published. Odds feeds are licensed, and the terms covering
 redistribution and attribution are not the same everywhere, so no file here names a bookmaker,
 an exchange or a data feed. That limit is worth stating plainly rather than dressing up: `odds`
-is still the price actually taken at one venue, and `profit_1u`, `edge_pct` and both CLV columns
-are computed from it. What is withheld is the venue's identity, not its number.
+is still the price actually taken at one venue, and `edge_pct`, both CLV columns and any return
+computed from the grade all rest on it. What is withheld is the venue's identity, not its number.
 
 `edge_pct` is `model_p × odds − 1`. It is the system's own view, not a measured return.
 
@@ -152,9 +160,27 @@ backed by the builder but are not graded by the engine that produces these files
 published anyway — a pick that quietly never settles would be a hidden loser — and they are
 excluded from the record `tools/verify.py` reports.
 
-`result` is 1 for a winning leg and 0 for a loser. `settle_frac` is the fraction of the stake
-that settled, for markets that can settle in part. `profit_1u` is the profit on a one-unit
-stake at the published price. Grading uses final scores from the fixture feed.
+`result` is 1 for a winning leg and 0 for a loser. Grading uses final scores from the fixture
+feed.
+
+`settle_frac` is the fraction of the stake that **won**, which is the finer-grained answer:
+
+| `settle_frac` | meaning |
+|---|---|
+| 1.0 | won outright |
+| 0.75 | quarter line, half won and half refunded |
+| 0.5 | push — the stake is returned and nothing is won or lost |
+| 0.25 | quarter line, half lost and half refunded |
+| 0.0 | lost outright |
+
+On a two-way market the two columns always agree, so `settle_frac` only tells you something
+extra on a line that can refund. Every leg settled so far has been two-way, which is why the
+column has only ever held 0 or 1.
+
+**No money column is published.** The net return on a one unit stake follows from the three
+columns above — with `m = 2 × settle_frac − 1`, it is `m × (odds − 1)` when `m` is positive and
+`m` when it is negative — so publishing it would only add somewhere for the arithmetic to be
+wrong. It was: see the 2026-09-21 entry in `ERRATA.md`. `tools/verify.py` computes it.
 
 ## Limits worth stating
 
@@ -162,4 +188,5 @@ stake at the published price. Grading uses final scores from the fixture feed.
   been small.
 - The fixtures covered are those the model has trained leagues for; the board is not every
   match played that day.
-- A sample of bets is small for a long time. Short-run profit or loss here is mostly variance.
+- A sample this size says almost nothing. A short-run result here is mostly variance, and the
+  settled count is in the dozens, not the thousands.

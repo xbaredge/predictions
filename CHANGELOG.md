@@ -3,6 +3,22 @@
 Model and format changes, newest first. Published rows are never rewritten, so this file is how
 a change in meaning is announced.
 
+## 2026-09-21 — plainer columns, and no money column
+
+Columns that repeated another column, or that invited a wrong reading, are gone. Files opened
+before today keep their original header; these apply to `2026/W39` onward.
+
+- **`profit_1u` removed** from `settled.csv`. It was wrong on every loss — see `ERRATA.md` —
+  and it was derivable anyway. `tools/verify.py` computes the net return from the grade.
+- **`home_goals` / `away_goals` removed** from `results.csv` and `scores.csv`. `score` and
+  `scoreline` already hold the same two numbers; they matched on 85 of 85 published rows.
+- **`odds_estimated` (0/1) replaced by `odds_basis`**, which reads `-` when a book quoted the
+  price and `estimated` when it was inferred from the rest of the market. The estimates can be
+  checked against `close_median` in `settled.csv`.
+- **`in_slate` removed** from `picks.csv`. It was 1 exactly when the combinations list was
+  non-empty on all 203 published rows.
+- **`coupons` renamed `combinations`** — it lists the multi-leg combinations a leg appears in.
+
 ## 2026-09-20 — predictions are committed before kickoff, released after
 
 From this date the day's predictions are no longer published on the morning they are made.

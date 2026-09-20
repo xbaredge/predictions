@@ -96,6 +96,26 @@ def num(v):
         return None
 
 
+def net_return(odds, frac):
+    """Net return on a one-unit stake, from the settlement fraction.
+
+    `settle_frac` is the fraction WON: 1.0 clean win, 0.75 quarter-line half-win, 0.5 push
+    (stake refunded), 0.25 quarter half-loss, 0.0 loss. With m = 2*frac - 1 (so +1 win, 0 push,
+    -1 loss), the winning part is paid at the price and the losing part costs its stake:
+
+        m >= 0  ->  m * (odds - 1)
+        m <  0  ->  m
+
+    This is computed here rather than read from the files on purpose. Settled rows published
+    before 2026-09-21 carry a `profit_1u` column that booked every loss as zero; see ERRATA.md.
+    Recomputing from `odds`, `result` and `settle_frac` gives the right answer for every row,
+    old or new, and needs nothing stored."""
+    if odds is None or frac is None:
+        return None
+    m = 2.0 * frac - 1.0
+    return m * (odds - 1.0) if m >= 0 else m
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--repo", default=os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -137,13 +157,22 @@ def main():
             if (not a.market or r["market"] == a.market) and r["kickoff_utc"] >= a.since]
     n = len(keep)
     wins = sum(1 for r in keep if r["result"] == "1")
-    staked = sum(num(r["settle_frac"]) or 1 for r in keep if num(r["odds"]))
-    pnl = sum(num(r["profit_1u"]) or 0 for r in keep if num(r["odds"]))
+    # One unit per settled leg, and the return recomputed from the grade — never read from a
+    # stored money column. `settle_frac` defaults to 1 only when it is absent, not when it is 0:
+    # 0 means the leg LOST, and treating that as missing is how the old bug read.
+    priced = [r for r in keep if num(r["odds"]) is not None]
+    def frac_of(r):
+        f = num(r.get("settle_frac"))
+        return f if f is not None else (1.0 if r["result"] == "1" else 0.0)
+    staked = float(len(priced))
+    pnl = sum(net_return(num(r["odds"]), frac_of(r)) or 0.0 for r in priced)
     clvs = [num(r["clv_pct"]) for r in keep if num(r["clv_pct"]) is not None]
     clvm = [num(r.get("clv_median_pct")) for r in keep
             if num(r.get("clv_median_pct")) is not None]
 
-    est = sum(1 for r in picks if r.get("odds_estimated") == "1")
+    # `odds_basis` since 2026-09-21; `odds_estimated` was the 0/1 flag before it.
+    est = sum(1 for r in picks
+              if r.get("odds_basis") == "estimated" or r.get("odds_estimated") == "1")
     gradable = [r for r in picks if r.get("gradable", "1") == "1"]
     done = {(r["run_date"], r["fixture_id"], r["market"]) for r in settled}
     waiting = [r for r in gradable if (r["run_date"], r["fixture_id"], r["market"]) not in done]
@@ -171,7 +200,8 @@ def main():
     if n:
         print(f"\nhit rate:  {wins}/{n} = {wins / n * 100:.1f}%")
         if staked:
-            print(f"P&L:       {pnl:+.2f} units on {staked:.2f} staked  →  {pnl / staked * 100:+.2f}%")
+            print(f"net:       {pnl:+.2f} units on {staked:.0f} settled legs, one unit each"
+                  f"  →  {pnl / staked * 100:+.2f}%")
         if clvs:
             print(f"CLV fair:  mean {sum(clvs) / len(clvs):+.2f}% over {len(clvs)} legs "
                   f"({sum(1 for c in clvs if c > 0) / len(clvs) * 100:.1f}% positive)")
@@ -188,13 +218,13 @@ def main():
             b = by[r["market"]]
             b[0] += 1
             b[1] += r["result"] == "1"
-            b[2] += num(r["profit_1u"]) or 0
-        print("\n  market            n   won      P&L")
+            b[2] += net_return(num(r["odds"]), frac_of(r)) or 0.0
+        print("\n  market            n   won      net")
         for m, (c, w, p) in sorted(by.items(), key=lambda kv: -kv[1][0]):
             print(f"  {m:<16} {c:>3} {w:>5} {p:>+8.2f}")
-        print("\nA few hundred bets is a small sample: short-run profit or loss is mostly "
-              "variance.\nOdds are the price seen at upload; exchange prices exclude "
-              "commission.")
+        print("\nA few dozen settled legs is a very small sample: a short-run result is "
+              "mostly variance.\nOdds are the price seen at upload; exchange prices exclude "
+              "commission. Estimated\nprices were never quoted by anyone — see METHODOLOGY.md.")
     if problems:
         print(f"\n❌ {len(problems)} problem(s):")
         for p in problems[:20]:

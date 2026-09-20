@@ -36,7 +36,7 @@ One folder per ISO week. Each upload appends; a published line never changes.
 
 ```bash
 git clone https://github.com/xbaredge/predictions.git && cd predictions
-python3 tools/verify.py            # checks every commitment, then hit rate, P&L, CLV
+python3 tools/verify.py            # checks every commitment, then hit rate, net return, CLV
 ```
 
 The commitment check is the important one. For every released day it rebuilds the exact bytes
@@ -66,9 +66,11 @@ alone can always be assembled after the fact; a full board with scores cannot.
 - Odds are the best price the system saw at upload time. Some are exchange prices, before
   commission. **Where a price came from is not published** — odds feeds are licensed, so no file
   here names a bookmaker, an exchange or a data feed.
-- **Some prices are estimated, not quoted** (50 of 203 legs so far, marked
-  `odds_estimated = 1`). An estimated price was inferred from the rest of the market, not taken
-  from anyone's board, so no one could have bet it. Some fixtures are unpriced entirely.
+- **Some prices are estimated, not quoted** (50 of 203 legs so far, where `odds_basis` reads
+  `estimated` rather than `-`). An estimated price was inferred from the rest of the market, not
+  taken from anyone's board, so no one could have bet it. Some fixtures are unpriced entirely.
+- **No money column is published.** The net return follows from the odds and the grade;
+  `tools/verify.py` computes it. A stored one was wrong once — see `ERRATA.md`.
 - Two reference prices are given, and they are not interchangeable. The **panel median** is a
   cross-book median that still contains the bookmakers' margin; the **fair price** has that
   margin removed. CLV against the first reads about 7 percentage points kinder than CLV against
