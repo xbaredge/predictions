@@ -83,8 +83,18 @@ the total probability of the scorelines published for that fixture, so the 70% t
 is visible rather than implied — if a fixture shows `p_covered = 0.30`, the three scorelines
 account for under a third of what the model thinks can happen, and the rest is not published.
 
-For how many goals the model expects, `goals.csv` is the better file: it covers **every**
-fixture and the whole distribution.
+`goals.csv` does not replace it. That file gives a distribution over the **total** number of
+goals; this one gives exact scorelines, which carry the home-away split a total cannot. Use
+`goals.csv` for how many goals, this for how they land.
+
+**It can be graded, and that is the point of publishing it.** `results.csv` gives the final
+score of every fixture on the board, so a reader can join on `fixture_id` and ask how often the
+actual score was among the scorelines published before kickoff — and compare that against
+`p_covered`, which is what the model claimed the chance of exactly that was. A model whose hit
+rate tracks its own `p_covered` is calibrated on scorelines; one that drifts above or below it
+is not. Worth doing honestly: on the 41 fixtures settled so far the two are within a few points
+of each other, but 41 is far too small a sample to separate that from a fixed guess of the three
+most common scorelines. Ask again after a few months.
 
 ## The odds
 
