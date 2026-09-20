@@ -69,6 +69,8 @@ def main():
     staked = sum(num(r["settle_frac"]) or 1 for r in keep if num(r["odds"]))
     pnl = sum(num(r["profit_1u"]) or 0 for r in keep if num(r["odds"]))
     clvs = [num(r["clv_pct"]) for r in keep if num(r["clv_pct"]) is not None]
+    clvm = [num(r.get("clv_median_pct")) for r in keep
+            if num(r.get("clv_median_pct")) is not None]
 
     gradable = [r for r in picks if r.get("gradable", "1") == "1"]
     done = {(r["run_date"], r["fixture_id"], r["market"]) for r in settled}
@@ -84,8 +86,16 @@ def main():
         if staked:
             print(f"P&L:       {pnl:+.2f} units on {staked:.2f} staked  →  {pnl / staked * 100:+.2f}%")
         if clvs:
-            print(f"CLV:       mean {sum(clvs) / len(clvs):+.2f}% over {len(clvs)} legs "
+            print(f"CLV fair:  mean {sum(clvs) / len(clvs):+.2f}% over {len(clvs)} legs "
                   f"({sum(1 for c in clvs if c > 0) / len(clvs) * 100:.1f}% positive)")
+        if clvm:
+            print(f"CLV panel: mean {sum(clvm) / len(clvm):+.2f}% over {len(clvm)} legs "
+                  f"({sum(1 for c in clvm if c > 0) / len(clvm) * 100:.1f}% positive)")
+        if clvs and clvm:
+            print("  Judge on CLV fair — margin is removed from both sides. CLV panel compares\n"
+                  "  the taken price with a median that still carries the books' margin, so it\n"
+                  "  reads positive whether or not the prediction was any good. See "
+                  "METHODOLOGY.md.")
         by = defaultdict(lambda: [0, 0, 0.0])
         for r in keep:
             b = by[r["market"]]
@@ -96,8 +106,8 @@ def main():
         for m, (c, w, p) in sorted(by.items(), key=lambda kv: -kv[1][0]):
             print(f"  {m:<16} {c:>3} {w:>5} {p:>+8.2f}")
         print("\nA few hundred bets is a small sample: short-run profit or loss is mostly "
-              "variance.\nOdds are the price seen at upload; "
-              "exchange prices exclude commission.")
+              "variance.\nOdds are the price seen at upload; exchange prices exclude "
+              "commission.")
     if problems:
         print(f"\n❌ {len(problems)} problem(s):")
         for p in problems[:20]:

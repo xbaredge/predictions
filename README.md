@@ -15,9 +15,9 @@ the fixtures start, and each commit is anchored with [OpenTimestamps](https://op
 2026/W38/board.csv     every fixture the model looked at, with its probability for each market
 2026/W38/goals.csv     the total-goals distribution implied by those probabilities
 2026/W38/scores.csv    the most likely scorelines, as far as the engine records them
-2026/W38/picks.csv     the legs the system backed, with the odds and fair price at upload
+2026/W38/picks.csv     the legs the system backed, with the odds taken and two reference prices
 2026/W38/results.csv   the final score of every fixture on the board, added after the match
-2026/W38/settled.csv   backed legs graded, with the fair price near kickoff and CLV
+2026/W38/settled.csv   backed legs graded, with the reference prices near kickoff and CLV
 stamps/                timestamp proofs, one per upload
 tools/verify.py        recomputes the record from the files in this repo alone
 ```
@@ -52,10 +52,12 @@ alone can always be assembled after the fact; a full board with scores cannot.
 
 - They are **not** a claim that the system beats the market. Judge that from `settled.csv`.
 - Odds are the best price the system saw at upload time. Some are exchange prices, before
-  commission. Some fixtures are unpriced. Where a price came from is not published — odds feeds
-  are licensed, so no file here names a bookmaker, an exchange or a data feed.
-- Fair prices come from a single sharp reference book, with the bookmaker margin removed. See `METHODOLOGY.md` for what
-  "first seen" and "last seen" mean, and what they do not.
+  commission. Some fixtures are unpriced. **Where a price came from is not published** — odds
+  feeds are licensed, so no file here names a bookmaker, an exchange or a data feed.
+- Two reference prices are given, and they are not interchangeable. The **panel median** is a
+  cross-book median that still contains the bookmakers' margin; the **fair price** has that
+  margin removed. CLV against the first reads about 7 percentage points kinder than CLV against
+  the second. `METHODOLOGY.md` gives both, and says which one to judge on.
 - Nothing here is betting advice.
 
 See `METHODOLOGY.md` for definitions, `CHANGELOG.md` for model changes, `ERRATA.md` for

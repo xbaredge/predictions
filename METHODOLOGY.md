@@ -55,30 +55,61 @@ expects, use `goals.csv`.
 
 ## The odds
 
-`odds` is the price the run had for that leg at upload. Some are exchange prices, quoted
-before commission. `odds_estimated` marks a price that was inferred rather than quoted. Where a
-price came from is not published: odds feeds are licensed, so no file here names a bookmaker, an
-exchange or a data feed. Unpriced legs are published with blank odds; they are still
-predictions.
+`odds` is the price the run had for that leg at upload. Some are exchange prices, quoted before
+commission. `odds_estimated` marks a price that was inferred rather than quoted. Unpriced legs
+are published with blank odds; they are still predictions.
+
+Which venue a price came from is not published. Odds feeds are licensed, and the terms covering
+redistribution and attribution are not the same everywhere, so no file here names a bookmaker,
+an exchange or a data feed. That limit is worth stating plainly rather than dressing up: `odds`
+is still the price actually taken at one venue, and `profit_1u`, `edge_pct` and both CLV columns
+are computed from it. What is withheld is the venue's identity, not its number.
 
 `edge_pct` is `model_p × odds − 1`. It is the system's own view, not a measured return.
 
-## Fair prices
+## The reference line
 
-Bookmaker odds include a margin. To compare like with like, a single sharp reference book's
-quotes are de-vigged with Shin's method over the complete market group (the three match-result prices together, or
-an over/under pair). The result is a fair price: the odds implied with the margin removed.
+Each leg carries two reference prices, on two different bases. They are not interchangeable,
+and the gap between them is wider than anything either one measures.
 
-- **`fair_open`** — the earliest capture we hold, up to about 72 hours before kickoff.
-  This is *the first price we saw*, not the bookmaker's opening price.
-- **`fair_at_publish`** — the last capture before upload.
-- **`fair_close`** — the last capture before kickoff. Prices are captured on a schedule, so
-  this can be hours old at kickoff. It is *not* a closing price.
+**The panel median.** `open_median` is the median quote across every book holding that line at
+the earliest capture taken, and `close_median` is the same median at the last capture before
+kickoff. `open_books` and `close_books` give how many books stood behind each. This is a
+derived statistic rather than any one house's price — and below three books it would be one or
+two quotes wearing an average's clothes, so there the price is withheld and only the depth is
+published. The panel mixes bookmaker and exchange quotes; the exchange moves the median by
++0.098% on average and 0.000% at the median, so it is left in rather than curated out.
 
-`clv_pct` in `settled.csv` is `odds ÷ fair_close − 1`: how the taken price compares with the
-fair price nearest kickoff. Where that book carries only one side of a market (both teams
-to score, over 1.5, goal bands), no complete book exists, so the fair columns are blank rather
-than guessed.
+**The fair price.** `fair_open`, `fair_at_publish` and `fair_close` take a single sharp
+reference book and remove its margin, de-vigging with Shin's method over a complete market
+group — the three match-result prices together, or an over/under pair. An incomplete book has
+no defined overround to remove, so where that book carries only one side of a market (over 1.5,
+both teams to score, the goal bands) these columns are blank rather than guessed. That is why
+they are sparser than the panel columns: 59 of 203 legs in W38, against 95.
+
+Prices are captured on a schedule, so `close_median` and `fair_close` can be hours old at
+kickoff. Neither is a closing price. Equally, `open_median` and `fair_open` are the first
+capture *taken*, not a bookmaker's opening price — and neither is ever read from a capture
+later than the row's own `published_utc`. A price ledger keeps growing, so "the first capture we
+hold" would otherwise drift: for one W38 leg the only capture ever taken landed 53 minutes
+after publication, and reading that as the leg's opening price would import hindsight into a
+file whose entire point is that none was available.
+
+## Closing-line value
+
+`settled.csv` carries CLV on both bases:
+
+- **`clv_pct`** = `odds ÷ fair_close − 1`. Margin removed from both sides. This is the one to
+  judge the system on.
+- **`clv_median_pct`** = `odds ÷ close_median − 1`. The panel median still carries the books'
+  margin, so clearing it is largely expected: taking the best available price against a vigged
+  consensus scores positive whether or not the prediction was any good.
+
+On the 16 W38 legs where both are defined, `clv_median_pct` averages **+4.71%** while `clv_pct`
+averages **−2.27%** — seven percentage points apart, and essentially all of it margin. The
+better-covered number is the flattering one. Quoting it as evidence of an edge would be wrong.
+It is published anyway, because withholding it while publishing `close_median` would leave the
+same mistake one subtraction away.
 
 ## Results
 
