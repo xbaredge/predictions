@@ -3,6 +3,26 @@
 Model and format changes, newest first. Published rows are never rewritten, so this file is how
 a change in meaning is announced.
 
+## 2026-09-20 — predictions are committed before kickoff, released after
+
+From this date the day's predictions are no longer published on the morning they are made.
+Instead `commitments/<date>.<batch>.sha256` is published before the fixtures it covers kick
+off, holding the SHA-256 and row count of each of the four prediction files. The rows follow
+once every fixture on that day's board is final, normally on the next morning's run. A date can
+carry several batches, because the engine runs again as fixtures are added; a published hash is
+never restated, so each later run commits only what the earlier ones did not.
+
+A hash cannot be reversed and cannot be made to match different content, so this fixes exactly
+what was predicted without revealing it while the matches are still to be played. It makes the
+timing claim stronger rather than weaker: previously the commit timestamp was the only witness,
+and now an anchored hash pins the exact bytes.
+
+- `tools/verify.py` checks every commitment against the released rows and reports each run date
+  as `released` or `embargoed`. A `MISMATCH` is a hard failure.
+- `results.csv` and `settled.csv` are not embargoed — they describe matches already over.
+- 2026-09-18 and 2026-09-19 were published in full on the day, under the previous scheme, and
+  carry no commitment.
+
 ## 2026-09-20 — data sources withheld; a second reference price added
 
 **This release rewrote published history.** Every commit was rebuilt to drop `odds_source`, the

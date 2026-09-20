@@ -3,8 +3,28 @@
 ## What gets published, and when
 
 A run of the live engine rates every fixture kicking off that day, writes its probabilities,
-then a builder selects which legs to back. The upload happens at the end of that run, typically
-07:00 UTC, and publishes:
+then a builder selects which legs to back. That run finishes around 07:00 UTC, before the day's
+fixtures start.
+
+**Predictions are committed before kickoff and released after the matches.** At the end of the
+run only one thing is published: `commitments/<date>.<batch>.sha256`, holding the SHA-256 of
+each of the four prediction files, with its row count. The rows themselves are held back until
+every fixture on that day's board is final, and released on the next run.
+
+The engine runs more than once on some days, as fixtures are added. A published hash is never
+restated, so a later run writes the *next* batch, covering only the rows the earlier batches did
+not. Batches for one date are released together, in order, and cover consecutive rows.
+
+This is not a delay dressed up as a proof. A cryptographic hash reveals nothing about its input
+and cannot be recomputed to match different content, so the commitment fixes exactly what was
+predicted while giving none of it away. When the rows arrive, `tools/verify.py` reconstructs the
+bytes the hash covered — the rows for that run date, in file order, with the same columns — and
+compares. If they had been edited, added to or trimmed, the hash would not match.
+
+The commitment is anchored in `stamps/` like everything else, so the timing does not rest on
+GitHub's word or ours.
+
+The four embargoed files, released together once the day is played:
 
 - **`board.csv`** — one row per fixture, with the probability for each core market.
 - **`picks.csv`** — one row per backed leg.
@@ -15,8 +35,15 @@ then a builder selects which legs to back. The upload happens at the end of that
   reader; nothing about which legs were backed enters it.
 - **`settled.csv`** — the backed legs graded, appended at the same time.
 
-Every row carries `published_utc` and `kickoff_utc`. A fixture that has already kicked off is
-never published: `tools/verify.py` checks this for every row.
+`results.csv` and `settled.csv` describe matches that are already over, so they are not
+embargoed and are appended as soon as grading lands.
+
+Every row carries `published_utc` — the moment the prediction was made and committed, not the
+moment it was released — and `kickoff_utc`. `published_utc` always precedes `kickoff_utc`, and
+`tools/verify.py` checks it for every row.
+
+Predictions for 2026-09-18 and 2026-09-19 were published in full on the day, before this scheme
+began, so they carry no commitment. Everything from 2026-09-20 onward does.
 
 ## The probability
 

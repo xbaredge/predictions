@@ -1,17 +1,25 @@
 # X̄BAR EDGE — public prediction ledger
 
-Every football prediction this system makes, published **before kickoff**, with the price that
-was available at the time. Results are added afterwards. Nothing already published is ever
-edited.
+Every football prediction this system makes, recorded **before kickoff** and published once the
+matches are over, with the price that was available at the time. Nothing already published is
+ever edited.
 
-The point is timing. A prediction is only worth anything if it was recorded before the match,
-so each upload is committed to this repository minutes after the model runs and hours before
-the fixtures start, and each commit is anchored with [OpenTimestamps](https://opentimestamps.org)
-(`stamps/`), which proves the content existed at that time independently of GitHub and of us.
+The point is timing. A prediction is only worth anything if it was fixed before the match — so
+on the morning of each matchday, before any fixture starts, this repository receives the
+**SHA-256 of that day's predictions** (`commitments/`). The predictions themselves follow once
+the day's fixtures are final. A hash cannot be reversed, so the commitment gives nothing away
+while the matches are still to be played, and it cannot be altered afterwards without every
+reader noticing.
+
+Each commitment is anchored with [OpenTimestamps](https://opentimestamps.org) (`stamps/`),
+which proves the content existed at that time independently of GitHub and of us. When the rows
+are released, `tools/verify.py` re-derives the hash from them and checks it against the
+commitment published before kickoff.
 
 ## What is here
 
 ```
+commitments/           the SHA-256 of each day's predictions, published before kickoff
 2026/W38/board.csv     every fixture the model looked at, with its probability for each market
 2026/W38/goals.csv     the total-goals distribution implied by those probabilities
 2026/W38/scores.csv    the most likely scorelines, as far as the engine records them
@@ -28,8 +36,12 @@ One folder per ISO week. Each upload appends; a published line never changes.
 
 ```bash
 git clone https://github.com/xbaredge/predictions.git && cd predictions
-python3 tools/verify.py            # every pick pre-dates its kickoff; hit rate, P&L, CLV
+python3 tools/verify.py            # checks every commitment, then hit rate, P&L, CLV
 ```
+
+The commitment check is the important one. For every released day it rebuilds the exact bytes
+covered by the hash and compares, so `released` on a line means those predictions provably
+existed, unchanged, before a ball was kicked.
 
 Check that nothing was rewritten:
 ```bash

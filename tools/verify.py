@@ -13,7 +13,7 @@ Whether the timestamps are honest is a separate question, and not one this scrip
 check the commit dates with `git log`, and the OpenTimestamps proofs in stamps/ with
 `ots verify`. This script only shows that the files are internally consistent.
 """
-import argparse, csv, glob, os, sys
+import argparse, csv, glob, hashlib, io, os, sys
 from collections import defaultdict
 
 
@@ -23,6 +23,70 @@ def rows(repo, name):
             for r in csv.DictReader(f):
                 r["_file"] = os.path.relpath(path, repo)
                 yield r
+
+
+def commitments(repo):
+    """Check every released prediction against the hash published before its kickoff.
+
+    Each `commitments/<date>.<batch>.sha256` was published on the morning of <date>, before the
+    fixtures it covers kicked off, and anchored in `stamps/`. The rows are released after the
+    day is played. A date can have several batches because the engine runs more than once a
+    day; they are released in order and cover consecutive rows.
+
+    This rebuilds the exact bytes each commitment covered - that batch's slice of the rows for
+    that run date, in file order, written back with the same header and columns - and compares.
+    A `released` line means those predictions provably existed, unchanged, before kickoff."""
+    out, mans = [], {}
+    for man in glob.glob(os.path.join(repo, "commitments", "*.sha256")):
+        base = os.path.basename(man)[:-len(".sha256")]
+        date, _, b = base.rpartition(".")
+        if not date:
+            date, b = base, "1"
+        mans.setdefault(date, []).append((int(b) if b.isdigit() else 1, man))
+    for date in sorted(mans):
+        pub, pos = {}, {}
+        for name in ("board", "picks", "goals", "scores"):
+            sel, cols = [], None
+            for p in sorted(glob.glob(os.path.join(repo, "[0-9]" * 4, "W[0-9][0-9]",
+                                                  name + ".csv"))):
+                with open(p, newline="") as f:
+                    rd = csv.DictReader(f)
+                    hit = [r for r in rd if r["run_date"] == date]
+                    fields = rd.fieldnames
+                # Keep the header even when this date has no rows here: a batch can legitimately
+                # commit ZERO rows for a file (a board with no backed legs), and its slice is
+                # then the header alone. Without this the empty slice can never be rebuilt and
+                # the date would sit as "embargoed" for ever.
+                if cols is None:
+                    cols = fields
+                if hit:
+                    sel, cols = hit, fields
+                    break
+            pub[name], pos[name] = (sel, cols), 0
+        for b, man in sorted(mans[date]):
+            for line in open(man):
+                if line.startswith("#") or not line.strip():
+                    continue
+                want, name, n = line.split()
+                n = int(n)
+                sel, cols = pub.get(name, ([], None))
+                if cols is None:      # nothing of this file published yet — still embargoed
+                    out.append((date, b, name, "embargoed", n, 0))
+                    continue
+                take = sel[pos[name]:pos[name] + n]
+                if len(take) < n:
+                    out.append((date, b, name, "embargoed", n, len(take)))
+                    continue
+                pos[name] += n
+                buf = io.StringIO()
+                w = csv.DictWriter(buf, fieldnames=cols, lineterminator="\n")
+                w.writeheader()
+                for r in take:
+                    w.writerow(r)
+                got = hashlib.sha256(buf.getvalue().encode()).hexdigest()
+                out.append((date, b, name, "released" if got == want else "MISMATCH",
+                            n, len(take)))
+    return out
 
 
 def num(v):
@@ -56,6 +120,13 @@ def main():
             if k in seen:
                 problems.append(f"duplicate {label} row: {k}")
             seen.add(k)
+    commits = commitments(a.repo)
+    for date, b, name, state, n_want, n_got in commits:
+        if state == "MISMATCH":
+            problems.append(f"commitment broken: {date} batch {b} / {name} — the {n_got} "
+                            f"released rows do not hash to the commitment published before "
+                            f"kickoff ({n_want} rows)")
+
     published = {(r["run_date"], r["fixture_id"], r["market"]): r for r in picks}
     for r in settled:
         k = (r["run_date"], r["fixture_id"], r["market"])
@@ -84,6 +155,19 @@ def main():
                                      if a.market or a.since else ""))
     print(f"pending: {len(waiting):>6} gradable legs not yet settled"
           f"  ({len(picks) - len(gradable)} legs are marked not gradable — see METHODOLOGY.md)")
+    if commits:
+        rel = sum(1 for c in commits if c[3] == "released")
+        emb = sum(1 for c in commits if c[3] == "embargoed")
+        dates = sorted({c[0] for c in commits})
+        print(f"\ncommitments: {len(dates)} run date(s); {rel} file(s) released and matching "
+              f"their pre-kickoff hash, {emb} still embargoed")
+        for d in dates:
+            states = [c[3] for c in commits if c[0] == d]
+            nb = len({c[1] for c in commits if c[0] == d})
+            mark = ("MISMATCH" if "MISMATCH" in states
+                    else "embargoed" if "embargoed" in states else "released")
+            n_picks = sum(c[4] for c in commits if c[0] == d and c[2] == "picks")
+            print(f"  {d}  {mark:<10} {nb} batch(es), {n_picks} picks")
     if n:
         print(f"\nhit rate:  {wins}/{n} = {wins / n * 100:.1f}%")
         if staked:
