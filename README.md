@@ -16,6 +16,19 @@ which proves the content existed at that time independently of GitHub and of us.
 are released, `tools/verify.py` re-derives the hash from them and checks it against the
 commitment published before kickoff.
 
+An anchor takes two steps and about a day. A stamp is created the moment its files are
+published, but it starts as a *pending* attestation — a receipt from the timestamp calendars —
+and only becomes a Bitcoin block header once the calendars' transaction confirms. The next
+day's upload completes it. So the newest file in `stamps/` will read as pending for roughly
+24 hours; every older one carries a block height you can check against the chain yourself:
+
+```bash
+ots info stamps/2026/2026-09-21T070307Z.sha256.ots   # BitcoinBlockHeaderAttestation(967964)
+```
+
+Full `ots verify` compares that block header against Bitcoin itself, so it needs a local node
+or a block explorer — `ots info` alone shows you which block the proof names.
+
 ## What is here
 
 ```
