@@ -5,3 +5,52 @@ settled_utc,run_date,comp,fixture_id,kickoff_utc,league,home,away,score
 2026-09-22T07:15:52Z,2026-09-21,leagues,1551345,2026-09-21T17:00:00Z,Danish_1st_Division,HB Koge,Hobro,5-2
 2026-09-22T07:15:52Z,2026-09-21,leagues,1565259,2026-09-21T15:00:00Z,Romania_Liga1,Oţelul,Corvinul Hunedoara,2-3
 2026-09-22T07:15:52Z,2026-09-21,leagues,1565260,2026-09-21T18:00:00Z,Romania_Liga1,Petrolul Ploiesti,Csikszereda,2-0
+2026-09-23T07:07:06Z,2026-09-21,leagues,1520882,2026-09-21T22:30:00Z,Serie_B_Brazil,Criciuma,Operario-PR,0-2
+2026-09-23T07:07:06Z,2026-09-22,leagues,1549790,2026-09-22T23:00:00Z,Colombia_PrimeraA,Independiente Medellin,Jaguares,2-1
+2026-09-23T07:07:06Z,2026-09-22,cups,1588816,2026-09-22T18:00:00Z,EFL_Trophy_England,Accrington ST,Sunderland U21,3-3
+2026-09-23T07:07:06Z,2026-09-22,cups,1638266,2026-09-22T18:00:00Z,KNVB_Beker_Netherlands,ACV,Hoogeveen,2-1
+2026-09-23T07:07:06Z,2026-09-22,cups,1588853,2026-09-22T18:00:00Z,EFL_Trophy_England,Barnsley,Leeds United U21,3-4
+2026-09-23T07:07:06Z,2026-09-22,cups,1588829,2026-09-22T18:30:00Z,EFL_Trophy_England,Bradford,Newcastle United U21,2-1
+2026-09-23T07:07:06Z,2026-09-22,cups,1640757,2026-09-22T18:45:00Z,FA_Cup_England,Braintree,Needham Market,3-0
+2026-09-23T07:07:06Z,2026-09-22,cups,1588847,2026-09-22T18:00:00Z,EFL_Trophy_England,Burton Albion,Nottingham Forest U21,1-1
+2026-09-23T07:07:06Z,2026-09-22,cups,1588865,2026-09-22T18:00:00Z,EFL_Trophy_England,Cheltenham,Exeter City,2-2
+2026-09-23T07:07:06Z,2026-09-22,cups,1588834,2026-09-22T18:00:00Z,EFL_Trophy_England,Chesterfield,Port Vale,1-1
+2026-09-23T07:07:06Z,2026-09-22,cups,1640667,2026-09-22T18:45:00Z,FA_Cup_England,Chippenham Town,Yate Town,1-1
+2026-09-23T07:07:06Z,2026-09-22,cups,1588824,2026-09-22T18:00:00Z,EFL_Trophy_England,Crewe,Aston Villa U21,4-1
+2026-09-23T07:07:06Z,2026-09-22,cups,1640758,2026-09-22T18:45:00Z,FA_Cup_England,Crowborough Athletic,Hampton & Richmond,3-1
+2026-09-23T07:07:06Z,2026-09-22,cups,1640759,2026-09-22T18:45:00Z,FA_Cup_England,Dagenham & Redbridge,Waltham Abbey,3-0
+2026-09-23T07:07:06Z,2026-09-22,cups,1641074,2026-09-22T18:45:00Z,FA_Cup_England,Dorking Wanderers,Southall,3-3
+2026-09-23T07:07:06Z,2026-09-22,cups,1638268,2026-09-22T18:00:00Z,KNVB_Beker_Netherlands,EVV,Halsteren,3-1
+2026-09-23T07:07:06Z,2026-09-22,cups,1640761,2026-09-22T18:45:00Z,FA_Cup_England,Farnborough,Uxbridge,0-2
+2026-09-23T07:07:06Z,2026-09-22,cups,1640762,2026-09-22T18:45:00Z,FA_Cup_England,Farnham Town,Cirencester Town,1-2
+2026-09-23T07:07:06Z,2026-09-22,cups,1640763,2026-09-22T18:45:00Z,FA_Cup_England,Gainsborough Trinity,Leamington,3-0
+2026-09-23T07:07:06Z,2026-09-22,cups,1588899,2026-09-22T18:00:00Z,EFL_Trophy_England,Gillingham,Cambridge United,1-4
+2026-09-23T07:07:06Z,2026-09-22,cups,1638270,2026-09-22T18:00:00Z,KNVB_Beker_Netherlands,Groene Ster,AFC Amsterdam,1-6
+2026-09-23T07:07:06Z,2026-09-22,cups,1638272,2026-09-22T18:00:00Z,KNVB_Beker_Netherlands,GVVV Veenendaal,DVS 33 Ermelo,4-0
+2026-09-23T07:07:06Z,2026-09-22,cups,1638273,2026-09-22T18:00:00Z,KNVB_Beker_Netherlands,HHC,Barendrecht,0-1
+2026-09-23T07:07:06Z,2026-09-22,cups,1638276,2026-09-22T18:00:00Z,KNVB_Beker_Netherlands,Kloetinge,Achilles Veen,8-0
+2026-09-23T07:07:06Z,2026-09-22,cups,1638274,2026-09-22T18:00:00Z,KNVB_Beker_Netherlands,Koninklijke HFC,Dovo,1-1
+2026-09-23T07:07:06Z,2026-09-22,cups,1640764,2026-09-22T18:45:00Z,FA_Cup_England,Maidstone Utd,Cray Wanderers,0-2
+2026-09-23T07:07:06Z,2026-09-22,cups,1588908,2026-09-22T18:00:00Z,EFL_Trophy_England,Milton Keynes Dons,Crawley Town,4-1
+2026-09-23T07:07:06Z,2026-09-22,cups,1588849,2026-09-22T18:00:00Z,EFL_Trophy_England,Notts County,Grimsby,2-1
+2026-09-23T07:07:06Z,2026-09-22,cups,1588854,2026-09-22T18:00:00Z,EFL_Trophy_England,Oldham,Fleetwood Town,1-0
+2026-09-23T07:07:06Z,2026-09-22,cups,1588882,2026-09-22T18:00:00Z,EFL_Trophy_England,Peterborough,Colchester,3-1
+2026-09-23T07:07:06Z,2026-09-22,cups,1588888,2026-09-22T18:00:00Z,EFL_Trophy_England,Plymouth,Crystal Palace U21,5-1
+2026-09-23T07:07:06Z,2026-09-22,cups,1638278,2026-09-22T18:00:00Z,KNVB_Beker_Netherlands,Rijnvogels,Vvsb,0-1
+2026-09-23T07:07:06Z,2026-09-22,cups,1638279,2026-09-22T18:00:00Z,KNVB_Beker_Netherlands,RKAV Volendam,Spakenburg,2-2
+2026-09-23T07:07:06Z,2026-09-22,cups,1588862,2026-09-22T18:00:00Z,EFL_Trophy_England,Rochdale,Liverpool U21,3-3
+2026-09-23T07:07:06Z,2026-09-22,cups,1588815,2026-09-22T18:00:00Z,EFL_Trophy_England,Salford City,Sheffield Wednesday,1-2
+2026-09-23T07:07:06Z,2026-09-22,cups,1638281,2026-09-22T18:00:00Z,KNVB_Beker_Netherlands,Sportlust '46,Excelsior Maassluis,0-2
+2026-09-23T07:07:06Z,2026-09-22,cups,1638282,2026-09-22T18:00:00Z,KNVB_Beker_Netherlands,Staphorst,SC Genemuiden,2-3
+2026-09-23T07:07:06Z,2026-09-22,cups,1588891,2026-09-22T18:00:00Z,EFL_Trophy_England,Swindon Town,Newport County,0-2
+2026-09-23T07:07:06Z,2026-09-22,cups,1588843,2026-09-22T18:00:00Z,EFL_Trophy_England,Tranmere,Shrewsbury,1-0
+2026-09-23T07:07:06Z,2026-09-22,cups,1640765,2026-09-22T18:45:00Z,FA_Cup_England,Truro City,Merthyr Town,2-0
+2026-09-23T07:07:06Z,2026-09-22,cups,1588872,2026-09-22T18:00:00Z,EFL_Trophy_England,Walsall,Stevenage,1-6
+2026-09-23T07:07:06Z,2026-09-22,cups,1588823,2026-09-22T18:00:00Z,EFL_Trophy_England,Wigan,Blackpool,3-2
+2026-09-23T07:07:06Z,2026-09-22,cups,1640766,2026-09-22T18:45:00Z,FA_Cup_England,Wimborne Town,Weston-super-Mare,0-0
+2026-09-23T07:07:06Z,2026-09-22,cups,1640767,2026-09-22T18:45:00Z,FA_Cup_England,Wingate & Finchley,Hemel Hempstead Town,2-1
+2026-09-23T07:07:06Z,2026-09-22,cups,1640768,2026-09-22T18:45:00Z,FA_Cup_England,Worksop Town,AFC Telford United,5-2
+2026-09-23T07:07:06Z,2026-09-22,women,1638288,2026-09-22T19:00:00Z,UEFA_Champions_League_Women,Arsenal W,Køge W,1-0
+2026-09-23T07:07:06Z,2026-09-22,women,1638300,2026-09-22T16:45:00Z,UEFA_Champions_League_Women,Bayern Munich W,Manchester City W,2-2
+2026-09-23T07:07:06Z,2026-09-22,women,1638310,2026-09-22T19:00:00Z,UEFA_Champions_League_Women,Juventus W,SL Benfica W,1-2
+2026-09-23T07:07:06Z,2026-09-22,women,1638331,2026-09-22T19:00:00Z,UEFA_Champions_League_Women,Real Madrid W,Paris Saint Germain W,1-1
