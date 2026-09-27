@@ -80,3 +80,6 @@ settled_utc,run_date,comp,fixture_id,kickoff_utc,league,home,away,score
 2026-09-25T07:11:43Z,2026-09-24,international_comp,1528865,2026-09-24T18:45:00Z,UEFA_Nations_League,Norway,Denmark,3-2
 2026-09-25T07:11:43Z,2026-09-24,international_comp,1528864,2026-09-24T18:45:00Z,UEFA_Nations_League,Portugal,Wales,1-0
 2026-09-25T07:11:43Z,2026-09-24,international_comp,1528863,2026-09-24T18:45:00Z,UEFA_Nations_League,Serbia,Greece,1-2
+2026-09-27T00:45:17Z,2026-09-25,leagues,1581432,2026-09-25T01:00:00Z,Liga_de_Expansion_MX,Alebrijes de Oaxaca,CA La Paz,1-3
+2026-09-27T00:45:17Z,2026-09-25,leagues,1549794,2026-09-25T00:30:00Z,Colombia_PrimeraA,Atletico Nacional,Millonarios,1-1
+2026-09-27T00:45:17Z,2026-09-25,leagues,1581479,2026-09-25T01:00:00Z,Liga_de_Expansion_MX,Mineros de Zacatecas,Piratas,3-0
