@@ -71,3 +71,12 @@ settled_utc,run_date,comp,fixture_id,kickoff_utc,league,home,away,score
 2026-09-24T07:05:46Z,2026-09-23,women,1638303,2026-09-23T19:00:00Z,UEFA_Champions_League_Women,Chelsea W,Austria Wien W,1-0
 2026-09-24T07:05:46Z,2026-09-23,women,1638317,2026-09-23T16:45:00Z,UEFA_Champions_League_Women,OH Leuven W,Roma W,0-0
 2026-09-24T07:05:46Z,2026-09-23,women,1638334,2026-09-23T16:45:00Z,UEFA_Champions_League_Women,Servette Chênois W,Lyon W,0-8
+2026-09-25T07:11:43Z,2026-09-24,leagues,1574743,2026-09-24T18:45:00Z,Championnat_National,Caen,Rouen,3-2
+2026-09-25T07:11:43Z,2026-09-24,international_comp,1545601,2026-09-24T16:00:00Z,UEFA_Nations_League,Andorra,Malta,1-2
+2026-09-25T07:11:43Z,2026-09-24,international_comp,1528878,2026-09-24T18:45:00Z,UEFA_Nations_League,Austria,Israel,3-1
+2026-09-25T07:11:43Z,2026-09-24,international_comp,1528879,2026-09-24T18:45:00Z,UEFA_Nations_League,Kosovo,Rep. Of Ireland,1-0
+2026-09-25T07:11:43Z,2026-09-24,international_comp,1528880,2026-09-24T18:45:00Z,UEFA_Nations_League,Liechtenstein,Lithuania,0-2
+2026-09-25T07:11:43Z,2026-09-24,international_comp,1528862,2026-09-24T18:45:00Z,UEFA_Nations_League,Netherlands,Germany,1-1
+2026-09-25T07:11:43Z,2026-09-24,international_comp,1528865,2026-09-24T18:45:00Z,UEFA_Nations_League,Norway,Denmark,3-2
+2026-09-25T07:11:43Z,2026-09-24,international_comp,1528864,2026-09-24T18:45:00Z,UEFA_Nations_League,Portugal,Wales,1-0
+2026-09-25T07:11:43Z,2026-09-24,international_comp,1528863,2026-09-24T18:45:00Z,UEFA_Nations_League,Serbia,Greece,1-2
