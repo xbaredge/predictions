@@ -3,6 +3,21 @@
 Corrections, newest first. A published row is never edited or deleted; if something is wrong it
 is stated here, and the corrected value is added as a new row.
 
+## 2026-09-27 — predictions from 25 to 27 Sep that were never committed
+
+On 25 Sep the upload released the 24 Sep predictions and the three fixtures committed early for 25 Sep. It then
+numbered that day's main pass as batch 1 again, which would have replaced the published
+`commitments/2026-09-25.1.sha256`. A published line is never rewritten, so the upload refused to publish, as it is
+built to, and every upload after it refused until the fault was fixed.
+
+- `commitments/2026-09-25.1.sha256` never changed. The rows it covers are released and match it, as do the 24 Sep
+  rows. Check with `tools/verify.py`.
+- The 25 Sep main pass (22 fixtures, 6 picks), every fixture dated 26 Sep (119) and the first 9 of the 21 fixtures
+  committed early for 27 Sep kicked off without a commitment. They are not part of this record and never will be. The
+  other 12 are in `commitments/2026-09-27.1.sha256`.
+- Batches are now numbered from the commitments already published, and an upload refuses to write a commitment that
+  already exists.
+
 ## 2026-09-21 — every losing leg was recorded as a zero loss
 
 **The `profit_1u` column in `settled.csv` is wrong on every losing row published so far, and the
