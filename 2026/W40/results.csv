@@ -1,0 +1,15 @@
+settled_utc,run_date,comp,fixture_id,kickoff_utc,league,home,away,score
+2026-09-29T07:05:49Z,2026-09-28,leagues,1549706,2026-09-28T01:10:00Z,Colombia_PrimeraA,Deportivo Cali,Águilas Doradas,2-0
+2026-09-29T07:05:49Z,2026-09-28,leagues,1550982,2026-09-28T01:00:00Z,Liga_MX,Leon,FC Juarez,2-1
+2026-09-29T07:05:49Z,2026-09-28,leagues,1550983,2026-09-28T03:10:00Z,Liga_MX,Necaxa,Club America,2-4
+2026-09-29T07:05:49Z,2026-09-28,leagues,1520890,2026-09-28T22:30:00Z,Serie_B_Brazil,America Mineiro,Juventude,0-1
+2026-09-29T07:05:49Z,2026-09-28,leagues,1569943,2026-09-28T18:30:00Z,Spanish_Segunda,Leganes,Castellón,0-2
+2026-09-29T07:05:49Z,2026-09-28,leagues,1641142,2026-09-28T23:00:00Z,Primera_Division_Uruguay,Wanderers,Albion FC,2-1
+2026-09-29T07:05:49Z,2026-09-28,international_comp,1528903,2026-09-28T16:00:00Z,UEFA_Nations_League,Armenia,Montenegro,2-3
+2026-09-29T07:05:49Z,2026-09-28,international_comp,1528904,2026-09-28T18:45:00Z,UEFA_Nations_League,Belgium,France,0-1
+2026-09-29T07:05:49Z,2026-09-28,international_comp,1528902,2026-09-28T16:00:00Z,UEFA_Nations_League,Georgia,Ukraine,0-0
+2026-09-29T07:05:49Z,2026-09-28,international_comp,1545605,2026-09-28T16:00:00Z,UEFA_Nations_League,Latvia,Cyprus,0-0
+2026-09-29T07:05:49Z,2026-09-28,international_comp,1528906,2026-09-28T18:45:00Z,UEFA_Nations_League,Northern Ireland,Hungary,0-0
+2026-09-29T07:05:49Z,2026-09-28,international_comp,1528908,2026-09-28T18:45:00Z,UEFA_Nations_League,Romania,Bosnia & Herzegovina,2-4
+2026-09-29T07:05:49Z,2026-09-28,international_comp,1528907,2026-09-28T18:45:00Z,UEFA_Nations_League,Sweden,Poland,3-1
+2026-09-29T07:05:49Z,2026-09-28,international_comp,1528905,2026-09-28T18:45:00Z,UEFA_Nations_League,Türkiye,Italy,1-4
