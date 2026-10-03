@@ -3,6 +3,17 @@
 Model and format changes, newest first. Published rows are never rewritten, so this file is how
 a change in meaning is announced.
 
+## 2026-10-03 — a licence, and our own match key from 2026-W41
+
+- **`LICENSE.md` added.** The ledger is published so it can be checked: you may read, clone and
+  verify it, publish what you find, and quote limited extracts with a credit. Republishing it as
+  a dataset, using it in a product or service, or using it to train or test models is not
+  allowed. `tools/` is MIT-licensed.
+- **`fixture_id` is replaced by `match_id` in files opened from `2026/W41` onward** (run dates
+  from Monday 2026-10-05). `match_id` is the ledger's own key: twelve hex characters, the same in
+  every file for one fixture, so joins work exactly as before. Weeks up to `W40` keep
+  `fixture_id`; nothing published is rewritten. `tools/verify.py` reads either.
+
 ## 2026-09-21 — plainer columns, and no money column
 
 Columns that repeated another column, or that invited a wrong reading, are gone. Files opened

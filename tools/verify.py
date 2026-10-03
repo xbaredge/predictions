@@ -13,7 +13,7 @@ Whether the timestamps are honest is a separate question, and not one this scrip
 check the commit dates with `git log`, and the OpenTimestamps proofs in stamps/ with
 `ots verify`. This script only shows that the files are internally consistent.
 """
-import argparse, csv, glob, hashlib, io, os, sys
+import argparse, csv, datetime, glob, hashlib, io, os, sys
 from collections import defaultdict
 
 
@@ -45,8 +45,21 @@ def commitments(repo):
         mans.setdefault(date, []).append((int(b) if b.isdigit() else 1, man))
     for date in sorted(mans):
         pub, pos = {}, {}
+        try:
+            iy, iw, _ = datetime.date.fromisoformat(date).isocalendar()
+            home = os.path.join(repo, str(iy), f"W{iw:02d}")
+        except ValueError:
+            home = None
         for name in ("board", "picks", "goals", "scores"):
             sel, cols = [], None
+            # An empty slice is the header alone, and the header is the one of the WEEK the
+            # date belongs to. Taking the first file's instead reported 2026-09-29 as broken:
+            # its picks/scores batch held zero rows, W38's header predates the 2026-09-21
+            # schema, and W40's header alone hashes exactly to the commitment.
+            own = os.path.join(home, name + ".csv") if home else None
+            if own and os.path.exists(own):
+                with open(own, newline="") as f:
+                    cols = csv.DictReader(f).fieldnames
             for p in sorted(glob.glob(os.path.join(repo, "[0-9]" * 4, "W[0-9][0-9]",
                                                   name + ".csv"))):
                 with open(p, newline="") as f:
@@ -87,6 +100,12 @@ def commitments(repo):
                 out.append((date, b, name, "released" if got == want else "MISMATCH",
                             n, len(take)))
     return out
+
+
+def key(r):
+    """A row's fixture key. Weeks before 2026-W41 carry `fixture_id`; from W41 the ledger
+    publishes its own `match_id` instead (see CHANGELOG.md). A week uses one or the other."""
+    return r.get("match_id") or r.get("fixture_id", "")
 
 
 def num(v):
@@ -132,11 +151,11 @@ def main():
         if not (r["published_utc"] < r["kickoff_utc"]):
             problems.append(f"published after kickoff: {r['_file']} {r['home']} v {r['away']} "
                             f"{r.get('market', '')} published {r['published_utc']} ko {r['kickoff_utc']}")
-    for label, rs, key in (("board", board, ("run_date", "fixture_id")),
-                           ("picks", picks, ("run_date", "fixture_id", "market"))):
+    for label, rs, cols in (("board", board, ("run_date",)),
+                            ("picks", picks, ("run_date", "market"))):
         seen = set()
         for r in rs:
-            k = tuple(r[c] for c in key)
+            k = (r["run_date"], key(r)) + tuple(r[c] for c in cols[1:])
             if k in seen:
                 problems.append(f"duplicate {label} row: {k}")
             seen.add(k)
@@ -147,9 +166,9 @@ def main():
                             f"released rows do not hash to the commitment published before "
                             f"kickoff ({n_want} rows)")
 
-    published = {(r["run_date"], r["fixture_id"], r["market"]): r for r in picks}
+    published = {(r["run_date"], key(r), r["market"]): r for r in picks}
     for r in settled:
-        k = (r["run_date"], r["fixture_id"], r["market"])
+        k = (r["run_date"], key(r), r["market"])
         if k not in published:
             problems.append(f"settled row with no published pick: {k}")
 
@@ -174,8 +193,8 @@ def main():
     est = sum(1 for r in picks
               if r.get("odds_basis") == "estimated" or r.get("odds_estimated") == "1")
     gradable = [r for r in picks if r.get("gradable", "1") == "1"]
-    done = {(r["run_date"], r["fixture_id"], r["market"]) for r in settled}
-    waiting = [r for r in gradable if (r["run_date"], r["fixture_id"], r["market"]) not in done]
+    done = {(r["run_date"], key(r), r["market"]) for r in settled}
+    waiting = [r for r in gradable if (r["run_date"], key(r), r["market"]) not in done]
     print(f"board:   {len(board):>6} fixtures")
     print(f"picks:   {len(picks):>6} legs published"
           + (f"  ({est} at an ESTIMATED price, not a quoted one — see METHODOLOGY.md)"

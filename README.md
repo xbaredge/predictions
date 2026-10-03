@@ -92,3 +92,10 @@ alone can always be assembled after the fact; a full board with scores cannot.
 
 See `METHODOLOGY.md` for definitions, `CHANGELOG.md` for model changes, `ERRATA.md` for
 corrections.
+
+## Licence
+
+You may read, clone and verify this ledger, publish what you find, and quote limited extracts
+with a credit. You may not republish it as a dataset, use it in a product or service, or use it
+to train, test or reconstruct a model. The full terms are in [`LICENSE.md`](LICENSE.md); the
+code in `tools/` is MIT-licensed.

@@ -88,8 +88,9 @@ goals; this one gives exact scorelines, which carry the home-away split a total 
 `goals.csv` for how many goals, this for how they land.
 
 **It can be graded, and that is the point of publishing it.** `results.csv` gives the final
-score of every fixture on the board, so a reader can join on `fixture_id` and ask how often the
-actual score was among the scorelines published before kickoff — and compare that against
+score of every fixture on the board, so a reader can join on `match_id` (`fixture_id` in weeks
+before W41) and ask how often the actual score was among the scorelines published before
+kickoff — and compare that against
 `p_covered`, which is what the model claimed the chance of exactly that was. A model whose hit
 rate tracks its own `p_covered` is calibrated on scorelines; one that drifts above or below it
 is not. Worth doing honestly: on the 41 fixtures settled so far the two are within a few points
