@@ -1,0 +1,3 @@
+published_utc,run_date,comp,match_id,kickoff_utc,league,home,away,model,p_HOME_WIN,p_DRAW,p_AWAY_WIN,p_OVER_1_5,p_OVER_2_5,p_UNDER_2_5,p_UNDER_3_5,p_BTTS,p_GOALS_1_3,p_GOALS_2_3,p_UPSET,backed
+2026-10-04T06:13:44Z,2026-10-05,leagues,6ff18e4c1e29,2026-10-05T00:30:00Z,Liga_Profesional_Argentina,Estudiantes de Rio Cuarto,Racing Club,v3/binary,0.2901,0.3253,0.3845,0.4991,0.4216,0.5821,0.9429,0.3787,0.7126,0.3985,0.2848,
+2026-10-04T06:13:44Z,2026-10-05,leagues,b2cb3ffaf3aa,2026-10-05T01:15:00Z,Colombia_PrimeraA,Llaneros,America de Cali,v3/binary,0.3038,0.2292,0.4671,0.8270,0.5163,0.4575,0.7088,0.4604,0.7002,0.5576,0.3043,
