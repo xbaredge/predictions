@@ -1,0 +1,18 @@
+settled_utc,run_date,comp,match_id,kickoff_utc,league,home,away,score
+2026-10-06T06:09:58Z,2026-10-05,leagues,6ff18e4c1e29,2026-10-05T00:30:00Z,Liga_Profesional_Argentina,Estudiantes de Rio Cuarto,Racing Club,1-2
+2026-10-06T06:09:58Z,2026-10-05,leagues,b2cb3ffaf3aa,2026-10-05T01:15:00Z,Colombia_PrimeraA,Llaneros,America de Cali,1-2
+2026-10-06T06:09:58Z,2026-10-05,leagues,07b1625e7304,2026-10-05T23:00:00Z,Primera_Division_Uruguay,Club Nacional,Atletico Torque,2-0
+2026-10-06T06:09:58Z,2026-10-05,leagues,f1e2cf2aa652,2026-10-05T18:30:00Z,Spanish_Segunda,Cordoba,Tenerife,3-2
+2026-10-06T06:09:58Z,2026-10-05,leagues,abcab26415de,2026-10-05T19:45:00Z,Liga_Profesional_Argentina,Deportivo Riestra,Central Cordoba de Santiago,1-1
+2026-10-06T06:09:58Z,2026-10-05,leagues,2b193dfe3f19,2026-10-05T22:00:00Z,Liga_Profesional_Argentina,Estudiantes L.P.,Gimnasia M.,3-0
+2026-10-06T06:09:58Z,2026-10-05,leagues,8486ec13185d,2026-10-05T17:00:00Z,OBOS_ligaen,Moss,Kongsvinger,0-2
+2026-10-06T06:09:58Z,2026-10-05,leagues,c8c251795da9,2026-10-05T16:00:00Z,2_Lig_Turkey,Şanlıurfaspor,Güzide Gebzespor,1-1
+2026-10-06T06:09:58Z,2026-10-05,leagues,ddca0c9f94c5,2026-10-05T22:00:00Z,Liga_Profesional_Argentina,Velez Sarsfield,Platense,2-2
+2026-10-06T06:09:58Z,2026-10-05,international_comp,417ee358cc04,2026-10-05T18:45:00Z,UEFA_Nations_League,Bosnia & Herzegovina,Poland,1-0
+2026-10-06T06:09:58Z,2026-10-05,international_comp,7c2e04ffd342,2026-10-05T16:00:00Z,UEFA_Nations_League,Cyprus,Latvia,2-1
+2026-10-06T06:09:58Z,2026-10-05,international_comp,6ea0f39162e1,2026-10-05T18:45:00Z,UEFA_Nations_League,France,Belgium,4-1
+2026-10-06T06:09:58Z,2026-10-05,international_comp,0edaf412768a,2026-10-05T18:45:00Z,UEFA_Nations_League,Italy,Türkiye,3-1
+2026-10-06T06:09:58Z,2026-10-05,international_comp,e686eb55be8d,2026-10-05T18:45:00Z,UEFA_Nations_League,Montenegro,Armenia,0-0
+2026-10-06T06:09:58Z,2026-10-05,international_comp,1316d5f30f47,2026-10-05T18:45:00Z,UEFA_Nations_League,Northern Ireland,Georgia,0-0
+2026-10-06T06:09:58Z,2026-10-05,international_comp,24e7f5d603b6,2026-10-05T18:45:00Z,UEFA_Nations_League,Romania,Sweden,0-1
+2026-10-06T06:09:58Z,2026-10-05,international_comp,9736d5bb3646,2026-10-05T18:45:00Z,UEFA_Nations_League,Ukraine,Hungary,1-2

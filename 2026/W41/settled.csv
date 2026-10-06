@@ -1,0 +1,4 @@
+settled_utc,run_date,comp,match_id,kickoff_utc,home,away,market,score,result,settle_frac,odds,close_median,close_median_utc,close_books,clv_median_pct,fair_close,fair_close_utc,clv_pct
+2026-10-06T06:09:58Z,2026-10-05,leagues,abcab26415de,2026-10-05T19:45:00Z,Deportivo Riestra,Central Cordoba de Santiago,UNDER_2_5,1-1,1,1,1.490,1.440,2026-10-05T15:01:44Z,7,3.47,1.483,2026-10-05T15:01:44Z,0.47
+2026-10-06T06:09:58Z,2026-10-05,leagues,2b193dfe3f19,2026-10-05T22:00:00Z,Estudiantes L.P.,Gimnasia M.,UNDER_2_5,3-0,0,0,1.730,1.670,2026-10-05T17:03:26Z,8,3.59,1.752,2026-10-05T17:03:26Z,-1.26
+2026-10-06T06:09:58Z,2026-10-05,leagues,07b1625e7304,2026-10-05T23:00:00Z,Club Nacional,Atletico Torque,DRAW,2-0,0,0,,,,,,,,
