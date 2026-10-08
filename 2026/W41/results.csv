@@ -52,3 +52,25 @@ settled_utc,run_date,comp,match_id,kickoff_utc,league,home,away,score
 2026-10-07T06:09:14Z,2026-10-06,international_comp,3c0d8fb13dbe,2026-10-06T18:45:00Z,UEFA_Nations_League,Moldova,Slovakia,0-4
 2026-10-07T06:09:14Z,2026-10-06,international_comp,df518389dff5,2026-10-06T18:45:00Z,UEFA_Nations_League,Scotland,Slovenia,1-2
 2026-10-07T06:09:14Z,2026-10-06,international_comp,0464560047fa,2026-10-06T18:45:00Z,UEFA_Nations_League,Switzerland,FYR Macedonia,3-0
+2026-10-08T06:09:49Z,2026-10-06,leagues,8bccff111478,2026-10-06T23:30:00Z,Serie_B_Brazil,Goias,Athletic Club,2-1
+2026-10-08T06:09:49Z,2026-10-07,leagues,517d2207fd49,2026-10-07T00:30:00Z,MLS,Chicago Fire,Vancouver Whitecaps,3-1
+2026-10-08T06:09:49Z,2026-10-07,leagues,74f53eaee816,2026-10-07T00:35:00Z,Serie_B_Brazil,Ponte Preta,Juventude,0-2
+2026-10-08T06:09:49Z,2026-10-07,leagues,03d2d5e29cf8,2026-10-07T22:30:00Z,Serie_B_Brazil,Avai,Londrina,2-1
+2026-10-08T06:09:49Z,2026-10-07,leagues,4b5d24336ceb,2026-10-07T16:00:00Z,Veikkausliiga_Finland,Gnistan,Inter Turku,0-0
+2026-10-08T06:09:49Z,2026-10-07,leagues,011fd2938ba5,2026-10-07T22:30:00Z,Serie_A_Brazil,Internacional,Corinthians,2-1
+2026-10-08T06:09:49Z,2026-10-07,leagues,857b603899eb,2026-10-07T23:00:00Z,USL_League_One,Naples,Richmond Kickers,2-0
+2026-10-08T06:09:49Z,2026-10-07,leagues,e2d3383bc69f,2026-10-07T23:00:00Z,USL_League_One,One Knoxville,Chattanooga Red Wolves,3-0
+2026-10-08T06:09:49Z,2026-10-07,leagues,2cfb7091d17e,2026-10-07T22:30:00Z,Serie_B_Brazil,Operario-PR,Botafogo SP,1-2
+2026-10-08T06:09:49Z,2026-10-07,leagues,1ca34e5036e3,2026-10-07T22:30:00Z,Serie_A_Brazil,RB Bragantino,Mirassol,1-1
+2026-10-08T06:09:49Z,2026-10-07,leagues,ccca1a128478,2026-10-07T22:30:00Z,Serie_A_Brazil,Remo,Gremio,1-1
+2026-10-08T06:09:49Z,2026-10-07,leagues,d934e2e1f222,2026-10-07T23:00:00Z,Serie_A_Brazil,Vitoria,Chapecoense-sc,4-0
+2026-10-08T06:09:49Z,2026-10-07,cups,9a8485745c8c,2026-10-07T09:30:00Z,Emperor_Cup_Japan,Avispa Fukuoka,Yokohama FC,0-1
+2026-10-08T06:09:49Z,2026-10-07,cups,1cd389ded9e3,2026-10-07T09:30:00Z,Emperor_Cup_Japan,Cerezo Osaka,Kagoshima United,2-0
+2026-10-08T06:09:49Z,2026-10-07,cups,9e8287ac2206,2026-10-07T10:00:00Z,Emperor_Cup_Japan,Fagiano Okayama,JEF United Chiba,1-0
+2026-10-08T06:09:49Z,2026-10-07,cups,6dac8adf1465,2026-10-07T10:00:00Z,Emperor_Cup_Japan,FC Tokyo,Shonan Bellmare,4-0
+2026-10-08T06:09:49Z,2026-10-07,cups,85063cc54b45,2026-10-07T10:00:00Z,Emperor_Cup_Japan,Gainare Tottori,Tokyo Verdy,0-0
+2026-10-08T06:09:49Z,2026-10-07,cups,47835fc1cd5a,2026-10-07T10:00:00Z,Emperor_Cup_Japan,Kawasaki Frontale,Tegevajaro Miyazaki,2-0
+2026-10-08T06:09:49Z,2026-10-07,cups,641ee5847674,2026-10-07T09:30:00Z,Emperor_Cup_Japan,Sanfrecce Hiroshima,Iwaki,4-0
+2026-10-08T06:09:49Z,2026-10-07,cups,cbb29550cd98,2026-10-07T10:00:00Z,Emperor_Cup_Japan,Shimizu S-pulse,V-varen Nagasaki,1-1
+2026-10-08T06:09:49Z,2026-10-07,cups,97af6f90145a,2026-10-07T09:00:00Z,Emperor_Cup_Japan,Urawa,Omiya Ardija,3-2
+2026-10-08T06:09:49Z,2026-10-07,cups,a23d7696cfbd,2026-10-07T10:00:00Z,Emperor_Cup_Japan,Yokohama F. Marinos,Kyoto Sangyo University,2-1
