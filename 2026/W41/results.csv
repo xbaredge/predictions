@@ -74,3 +74,18 @@ settled_utc,run_date,comp,match_id,kickoff_utc,league,home,away,score
 2026-10-08T06:09:49Z,2026-10-07,cups,cbb29550cd98,2026-10-07T10:00:00Z,Emperor_Cup_Japan,Shimizu S-pulse,V-varen Nagasaki,1-1
 2026-10-08T06:09:49Z,2026-10-07,cups,97af6f90145a,2026-10-07T09:00:00Z,Emperor_Cup_Japan,Urawa,Omiya Ardija,3-2
 2026-10-08T06:09:49Z,2026-10-07,cups,a23d7696cfbd,2026-10-07T10:00:00Z,Emperor_Cup_Japan,Yokohama F. Marinos,Kyoto Sangyo University,2-1
+2026-10-09T06:19:14Z,2026-10-07,leagues,6e2a83d2ed60,2026-10-07T23:30:00Z,Serie_B_Brazil,America Mineiro,Fortaleza EC,0-1
+2026-10-09T06:19:14Z,2026-10-07,leagues,eda2d568780d,2026-10-07T23:30:00Z,Serie_A_Brazil,Botafogo,Vasco DA Gama,1-2
+2026-10-09T06:19:14Z,2026-10-07,leagues,f36ac18fc2ec,2026-10-07T23:30:00Z,Serie_B_Brazil,CRB,Atletico Goianiense,3-1
+2026-10-09T06:19:14Z,2026-10-07,leagues,52c6be89b71f,2026-10-07T23:30:00Z,Serie_B_Brazil,Vila Nova,Cuiaba,0-0
+2026-10-09T06:19:14Z,2026-10-08,leagues,545c605aa41a,2026-10-08T00:30:00Z,USL_League_One,Corpus Christi,Fort Wayne,1-3
+2026-10-09T06:19:14Z,2026-10-08,leagues,8c999fde66a7,2026-10-08T00:30:00Z,Serie_A_Brazil,Cruzeiro,Sao Paulo,2-0
+2026-10-09T06:19:14Z,2026-10-08,leagues,9ff6b84ab79b,2026-10-08T23:05:00Z,Colombia_PrimeraA,Atletico Nacional,Deportes Tolima,0-0
+2026-10-09T06:19:14Z,2026-10-08,leagues,b83a225bb863,2026-10-08T23:00:00Z,Serie_A_Brazil,Atletico Paranaense,Atletico-MG,2-2
+2026-10-09T06:19:14Z,2026-10-08,leagues,be4abfe44ed0,2026-10-08T22:30:00Z,Serie_B_Brazil,Ceara,Criciuma,1-0
+2026-10-09T06:19:14Z,2026-10-08,leagues,fc6d59d2e386,2026-10-08T17:30:00Z,Romania_Liga1,CFR 1907 Cluj,Universitatea Cluj,1-3
+2026-10-09T06:19:14Z,2026-10-08,leagues,8953b79bf990,2026-10-08T15:00:00Z,Veikkausliiga_Finland,HJK Helsinki,VPS,6-0
+2026-10-09T06:19:14Z,2026-10-08,leagues,da0272668218,2026-10-08T16:00:00Z,Veikkausliiga_Finland,KuPS,AC Oulu,0-1
+2026-10-09T06:19:14Z,2026-10-08,leagues,787df36f2711,2026-10-08T22:30:00Z,Serie_B_Brazil,Nautico Recife,Novorizontino,0-2
+2026-10-09T06:19:14Z,2026-10-08,leagues,17ce9db4bf68,2026-10-08T22:30:00Z,Serie_A_Brazil,Santos,Flamengo,2-2
+2026-10-09T06:19:14Z,2026-10-08,leagues,96e45e3bc900,2026-10-08T19:00:00Z,Irish_Premier_Division,Shamrock Rovers,Drogheda United,3-1
