@@ -1,0 +1,4 @@
+published_utc,run_date,comp,match_id,kickoff_utc,league,home,away,model,p_HOME_WIN,p_DRAW,p_AWAY_WIN,p_OVER_1_5,p_OVER_2_5,p_UNDER_2_5,p_UNDER_3_5,p_BTTS,p_GOALS_1_3,p_GOALS_2_3,p_UPSET,backed
+2026-10-11T06:32:25Z,2026-10-12,leagues,b46f03af0320,2026-10-12T01:15:00Z,Colombia_PrimeraA,America de Cali,Independiente Medellin,v3/binary/published,0.5963,0.2484,0.1553,0.8910,0.4949,0.4593,0.7799,0.5459,0.6959,0.5019,0.1895,OVER_1_5
+2026-10-11T06:32:25Z,2026-10-12,leagues,96d613f1d2f7,2026-10-12T00:30:00Z,Liga_Profesional_Argentina,Talleres Cordoba,Independiente,v3/binary/published,0.4794,0.2642,0.2564,0.6398,0.4128,0.5945,0.8242,0.4840,0.7367,0.4452,0.3302,UNDER_2_5
+2026-10-11T06:32:25Z,2026-10-12,leagues,be126975ae5e,2026-10-12T01:15:00Z,Liga_MX,U.N.A.M. - Pumas,Cruz Azul,v3/binary/published,0.1912,0.2975,0.5113,0.7775,0.5392,0.4761,0.6765,0.5709,0.6258,0.4514,0.3156,DRAW

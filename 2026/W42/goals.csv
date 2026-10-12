@@ -1,0 +1,4 @@
+published_utc,run_date,comp,match_id,kickoff_utc,home,away,p_over_1_5,p_over_2_5,p_over_3_5,p_under_2_5,p_0_1,p_2,p_3,p_4plus,coherent
+2026-10-11T06:32:25Z,2026-10-12,leagues,b46f03af0320,2026-10-12T01:15:00Z,America de Cali,Independiente Medellin,0.8910,0.4949,0.2201,0.4593,0.1090,0.3961,0.2748,0.2201,1
+2026-10-11T06:32:25Z,2026-10-12,leagues,96d613f1d2f7,2026-10-12T00:30:00Z,Talleres Cordoba,Independiente,0.6398,0.4128,0.1758,0.5945,0.3602,0.2270,0.2370,0.1758,1
+2026-10-11T06:32:25Z,2026-10-12,leagues,be126975ae5e,2026-10-12T01:15:00Z,U.N.A.M. - Pumas,Cruz Azul,0.7775,0.5392,0.3235,0.4761,0.2225,0.2383,0.2157,0.3235,1
