@@ -262,3 +262,4 @@ settled_utc,run_date,comp,match_id,kickoff_utc,home,away,market,score,result,set
 2026-10-12T06:12:29Z,2026-10-11,leagues,af60c67f88d1,2026-10-11T13:00:00Z,Farense,Feirense,UPSET,2-1,0,0,5.300,,,,,,,
 2026-10-12T06:12:29Z,2026-10-11,leagues,f0682da7d67d,2026-10-11T17:00:00Z,União de Leiria,Academica,UPSET,0-2,1,1,3.600,,,,,,,
 2026-10-12T06:12:29Z,2026-10-11,leagues,a5243c075a61,2026-10-11T23:00:00Z,Atletico San Luis,Santos Laguna,UPSET,1-2,1,1,3.400,,,,,,,
+2026-10-13T06:15:08Z,2026-10-11,leagues,1cee7f06f457,2026-10-11T23:10:00Z,Chico,Cucuta,OVER_1_5,0-1,0,0,1.360,1.360,2026-10-11T19:40:35Z,7,0.00,,,
