@@ -84,3 +84,51 @@ settled_utc,run_date,comp,match_id,kickoff_utc,league,home,away,score
 2026-10-14T06:14:55Z,2026-10-13,cups,ceb25c720d45,2026-10-13T16:45:00Z,UEFA_Champions_League,Sabah FA,Slavia Praha,2-0
 2026-10-14T06:14:55Z,2026-10-13,cups,157da942b78c,2026-10-13T19:00:00Z,UEFA_Champions_League,Villarreal,Napoli,3-1
 2026-10-14T06:14:55Z,2026-10-13,cups,6b8794a69b68,2026-10-13T18:00:00Z,EFL_Trophy_England,Walsall,Fulham U21,3-2
+2026-10-15T06:09:02Z,2026-10-13,leagues,a36529ce71fa,2026-10-13T23:30:00Z,Colombia_PrimeraA,Bucaramanga,Águilas Doradas,1-1
+2026-10-15T06:09:02Z,2026-10-14,cups,8cbeae6ad829,2026-10-14T00:30:00Z,Copa_Sudamericana,Boca Juniors,Vasco DA Gama,0-1
+2026-10-15T06:09:02Z,2026-10-14,leagues,1cbc3bb84657,2026-10-14T17:00:00Z,1_Lig_Turkey,Antalyaspor,Kayserispor,0-4
+2026-10-15T06:09:02Z,2026-10-14,leagues,4229a5b369f7,2026-10-14T11:30:00Z,1_Lig_Turkey,Batman Petrolspor,İstanbulspor,4-2
+2026-10-15T06:09:02Z,2026-10-14,leagues,6379a6373e5a,2026-10-14T16:00:00Z,Czech_First_League,Bohemians 1905,Mlada Boleslav,1-0
+2026-10-15T06:09:02Z,2026-10-14,leagues,3b42b5a565bb,2026-10-14T17:00:00Z,OBOS_ligaen,Bryne,Raufoss,1-1
+2026-10-15T06:09:02Z,2026-10-14,leagues,0419fcf989a3,2026-10-14T17:00:00Z,Germany_3_Liga,FC Viktoria Köln,SG Sonnenhof Grossaspach,2-2
+2026-10-15T06:09:02Z,2026-10-14,leagues,b042bf53473a,2026-10-14T23:00:00Z,USL_League_One,Greenville Triumph,Spokane Velocity,4-3
+2026-10-15T06:09:02Z,2026-10-14,leagues,499844f180d9,2026-10-14T23:00:00Z,USL_Championship,Hartford Athletic,Charleston Battery,1-1
+2026-10-15T06:09:02Z,2026-10-14,leagues,59b6b8ffc370,2026-10-14T17:00:00Z,OBOS_ligaen,Haugesund,Lyn,3-0
+2026-10-15T06:09:02Z,2026-10-14,leagues,6c6c2cf406b1,2026-10-14T17:00:00Z,OBOS_ligaen,hodd,Ranheim,1-1
+2026-10-15T06:09:02Z,2026-10-14,leagues,78d3ac2969f9,2026-10-14T21:30:00Z,Colombia_PrimeraA,Junior,Deportivo Pereira,1-1
+2026-10-15T06:09:02Z,2026-10-14,leagues,f540cf0517e4,2026-10-14T17:00:00Z,1_Lig_Turkey,Keçiörengücü,Iğdır FK,0-0
+2026-10-15T06:09:02Z,2026-10-14,leagues,341636639307,2026-10-14T19:00:00Z,Championship,Lincoln,West Ham,0-6
+2026-10-15T06:09:02Z,2026-10-14,leagues,e7b00193c4da,2026-10-14T15:00:00Z,Hungarian_NB_II,Mezokovesd-zsory,Ajka,1-1
+2026-10-15T06:09:02Z,2026-10-14,leagues,013908fdfd0b,2026-10-14T17:00:00Z,OBOS_ligaen,Moss,Egersund,0-0
+2026-10-15T06:09:02Z,2026-10-14,leagues,9ea577e6e2b5,2026-10-14T18:45:00Z,Championship,Norwich,Southampton,0-1
+2026-10-15T06:09:02Z,2026-10-14,leagues,9e8024a24521,2026-10-14T18:45:00Z,Championship,Portsmouth,Sheffield Utd,3-2
+2026-10-15T06:09:02Z,2026-10-14,leagues,b16cf2adea3d,2026-10-14T17:00:00Z,Germany_3_Liga,Preußen Münster,Fortuna Düsseldorf,1-2
+2026-10-15T06:09:02Z,2026-10-14,leagues,b3b5010e5aff,2026-10-14T18:45:00Z,Championship,QPR,Derby,4-1
+2026-10-15T06:09:02Z,2026-10-14,leagues,b6e2a2e01cf8,2026-10-14T23:30:00Z,USL_Championship,Rhode Island,Loudoun United,1-0
+2026-10-15T06:09:02Z,2026-10-14,leagues,ed5af5fa0805,2026-10-14T22:00:00Z,Liga_Profesional_Argentina,Sarmiento Junin,River Plate,1-1
+2026-10-15T06:09:02Z,2026-10-14,leagues,54cb67405e56,2026-10-14T10:00:00Z,Polish_2_Liga,Śląsk Wrocław II,Legia Warszawa II,2-2
+2026-10-15T06:09:02Z,2026-10-14,leagues,14c2ae24fc60,2026-10-14T17:00:00Z,OBOS_ligaen,Sogndal,ODD Ballklubb,0-1
+2026-10-15T06:09:02Z,2026-10-14,leagues,0191f68f240f,2026-10-14T23:00:00Z,USL_Championship,Sporting JAX,Birmingham Legion,0-1
+2026-10-15T06:09:02Z,2026-10-14,leagues,085cee250209,2026-10-14T17:00:00Z,OBOS_ligaen,Stabaek,Sandnes ULF,4-1
+2026-10-15T06:09:02Z,2026-10-14,leagues,f596ce218a39,2026-10-14T13:00:00Z,OBOS_ligaen,Strommen,Asane,6-1
+2026-10-15T06:09:02Z,2026-10-14,leagues,91f15c9ea42e,2026-10-14T17:00:00Z,OBOS_ligaen,Stromsgodset,Kongsvinger,5-1
+2026-10-15T06:09:02Z,2026-10-14,leagues,4a93715ac1bd,2026-10-14T17:00:00Z,Germany_3_Liga,SV Wehen,Alemannia Aachen,3-0
+2026-10-15T06:09:02Z,2026-10-14,leagues,c8c9c76413b9,2026-10-14T17:00:00Z,Germany_3_Liga,Verl,SSV Jahn Regensburg,2-2
+2026-10-15T06:09:02Z,2026-10-14,leagues,fa185f936bb0,2026-10-14T17:00:00Z,Germany_3_Liga,Waldhof Mannheim,FC Ingolstadt 04,0-3
+2026-10-15T06:09:02Z,2026-10-14,cups,c63dd3783dea,2026-10-14T19:00:00Z,UEFA_Champions_League,AS Roma,Real Madrid,3-4
+2026-10-15T06:09:02Z,2026-10-14,cups,e4bd9c811d34,2026-10-14T19:00:00Z,UEFA_Champions_League,Aston Villa,Fenerbahçe,6-0
+2026-10-15T06:09:02Z,2026-10-14,cups,5f2c8f68bbeb,2026-10-14T22:00:00Z,Copa_Sudamericana,Atletico-MG,Atletico Torque,3-0
+2026-10-15T06:09:02Z,2026-10-14,cups,a63459c19178,2026-10-14T19:00:00Z,UEFA_Champions_League,Bodo/Glimt,Borussia Dortmund,1-0
+2026-10-15T06:09:02Z,2026-10-14,cups,bdb39e808708,2026-10-14T10:00:00Z,J_League_Cup_Japan,Jubilo Iwata,Kawasaki Frontale,0-4
+2026-10-15T06:09:02Z,2026-10-14,cups,48e30b983ddc,2026-10-14T10:00:00Z,AFC_Champions_League_Elite,Kashiwa Reysol,Port FC,5-1
+2026-10-15T06:09:02Z,2026-10-14,cups,cc7801243748,2026-10-14T16:45:00Z,UEFA_Champions_League,Lask Linz,Liverpool,3-6
+2026-10-15T06:09:02Z,2026-10-14,cups,d93e1fd3e88f,2026-10-14T19:00:00Z,UEFA_Champions_League,Manchester City,Paris Saint Germain,2-4
+2026-10-15T06:09:02Z,2026-10-14,cups,2e6c9e28ea5a,2026-10-14T10:00:00Z,J_League_Cup_Japan,Matsumoto Yamaga,Sanfrecce Hiroshima,0-1
+2026-10-15T06:09:02Z,2026-10-14,cups,c40e5296a4f9,2026-10-14T10:00:00Z,J_League_Cup_Japan,Mito Hollyhock,FC Tokyo,1-0
+2026-10-15T06:09:02Z,2026-10-14,cups,a90dd2b15935,2026-10-14T10:00:00Z,J_League_Cup_Japan,Sagan Tosu,Avispa Fukuoka,2-1
+2026-10-15T06:09:02Z,2026-10-14,cups,c8951f739a49,2026-10-14T19:00:00Z,UEFA_Champions_League,Shakhtar Donetsk,AEK Athens FC,3-1
+2026-10-15T06:09:02Z,2026-10-14,cups,95ae39fa39d0,2026-10-14T19:00:00Z,UEFA_Champions_League,Slovan Bratislava,VfB Stuttgart,0-3
+2026-10-15T06:09:02Z,2026-10-14,cups,cf3f3120639d,2026-10-14T18:00:00Z,Taca_de_Portugal,União Santarém,GIL Vicente,2-2
+2026-10-15T06:09:02Z,2026-10-14,cups,4d55c815226c,2026-10-14T10:00:00Z,AFC_Champions_League_Elite,Vissel Kobe,Jeonbuk Motors,2-0
+2026-10-15T06:09:02Z,2026-10-14,cups,7000c5c61330,2026-10-14T09:30:00Z,J_League_Cup_Japan,Yokohama FC,Urawa,0-4
+2026-10-15T06:09:02Z,2026-10-14,cups,a7af409089f9,2026-10-14T10:00:00Z,J_League_Cup_Japan,Yokohama F. Marinos,Shimizu S-pulse,2-1
