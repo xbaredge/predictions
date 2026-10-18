@@ -234,3 +234,318 @@ settled_utc,run_date,comp,match_id,kickoff_utc,league,home,away,score
 2026-10-17T06:53:04Z,2026-10-16,leagues,0f73c3246875,2026-10-16T16:00:00Z,Ekstraklasa,Wieczysta Kraków,Raków Częstochowa,1-2
 2026-10-17T06:53:04Z,2026-10-16,cups,ec5418aa0261,2026-10-16T19:00:00Z,Taca_de_Portugal,Chaves,Os Marialvas,2-1
 2026-10-17T06:53:04Z,2026-10-16,women,302659ce7d85,2026-10-16T16:30:00Z,Frauen_Bundesliga,SC Freiburg W,RB Leipzig W,0-3
+2026-10-18T06:32:13Z,2026-10-16,leagues,b50e92b7c8d3,2026-10-16T23:30:00Z,Serie_B_Brazil,Sport Recife,Fortaleza EC,0-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,b1914141a245,2026-10-17T03:00:00Z,Liga_MX,Atlante FC,U.N.A.M. - Pumas,1-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,e013f9c22e45,2026-10-17T04:00:00Z,Australian_A_League,Auckland,Melbourne City,3-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,9fca7c8af86a,2026-10-17T00:30:00Z,Liga_Profesional_Argentina,Boca Juniors,Talleres Cordoba,2-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,ef24b19efffe,2026-10-17T03:00:00Z,Liga_de_Expansion_MX,CA La Paz,Tlaxcala,2-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,565637cf3c8b,2026-10-17T06:00:00Z,J1_League,Cerezo Osaka,Kawasaki Frontale,2-4
+2026-10-18T06:32:13Z,2026-10-17,leagues,78c4ac8534a5,2026-10-17T03:00:00Z,Liga_MX,Club Tijuana,Puebla,0-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,5262f57dee65,2026-10-17T05:00:00Z,J2_League,Consadole Sapporo,Blaublitz Akita,1-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,92fc6a85d515,2026-10-17T01:00:00Z,Liga_de_Expansion_MX,Correcaminos Uat,Dorados,1-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,d68d6d5ddc20,2026-10-17T05:00:00Z,K2_League,Daegu FC,Cheongju,3-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,9983312c9286,2026-10-17T05:00:00Z,J3_League,FC Gifu,Fukushima United,1-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,c515837b31a8,2026-10-17T05:00:00Z,J2_League,Fujieda MYFC,Montedio Yamagata,0-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,065222ea4feb,2026-10-17T05:00:00Z,J3_League,Gainare Tottori,Thespakusatsu Gunma,1-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,cd42404adcb7,2026-10-17T07:30:00Z,K2_League,Gimpo Citizen,Paju Citizen,4-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,77c864d73b3c,2026-10-17T07:30:00Z,K2_League,Gyeongnam FC,Asan Mugunghwa,0-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,d8b7368181ba,2026-10-17T05:00:00Z,J2_League,Imabari,Vanraure Hachinohe,3-3
+2026-10-18T06:32:13Z,2026-10-17,leagues,7cc6bc23bb95,2026-10-17T05:00:00Z,J1_League,JEF United Chiba,Yokohama F. Marinos,0-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,3c3da10d8e50,2026-10-17T06:00:00Z,J1_League,Kashima,V-varen Nagasaki,2-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,aba84a2c3fbe,2026-10-17T05:00:00Z,J3_League,Kitakyushu,Osaka,3-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,846e0b2762ad,2026-10-17T06:00:00Z,Australian_A_League,Macarthur,Perth Glory,2-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,7f17815dffc0,2026-10-17T07:00:00Z,J1_League,Mito Hollyhock,Urawa,0-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,84ee8fc33f37,2026-10-17T01:00:00Z,Liga_MX,Necaxa,Atlas,0-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,adcfb0191b35,2026-10-17T05:00:00Z,J2_League,Oita Trinita,Albirex Niigata,5-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,47e2edcbafed,2026-10-17T05:00:00Z,J2_League,Sagan Tosu,Omiya Ardija,2-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,7712a0f2e6e4,2026-10-17T05:00:00Z,J1_League,Sanfrecce Hiroshima,Kyoto Sanga,3-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,f00ba514b0d4,2026-10-17T05:00:00Z,K2_League,Seongnam FC,Suwon City FC,1-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,d163ffa46590,2026-10-17T04:00:00Z,J1_League,Shimizu S-pulse,Gamba Osaka,2-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,3be1bdb9961c,2026-10-17T05:00:00Z,J2_League,Tochigi City,Yokohama FC,1-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,4e76adbfdfaa,2026-10-17T05:00:00Z,J1_League,Tokyo Verdy,FC Tokyo,0-4
+2026-10-18T06:32:13Z,2026-10-17,leagues,f134c5a58251,2026-10-17T07:30:00Z,K1_League,Ulsan Hyundai FC,Bucheon FC 1995,2-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,9b061e4ffa3a,2026-10-17T05:00:00Z,J2_League,Vegalta Sendai,Tokushima Vortis,0-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,87684c80e345,2026-10-17T07:30:00Z,K2_League,Yongin City,Ansan Greeners,0-4
+2026-10-18T06:32:13Z,2026-10-17,women,eca23486e447,2026-10-17T00:00:00Z,USA_NWSL,Boston Legacy W,Racing Louisville W,2-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,09b55e6e66f5,2026-10-17T11:00:00Z,2_Lig_Turkey,1461 Trabzon FK,İnegölspor,2-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,28dbe326c4fd,2026-10-17T11:00:00Z,Germany_2_Bundesliga,1. FC Kaiserslautern,VfL Bochum,2-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,33e437b36886,2026-10-17T11:30:00Z,Danish_1st_Division,Aalborg,Vejle,0-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,4ff0331615e6,2026-10-17T14:00:00Z,Scottish_Premiership,Aberdeen,ST Mirren,3-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,95c4dde23b4a,2026-10-17T14:00:00Z,League_Two,Accrington ST,Gillingham,3-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,a5142cb86262,2026-10-17T14:30:00Z,Eredivisie,ADO Den Haag,PSV Eindhoven,2-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,6793feeea2d5,2026-10-17T15:30:00Z,Allsvenskan,AIK Stockholm,IFK Goteborg,2-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,b9f1af6308a7,2026-10-17T16:30:00Z,Scottish_League_One,Airdrie United,Hamilton Academical,1-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,6b07353f97fd,2026-10-17T15:00:00Z,Hungarian_NB_II,Ajka,BVSC,1-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,06961ae69da8,2026-10-17T18:00:00Z,Saudi_Pro_League,Al Diriyah,Al Taawon,1-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,6669e7b0d8bd,2026-10-17T12:00:00Z,Germany_3_Liga,Alemannia Aachen,Hansa Rostock,2-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,634886b357c3,2026-10-17T13:00:00Z,Super_Lig_Turkey,Amed,Konyaspor,1-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,fc0d6b10521d,2026-10-17T21:30:00Z,Serie_B_Brazil,America Mineiro,Operario-PR,1-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,764bb59d43e4,2026-10-17T13:00:00Z,Serie_B_Italy,Ascoli,Empoli,1-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,17466a89f275,2026-10-17T18:45:00Z,Serie_A_Italy,AS Roma,Genoa,2-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,349d95beea4c,2026-10-17T21:30:00Z,Serie_A_Brazil,Atletico-MG,Coritiba,1-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,5400cdccc556,2026-10-17T22:30:00Z,Serie_A_Brazil,Atletico Paranaense,Palmeiras,0-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,3447e3532952,2026-10-17T23:00:00Z,Liga_Profesional_Argentina,Atletico Tucuman,Rosario Central,2-3
+2026-10-18T06:32:13Z,2026-10-17,leagues,b11e02ad77ef,2026-10-17T12:45:00Z,Championnat_National,Aubagne,Le Puy Foot,0-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,76298476e4f6,2026-10-17T15:00:00Z,Austrian_Bundesliga,Austria Lustenau,Lask Linz,0-4
+2026-10-18T06:32:13Z,2026-10-17,leagues,627d071f5290,2026-10-17T18:00:00Z,Liga_Profesional_Argentina,Banfield,Argentinos JRS,0-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,67cde41e352e,2026-10-17T14:00:00Z,League_One,Barnsley,Cambridge United,1-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,d4b05e36acbd,2026-10-17T16:30:00Z,Germany_Bundesliga,Bayern München,RB Leipzig,6-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,ac2a9568a417,2026-10-17T13:00:00Z,Serie_B_Italy,Benevento,Vicenza Virtus,2-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,2ee2a99aa22d,2026-10-17T14:00:00Z,Championship,Birmingham,QPR,3-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,d16d3f0f93a1,2026-10-17T16:15:00Z,Israeli_Premier_League,Bnei Sakhnin,Hapoel Petah Tikva,2-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,834584e2d57a,2026-10-17T16:00:00Z,1_Lig_Turkey,Bodrum FK,Bandırmaspor,2-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,d5693bf21d20,2026-10-17T16:00:00Z,Serie_A_Italy,Bologna,Inter,1-3
+2026-10-18T06:32:13Z,2026-10-17,leagues,1954cb4bbed9,2026-10-17T19:00:00Z,Primera_Division_Uruguay,Boston River,Defensor Sporting,1-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,78bc061e7d5d,2026-10-17T21:00:00Z,Serie_A_Brazil,Botafogo,Chapecoense-sc,1-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,e391ee26a267,2026-10-17T12:45:00Z,Championnat_National,Bourg-en-bresse 01,Fleury 91,0-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,d36b43abcf23,2026-10-17T14:00:00Z,League_One,Bradford,Stevenage,2-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,e135ef93ebcf,2026-10-17T14:00:00Z,Premier_League,Brentford,Liverpool,1-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,099f8621aeaf,2026-10-17T14:00:00Z,Championship,Bristol City,Sheffield Utd,0-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,081ec7578ada,2026-10-17T13:00:00Z,Serie_B_Italy,Carrarese,Modena,2-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,37292822b46f,2026-10-17T19:30:00Z,Serie_B_Brazil,Ceara,Juventude,2-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,6fe9e4bb6726,2026-10-17T08:40:00Z,Australian_A_League,Central Coast Mariners,Newcastle Jets,2-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,6c2ee947e24e,2026-10-17T20:00:00Z,Colombia_PrimeraA,Chico,Atletico Nacional,1-4
+2026-10-18T06:32:13Z,2026-10-17,leagues,3c8c1bec2ab5,2026-10-17T14:00:00Z,Scottish_League_Two,Clyde,Annan Athletic,4-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,48edafae8dd2,2026-10-17T14:00:00Z,League_Two,Colchester,Exeter City,0-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,f9f63b63e01b,2026-10-17T12:45:00Z,Championnat_National,Concarneau,Bastia,1-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,1142c27f4690,2026-10-17T18:15:00Z,Ekstraklasa,Cracovia Krakow,Legia Warszawa,1-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,9542b6298bae,2026-10-17T14:00:00Z,League_Two,Crewe,Rochdale,3-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,29220b0e1066,2026-10-17T18:00:00Z,Liga_de_Expansion_MX,Cruz Azul Hidalgo,Mineros de Zacatecas,2-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,5bf5d9e1e664,2026-10-17T13:00:00Z,Serbia_SuperLiga,Cukaricki,Zemun,3-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,756cbdc08489,2026-10-17T11:00:00Z,Chinese_Super_League,Dalian Zhixing,Sichuan Jiuniu,3-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,0d02ea1b51bf,2026-10-17T14:00:00Z,Championship,Derby,Stoke City,0-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,dffa440fa742,2026-10-17T14:00:00Z,Scottish_League_Two,Dumbarton,Stirling Albion,1-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,26bb73869c0f,2026-10-17T19:00:00Z,Scottish_Premiership,Dundee,Rangers,2-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,c9331231f6b0,2026-10-17T14:00:00Z,Scottish_Championship,Dunfermline,Livingston,0-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,ad18f0f4c873,2026-10-17T14:00:00Z,Scottish_League_One,East Fife,Alloa Athletic,0-3
+2026-10-18T06:32:13Z,2026-10-17,leagues,20e1044a2175,2026-10-17T14:00:00Z,Scottish_League_One,East Kilbride,Montrose,1-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,ccf80c75957f,2026-10-17T14:15:00Z,Spanish_Segunda,Eibar,Mallorca,1-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,874a90b911a4,2026-10-17T16:00:00Z,2_Lig_Turkey,Elazığspor,Arnavutköy Belediyespor,3-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,602b467c1b01,2026-10-17T14:00:00Z,Scottish_League_Two,Elgin City,Edinburgh City,0-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,26cb93b0c2bf,2026-10-17T14:30:00Z,Eerste_Divisie,Emmen,Almere City FC,2-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,44ec332df0da,2026-10-17T10:30:00Z,Super_Lig_Turkey,Erzurumspor FK,Eyüpspor,2-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,28593f6ef898,2026-10-17T12:00:00Z,La_Liga,Espanyol,Atletico Madrid,0-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,db359d62883b,2026-10-17T18:45:00Z,Ligue_1,Estac Troyes,Lens,1-3
+2026-10-18T06:32:13Z,2026-10-17,leagues,b189345466b9,2026-10-17T11:30:00Z,Premier_League,Everton,Chelsea,0-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,1c8b4c469d98,2026-10-17T13:00:00Z,Superettan,Falkenbergs FF,Landskrona BoIS,4-3
+2026-10-18T06:32:13Z,2026-10-17,leagues,456f16a06d37,2026-10-17T15:30:00Z,Austrian_2_Liga,FC BW Linz,FC Liefering,4-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,980b2a12e739,2026-10-17T16:30:00Z,Danish_1st_Division,FC Fredericia,Hobro,3-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,c8e42653724e,2026-10-17T12:00:00Z,Germany_3_Liga,FC Ingolstadt 04,Rot-Weiß Essen,1-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,53020b479a9e,2026-10-17T09:00:00Z,J3_League,FC Ryukyu,Tochigi SC,1-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,928c2c26ad18,2026-10-17T13:30:00Z,Germany_Bundesliga,FC Schalke 04,FSV Mainz 05,0-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,dc9e79806552,2026-10-17T16:00:00Z,Super_Lig_Turkey,Fenerbahçe,Alanyaspor,3-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,ad4b9fec0b26,2026-10-17T16:00:00Z,2_Lig_Turkey,Fethiyespor,Ankaragücü,2-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,27ee6f735e05,2026-10-17T11:00:00Z,Veikkausliiga_Finland,FF Jaro,Mariehamn,1-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,fc0a39bf98fe,2026-10-17T11:30:00Z,League_Two,Fleetwood Town,Rotherham,2-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,f74479962774,2026-10-17T13:30:00Z,Austrian_2_Liga,Floridsdorfer AC,Admira Wacker,0-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,bd04b9782b29,2026-10-17T12:00:00Z,Germany_3_Liga,Fortuna Düsseldorf,FC Saarbrücken,1-3
+2026-10-18T06:32:13Z,2026-10-17,leagues,ac2c0f3e5d0c,2026-10-17T22:00:00Z,USL_League_One,Forward Madison,Portland Hearts of Pine,2-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,94f31f0bac25,2026-10-17T14:00:00Z,Premier_League,Fulham,Hull City,1-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,7b036de6795f,2026-10-17T13:00:00Z,Super_Lig_Turkey,Gençlerbirliği S.K.,Galatasaray,0-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,7b0272fa8bba,2026-10-17T15:30:00Z,Ekstraklasa,GKS Katowice,Pogon Szczecin,0-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,25810b9aa293,2026-10-17T12:45:00Z,Championnat_National,Gobelins,Rouen,3-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,ea6ad44f97b8,2026-10-17T12:15:00Z,Polish_2_Liga,Górnik Łęczna,Stal Stalowa Wola,1-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,8e901d32bbfd,2026-10-17T23:00:00Z,USL_League_One,Greenville Triumph,Charlotte Independence,0-3
+2026-10-18T06:32:13Z,2026-10-17,leagues,c8ad3d9d81b0,2026-10-17T14:00:00Z,League_Two,Grimsby,Northampton,0-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,6c8bee9b20bd,2026-10-17T23:07:00Z,Liga_MX,Guadalajara Chivas,Tigres UANL,1-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,1b55e98efa45,2026-10-17T13:30:00Z,Germany_Bundesliga,Hamburger SV,VfB Stuttgart,1-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,aba4a3bc3fe4,2026-10-17T12:00:00Z,Eliteserien,Ham-Kam,Bodo/Glimt,0-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,3419e58a2ef2,2026-10-17T18:30:00Z,Germany_2_Bundesliga,Hannover 96,FC St. Pauli,1-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,a0cbafa25164,2026-10-17T16:00:00Z,Israeli_Premier_League,Hapoel Haifa,Hapoel Ramat Gan,0-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,855f832e18ac,2026-10-17T15:45:00Z,Israeli_Premier_League,Hapoel Tel Aviv,Ironi Tiberias,1-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,95471b03b7be,2026-10-17T23:00:00Z,USL_Championship,Hartford Athletic,Brooklyn,2-3
+2026-10-18T06:32:13Z,2026-10-17,leagues,cde0269a4f88,2026-10-17T14:00:00Z,Scottish_Premiership,Hibernian,Falkirk,1-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,f931d2cf2852,2026-10-17T13:00:00Z,Veikkausliiga_Finland,HJK Helsinki,Gnistan,4-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,5aeae2a79d6b,2026-10-17T10:30:00Z,Polish_2_Liga,Hutnik Kraków,Chojniczanka Chojnice,1-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,7c6b01a7bc42,2026-10-17T11:00:00Z,Veikkausliiga_Finland,Ilves,SJK,2-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,2d22dfbe6b34,2026-10-17T20:30:00Z,Liga_Profesional_Argentina,Independ. Rivadavia,Tigre,2-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,88c40852c9f7,2026-10-17T15:00:00Z,Veikkausliiga_Finland,Inter Turku,AC Oulu,1-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,89c700d75195,2026-10-17T14:00:00Z,Scottish_Championship,Inverness CT,Arbroath,2-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,e3de318d4b0c,2026-10-17T09:00:00Z,J3_League,Kagoshima United,Ehime FC,4-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,43b262e274b3,2026-10-17T09:00:00Z,J3_League,Kanazawa,Nara Club,0-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,70a0849775dc,2026-10-17T10:00:00Z,J1_League,Kashiwa Reysol,Nagoya Grampus,1-3
+2026-10-18T06:32:13Z,2026-10-17,leagues,2fe9f708e5b2,2026-10-17T09:00:00Z,J2_League,Kataller Toyama,Shonan Bellmare,1-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,58b0d13e75df,2026-10-17T14:00:00Z,Scottish_League_Two,Kelty Hearts,Forfar Athletic,2-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,1d52fade2344,2026-10-17T14:00:00Z,Scottish_Premiership,Kilmarnock,Motherwell,3-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,cebf76aca443,2026-10-17T13:30:00Z,Slovak_SuperLiga,Komárno,Ružomberok,0-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,e8c96316066f,2026-10-17T14:00:00Z,Eliteserien,Kristiansund BK,Aalesund,1-4
+2026-10-18T06:32:13Z,2026-10-17,leagues,33e06113e968,2026-10-17T11:00:00Z,Veikkausliiga_Finland,Lahti,Turku PS,5-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,9e540ce71639,2026-10-17T19:00:00Z,Spanish_Segunda,Las Palmas,Castellón,0-3
+2026-10-18T06:32:13Z,2026-10-17,leagues,6e3c95bcca5a,2026-10-17T10:00:00Z,Polish_2_Liga,Legia Warszawa II,Tychy 71,1-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,48cb3b0e73b7,2026-10-17T14:00:00Z,League_One,Leicester,Doncaster,2-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,411f1e349321,2026-10-17T14:00:00Z,Super_League_Greece,Levadiakos,Volos NFC,0-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,1257e58f59a2,2026-10-17T14:00:00Z,League_One,Leyton Orient,Blackpool,2-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,e8dfdad0786e,2026-10-17T18:45:00Z,Ligue_1,Lille,Stade Brestois 29,1-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,88a8c3f99037,2026-10-17T11:00:00Z,Superettan,Ljungskile SK,IK brage,2-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,bfa9727ccd67,2026-10-17T23:00:00Z,USL_Championship,Louisville City,Indy Eleven,4-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,0cf03bc73ac3,2026-10-17T16:15:00Z,Israeli_Premier_League,Maccabi Netanya,Ironi Kiryat Shmona,1-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,6cc581f3f10b,2026-10-17T16:30:00Z,Israeli_Premier_League,Maccabi Petah Tikva,Maccabi Haifa,1-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,0b21d6dd8e74,2026-10-17T17:00:00Z,Serbia_SuperLiga,Macva,OFK Beograd,1-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,15d2cfb8bb71,2026-10-17T14:00:00Z,Premier_League,Manchester City,Ipswich,3-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,e154f76bf070,2026-10-17T15:15:00Z,Serie_B_Italy,Mantova,Palermo,0-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,51a43ceef475,2026-10-17T16:00:00Z,2_Lig_Turkey,Menemen FK,Güzide Gebzespor,0-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,63c93c44b415,2026-10-17T12:00:00Z,Ligue_2,Metz,Sochaux,3-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,7e71c6137d04,2026-10-17T11:00:00Z,Hungarian_NB_II,Mezokovesd-zsory,Kecskeméti TE,3-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,d879c6ac3d16,2026-10-17T23:00:00Z,USL_Championship,Miami FC,Charleston Battery,1-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,86a93a05bd9a,2026-10-17T11:30:00Z,Championship,Middlesbrough,Cardiff,2-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,e9106f472f93,2026-10-17T13:30:00Z,Polish_1_Liga,Miedz Legnica,Stal Mielec,3-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,d0d211eb1411,2026-10-17T23:00:00Z,Colombia_PrimeraA,Millonarios,Jaguares,4-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,2e3906356cd6,2026-10-17T11:30:00Z,Championship,Millwall,Lincoln,2-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,a0d7d469e073,2026-10-17T11:30:00Z,League_One,Milton Keynes Dons,Luton,2-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,5367070d8191,2026-10-17T20:30:00Z,MLS,Minnesota United FC,St. Louis City,3-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,c004f206947d,2026-10-17T13:00:00Z,Czech_First_League,Mlada Boleslav,Teplice,1-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,222a568f0b79,2026-10-17T14:00:00Z,Scottish_Championship,Morton,Queen's Park,2-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,f6c467473eee,2026-10-17T12:45:00Z,Ekstraklasa,Motor Lublin,Slask Wroclaw,3-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,b9dd3cb2862d,2026-10-17T11:00:00Z,Hungarian_NB_II,Nagykanizsai ULE,Kozarmisleny FC,0-3
+2026-10-18T06:32:13Z,2026-10-17,leagues,7f272ed332be,2026-10-17T12:00:00Z,Ligue_2,Nantes,Dunkerque,2-3
+2026-10-18T06:32:13Z,2026-10-17,leagues,4405e63d05a5,2026-10-17T15:40:00Z,Saudi_Pro_League,NEOM,Al-Ettifaq,0-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,334bbdec1f9b,2026-10-17T16:30:00Z,Premier_League,Newcastle,Aston Villa,0-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,a4192ed74ade,2026-10-17T14:00:00Z,League_Two,Newport County,York,1-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,c234379e60bf,2026-10-17T13:00:00Z,Croatia_HNL,NK Lokomotiva Zagreb,Istra 1961,2-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,66ac7758969f,2026-10-17T16:00:00Z,Croatia_HNL,NK Osijek,HNK Gorica,1-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,f7ac6806a3da,2026-10-17T14:00:00Z,Championship,Norwich,Portsmouth,0-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,5892dde3f907,2026-10-17T20:00:00Z,USL_League_One,NY Cosmos,One Knoxville,0-3
+2026-10-18T06:32:13Z,2026-10-17,leagues,acf8b26d5b9b,2026-10-17T12:30:00Z,Hungarian_NB_I,Nyiregyhaza,Budapest Honved,0-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,e99fb08d4dec,2026-10-17T14:00:00Z,League_Two,Oldham,Cheltenham,4-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,68207b4c48c5,2026-10-17T15:00:00Z,Superettan,Osters IF,Oddevold,3-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,33e9687e12da,2026-10-17T13:00:00Z,Serie_B_Italy,Padova,Virtus Entella,1-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,5a61bb714ec4,2026-10-17T15:00:00Z,Hungarian_NB_I,Paks,Gyori ETO FC,1-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,06b60c55cf6a,2026-10-17T13:00:00Z,Czech_First_League,Pardubice,Zlin,3-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,2c239f7d1f1e,2026-10-17T11:30:00Z,League_One,Peterborough,Burton Albion,2-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,de1f04964379,2026-10-17T14:00:00Z,Scottish_League_One,Peterhead,Cove Rangers,2-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,642fee5c67d9,2026-10-17T14:15:00Z,Romania_Liga1,Petrolul Ploiesti,Sepsi OSK Sfantu Gheorghe,1-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,d26a6c868ad0,2026-10-17T18:30:00Z,MLS,Philadelphia Union,Charlotte,2-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,a4a8c6f04315,2026-10-17T17:30:00Z,Serie_B_Italy,Pisa,Cremonese,3-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,ac613b59eb6f,2026-10-17T20:30:00Z,Liga_Profesional_Argentina,Platense,Lanus,0-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,b13f4dfdc256,2026-10-17T14:00:00Z,League_One,Plymouth,Huddersfield,0-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,28f2dc284249,2026-10-17T13:30:00Z,Polish_1_Liga,Pogoń Grod. Mazowiecki,Polonia Warszawa,0-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,994c4f6950ad,2026-10-17T13:30:00Z,Polish_1_Liga,Polonia Bytom,Chrobry Głogów,3-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,ce8cf476494f,2026-10-17T14:00:00Z,League_Two,Port Vale,Chesterfield,1-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,f0680d154775,2026-10-17T13:00:00Z,Primera_Division_Uruguay,Progreso,Juventud,2-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,807921936ef5,2026-10-17T11:35:00Z,Chinese_Super_League,Qingdao Jonoon,Shenyang Urban,0-4
+2026-10-18T06:32:13Z,2026-10-17,leagues,258db53f402e,2026-10-17T14:00:00Z,Scottish_League_One,Queen of the South,Ross County,1-7
+2026-10-18T06:32:13Z,2026-10-17,leagues,55d24078c529,2026-10-17T12:45:00Z,Championnat_National,Quevilly,Orleans,3-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,8b906b8ab278,2026-10-17T16:00:00Z,Primera_Division_Uruguay,Racing Montevideo,Wanderers,3-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,5867ca27bf51,2026-10-17T18:30:00Z,Romania_Liga1,Rapid,Corvinul Hunedoara,2-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,4a96b66d6d4a,2026-10-17T16:30:00Z,La_Liga,Real Betis,Barcelona,2-5
+2026-10-18T06:32:13Z,2026-10-17,leagues,d50d58f5109a,2026-10-17T12:00:00Z,Spanish_Segunda,Real Sociedad II,Almeria,2-4
+2026-10-18T06:32:13Z,2026-10-17,leagues,d8083270e6c0,2026-10-17T18:00:00Z,Ligue_2,RED Star FC 93,Saint Etienne,0-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,1509109a2a00,2026-10-17T22:00:00Z,USL_League_One,Richmond Kickers,Corpus Christi,5-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,068a49bb4bf9,2026-10-17T17:30:00Z,Austrian_Bundesliga,Ried,Austria Vienna,3-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,275694daa752,2026-10-17T14:00:00Z,League_Two,Salford City,Crawley Town,2-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,70dbf55a6552,2026-10-17T13:00:00Z,Superettan,Sandviken,Ostersunds FK,0-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,c8c47632e112,2026-10-17T16:00:00Z,2_Lig_Turkey,Şanlıurfaspor,Hatayspor,4-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,1e77d3f83906,2026-10-17T23:00:00Z,Liga_MX,Santos Laguna,Club Queretaro,5-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,fd75a896f3f0,2026-10-17T13:30:00Z,Austrian_2_Liga,Schwarz-Weiß Bregenz,SKU Amstetten,0-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,5f9a6757d065,2026-10-17T12:00:00Z,Germany_3_Liga,SG Sonnenhof Grossaspach,Preußen Münster,3-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,6c21a8af11eb,2026-10-17T12:00:00Z,Chinese_Super_League,Shandong Luneng,Hangzhou Greentown,5-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,00691670f55d,2026-10-17T14:00:00Z,League_One,Sheffield Wednesday,AFC Wimbledon,5-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,b5e5cf9ee294,2026-10-17T11:30:00Z,League_Two,Shrewsbury,Bristol Rovers,1-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,0d99a7ea16fa,2026-10-17T16:00:00Z,Czech_First_League,Sigma Olomouc,Slovan Liberec,1-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,219a287bff51,2026-10-17T13:00:00Z,1_Lig_Turkey,Sivasspor,Sarıyer,1-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,878a73d5a46c,2026-10-17T13:30:00Z,Slovak_SuperLiga,Skalica,AS Trencin,0-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,5b78566341e4,2026-10-17T13:00:00Z,Czech_First_League,Slavia Praha,Hradec Králové,0-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,ca24cb3f015d,2026-10-17T18:45:00Z,Irish_Premier_Division,Sligo Rovers,Dundalk,1-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,9fe8bb350eba,2026-10-17T14:00:00Z,Championship,Southampton,Bolton,0-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,af8db0d334a7,2026-10-17T16:00:00Z,Slovak_SuperLiga,Spartak Trnava,Slovan Bratislava,0-3
+2026-10-18T06:32:13Z,2026-10-17,leagues,541909ec59d4,2026-10-17T14:00:00Z,Scottish_League_Two,Spartans,Stranraer,0-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,0904ec816136,2026-10-17T19:00:00Z,Eredivisie,Sparta Rotterdam,Willem II,3-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,3f3fdbf7aace,2026-10-17T16:30:00Z,Spanish_Segunda,Sporting Gijon,Albacete,2-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,9b5727693bbc,2026-10-17T11:00:00Z,Germany_2_Bundesliga,SpVgg Greuther Fürth,Eintracht Braunschweig,2-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,3de3a8748b6c,2026-10-17T12:00:00Z,Germany_3_Liga,SSV Jahn Regensburg,SV Wehen,0-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,b4876aaa3036,2026-10-17T14:00:00Z,Scottish_Championship,Stenhousemuir,Raith Rovers,1-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,914df1866c8a,2026-10-17T14:00:00Z,Scottish_Premiership,ST Johnstone,Dundee Utd,1-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,51612ae4f44d,2026-10-17T14:00:00Z,League_One,Stockport County,Bromley,1-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,61ef20de180a,2026-10-17T15:15:00Z,Ligue_1,Strasbourg,Paris Saint Germain,1-3
+2026-10-18T06:32:13Z,2026-10-17,leagues,1a8e882b4bda,2026-10-17T13:30:00Z,Germany_Bundesliga,SV Elversberg,FC Augsburg,4-3
+2026-10-18T06:32:13Z,2026-10-17,leagues,5969c1f0e5ee,2026-10-17T14:00:00Z,Championship,Swansea,West Ham,0-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,11b4ee3df71f,2026-10-17T14:00:00Z,League_Two,Swindon Town,Walsall,1-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,bb7bb82d59d2,2026-10-17T13:30:00Z,Polish_2_Liga,Świt Skolwin,Olimpia Grudziądz,1-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,89e3e7e2f742,2026-10-17T10:00:00Z,J2_League,Tegevajaro Miyazaki,Jubilo Iwata,1-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,828085f0ed81,2026-10-17T18:00:00Z,Eredivisie,Telstar,Feyenoord,3-4
+2026-10-18T06:32:13Z,2026-10-17,leagues,2fc9a0de9ffe,2026-10-17T12:45:00Z,Championnat_National,Thionville Lusitanos,Versailles,1-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,394c45dc6e7c,2026-10-17T15:00:00Z,Hungarian_NB_II,Tiszakecske FC,Csakvar,1-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,6eb08116c2a6,2026-10-17T14:00:00Z,League_Two,Tranmere,Barnet,1-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,3e1f6a5afa83,2026-10-17T17:30:00Z,Hungarian_NB_I,Ujpest,Puskas Academy,0-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,06dc3c35a6da,2026-10-17T13:30:00Z,Germany_Bundesliga,Union Berlin,Borussia Dortmund,0-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,7b9275928cd2,2026-10-17T19:00:00Z,La_Liga,Valencia,Athletic Club,0-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,a5da86042ab6,2026-10-17T12:45:00Z,Championnat_National,Valenciennes,Amiens,1-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,cb26e5c64903,2026-10-17T23:00:00Z,Liga_Profesional_Argentina,Velez Sarsfield,Gimnasia M.,1-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,31c6535b995f,2026-10-17T13:00:00Z,Serie_A_Italy,Venezia,Napoli,1-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,8977a4e9b891,2026-10-17T11:00:00Z,Germany_2_Bundesliga,VfL Wolfsburg,1. FC Heidenheim,3-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,cc6e5899db37,2026-10-17T16:00:00Z,Eliteserien,Viking,Fredrikstad,3-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,c109da73709d,2026-10-17T14:15:00Z,La_Liga,Villarreal,Elche,0-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,64f165b53708,2026-10-17T12:45:00Z,Championnat_National,Villefranche,Cannes,2-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,2145965d06f5,2026-10-17T15:00:00Z,Serbia_SuperLiga,Vojvodina,Radnicki 1923,2-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,6bdb72f9d013,2026-10-17T11:30:00Z,Championship,Watford,Charlton,2-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,dedf6e485034,2026-10-17T13:30:00Z,Germany_Bundesliga,Werder Bremen,SC Paderborn 07,2-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,7121f4901cc6,2026-10-17T14:00:00Z,Championship,West Brom,Blackburn,3-2
+2026-10-18T06:32:13Z,2026-10-17,leagues,09457378c7d4,2026-10-17T23:00:00Z,USL_League_One,Westchester SC,Union Omaha,2-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,5fb9110f0cca,2026-10-17T14:00:00Z,League_One,Wigan,Reading,1-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,ce836c35de49,2026-10-17T14:00:00Z,Championship,Wrexham,Preston,4-1
+2026-10-18T06:32:13Z,2026-10-17,leagues,d6a08564864c,2026-10-17T14:30:00Z,Germany_3_Liga,Würzburger Kickers,Waldhof Mannheim,2-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,52d0a665c10d,2026-10-17T14:00:00Z,League_One,Wycombe,Notts County,2-0
+2026-10-18T06:32:13Z,2026-10-17,leagues,f3417c3c4330,2026-10-17T11:35:00Z,Chinese_Super_League,Yunnan Yukun,Chongqing Tongliang Long,1-1
+2026-10-18T06:32:13Z,2026-10-17,cups,62e14e51e8eb,2026-10-17T19:15:00Z,Taca_de_Portugal,Academica,Amarante,3-2
+2026-10-18T06:32:13Z,2026-10-17,cups,f47a7662ccf2,2026-10-17T14:00:00Z,FA_Cup_England,AFC Fylde,Atherton Collieries,5-0
+2026-10-18T06:32:13Z,2026-10-17,cups,82a2b1a491f3,2026-10-17T14:00:00Z,FA_Cup_England,AFC Rushden & Diamonds,Morecambe,2-1
+2026-10-18T06:32:13Z,2026-10-17,cups,7cdad96f4c7d,2026-10-17T14:00:00Z,FA_Cup_England,Aldershot Town,Tadley Calleva,2-2
+2026-10-18T06:32:13Z,2026-10-17,cups,df38844c6c71,2026-10-17T14:00:00Z,FA_Cup_England,Altrincham,United of Manchester,0-0
+2026-10-18T06:32:13Z,2026-10-17,cups,e28e94407c3b,2026-10-17T14:00:00Z,Taca_de_Portugal,Atlético CP,Vizela,1-0
+2026-10-18T06:32:13Z,2026-10-17,cups,f5cdb1394068,2026-10-17T15:00:00Z,Taca_de_Portugal,AVS,Moreirense,1-0
+2026-10-18T06:32:13Z,2026-10-17,cups,e3cbb86e4fea,2026-10-17T14:00:00Z,FA_Cup_England,Barrow,Gloucester City,0-0
+2026-10-18T06:32:13Z,2026-10-17,cups,2199f9f429b4,2026-10-17T14:00:00Z,FA_Cup_England,Bedford Town,Cray Wanderers,0-0
+2026-10-18T06:32:13Z,2026-10-17,cups,4f71c40aef2a,2026-10-17T14:00:00Z,FA_Cup_England,Boreham Wood,Woking,3-2
+2026-10-18T06:32:13Z,2026-10-17,cups,4d6483134953,2026-10-17T14:00:00Z,FA_Cup_England,Boston United,Scunthorpe,1-3
+2026-10-18T06:32:13Z,2026-10-17,cups,332ce548a03f,2026-10-17T11:30:00Z,FA_Cup_England,Bury,Harrogate Town,1-1
+2026-10-18T06:32:13Z,2026-10-17,cups,5ea320715a10,2026-10-17T14:00:00Z,FA_Cup_England,Carlisle,Tamworth,2-1
+2026-10-18T06:32:13Z,2026-10-17,cups,30d5cc99b17f,2026-10-17T14:00:00Z,FA_Cup_England,Chesham United,Forest Green,0-0
+2026-10-18T06:32:13Z,2026-10-17,cups,93e194ed7709,2026-10-17T14:00:00Z,FA_Cup_England,Chorley,Worcester City,1-1
+2026-10-18T06:32:13Z,2026-10-17,cups,f93aff917261,2026-10-17T14:00:00Z,FA_Cup_England,Dover,Dorking Wanderers,3-2
+2026-10-18T06:32:13Z,2026-10-17,cups,84587447e33a,2026-10-17T14:00:00Z,FA_Cup_England,Eastleigh,Brentwood Town,3-2
+2026-10-18T06:32:13Z,2026-10-17,cups,33d645468bab,2026-10-17T14:00:00Z,Taca_de_Portugal,Farense,AD Marco 09,3-0
+2026-10-18T06:32:13Z,2026-10-17,cups,09bafe1172aa,2026-10-17T14:30:00Z,Taca_de_Portugal,Fazendense,Estrela,1-2
+2026-10-18T06:32:13Z,2026-10-17,cups,80c864e0a864,2026-10-17T14:00:00Z,FA_Cup_England,FC Halifax Town,South Shields,3-2
+2026-10-18T06:32:13Z,2026-10-17,cups,f88d3a7e3627,2026-10-17T14:00:00Z,Taca_de_Portugal,Florgrade,Portimonense,1-2
+2026-10-18T06:32:13Z,2026-10-17,cups,9e7159dd6e96,2026-10-17T14:00:00Z,FA_Cup_England,Gateshead,Stafford Rangers,1-1
+2026-10-18T06:32:13Z,2026-10-17,cups,0bc663c0a6d6,2026-10-17T14:00:00Z,FA_Cup_England,Harborough Town,Spennymoor Town,3-1
+2026-10-18T06:32:13Z,2026-10-17,cups,a7792cce95f1,2026-10-17T14:00:00Z,FA_Cup_England,Hartlepool,Marine,0-2
+2026-10-18T06:32:13Z,2026-10-17,cups,c13fae4c5975,2026-10-17T14:00:00Z,FA_Cup_England,Kidderminster Harriers,Solihull Moors,2-1
+2026-10-18T06:32:13Z,2026-10-17,cups,3347a16e1d9f,2026-10-17T14:00:00Z,FA_Cup_England,Leatherhead,Yeovil Town,3-3
+2026-10-18T06:32:13Z,2026-10-17,cups,eb4368456336,2026-10-17T14:00:00Z,FA_Cup_England,Leiston,Guiseley AFC,0-3
+2026-10-18T06:32:13Z,2026-10-17,cups,41331da1bbdc,2026-10-17T16:00:00Z,Taca_de_Portugal,Louletano,Rio Ave,0-1
+2026-10-18T06:32:13Z,2026-10-17,cups,68c3c7380176,2026-10-17T14:00:00Z,FA_Cup_England,Macclesfield,Anstey Nomads,1-1
+2026-10-18T06:32:13Z,2026-10-17,cups,90b52c4853f8,2026-10-17T19:00:00Z,Taca_de_Portugal,Penafiel,Leça,0-1
+2026-10-18T06:32:13Z,2026-10-17,cups,ed6e88c29639,2026-10-17T14:00:00Z,FA_Cup_England,Plymouth Parkway,Chertsey Town,2-0
+2026-10-18T06:32:13Z,2026-10-17,cups,dc9bdaed7883,2026-10-17T14:00:00Z,FA_Cup_England,Salisbury,Eastbourne Borough,3-0
+2026-10-18T06:32:13Z,2026-10-17,cups,ea6b825f9ad7,2026-10-17T14:00:00Z,Taca_de_Portugal,Sanjoanense,Nacional,1-0
+2026-10-18T06:32:13Z,2026-10-17,cups,02cd45600c60,2026-10-17T14:00:00Z,FA_Cup_England,Southend,Berkhamsted,1-2
+2026-10-18T06:32:13Z,2026-10-17,cups,b4c97c5d9737,2026-10-17T14:00:00Z,FA_Cup_England,Spalding United,Alvechurch,2-2
+2026-10-18T06:32:13Z,2026-10-17,cups,d6b147b88202,2026-10-17T14:00:00Z,FA_Cup_England,Sutton Utd,Truro City,1-0
+2026-10-18T06:32:13Z,2026-10-17,cups,1bec985954ed,2026-10-17T14:00:00Z,FA_Cup_England,Torquay,Oxford City,0-1
+2026-10-18T06:32:13Z,2026-10-17,cups,ac98d3ce59f6,2026-10-17T15:00:00Z,Taca_de_Portugal,União de Leiria,Bragança,2-1
+2026-10-18T06:32:13Z,2026-10-17,cups,526d5aa052b1,2026-10-17T14:00:00Z,FA_Cup_England,Uxbridge,AFC Hornchurch,0-4
+2026-10-18T06:32:13Z,2026-10-17,cups,a1851806f3ab,2026-10-17T14:00:00Z,Taca_de_Portugal,Vianense,Leixoes,1-0
+2026-10-18T06:32:13Z,2026-10-17,cups,b50fe2293002,2026-10-17T14:00:00Z,FA_Cup_England,Wealdstone,Worthing,3-0
+2026-10-18T06:32:13Z,2026-10-17,cups,d563bde2eb15,2026-10-17T14:00:00Z,FA_Cup_England,Wimborne Town,Chelmsford City,1-0
+2026-10-18T06:32:13Z,2026-10-17,women,01e24f112cff,2026-10-17T11:45:00Z,England_WSL,Arsenal W,Birmingham City W,1-1
+2026-10-18T06:32:13Z,2026-10-17,women,a1908a7d9c4f,2026-10-17T14:30:00Z,Primera_Division_Femenina,Athletic Club W,Valencia W,1-0
+2026-10-18T06:32:13Z,2026-10-17,women,158c6a3e936a,2026-10-17T12:00:00Z,Frauen_Bundesliga,Bayer Leverkusen W,Eintracht Frankfurt W,1-1
+2026-10-18T06:32:13Z,2026-10-17,women,b392c44be02a,2026-10-17T12:00:00Z,Damallsvenskan_Sweden,Brommapojkarna W,Växjö W,2-1
+2026-10-18T06:32:13Z,2026-10-17,women,4769c0f34e5a,2026-10-17T13:00:00Z,Serie_A_Women_Italy,Como W,Fiorentina W,1-1
+2026-10-18T06:32:13Z,2026-10-17,women,409529c17692,2026-10-17T10:00:00Z,Primera_Division_Femenina,Edf Logrono W,Granada,2-3
+2026-10-18T06:32:13Z,2026-10-17,women,258d214ce94e,2026-10-17T14:00:00Z,Damallsvenskan_Sweden,Eskilstuna United W,Norrköping W,1-2
+2026-10-18T06:32:13Z,2026-10-17,women,3708164bf303,2026-10-17T10:00:00Z,Frauen_Bundesliga,FC Koln W,Hamburger SV W,3-1
+2026-10-18T06:32:13Z,2026-10-17,women,d1ac5b305812,2026-10-17T10:00:00Z,Primera_Division_Femenina,FC Levante Badalona W,Granad. Tenerife W,0-4
+2026-10-18T06:32:13Z,2026-10-17,women,fbf82f54b914,2026-10-17T16:00:00Z,Feminine_Division,Lens W,Strasbourg W,1-3
+2026-10-18T06:32:13Z,2026-10-17,women,26a26cef93e0,2026-10-17T12:00:00Z,Damallsvenskan_Sweden,Malmö FF W,AIK W,3-2
+2026-10-18T06:32:13Z,2026-10-17,women,b73ca73dc1ae,2026-10-17T16:00:00Z,Feminine_Division,Montpellier W,Le Havre W,1-1
+2026-10-18T06:32:13Z,2026-10-17,women,77f12082971c,2026-10-17T23:00:00Z,USA_NWSL,North Carolina Courage W,San Diego Wave W,1-2
+2026-10-18T06:32:13Z,2026-10-17,women,c231fa8c1944,2026-10-17T19:00:00Z,Feminine_Division,Paris Saint Germain W,Lyon W,0-4
+2026-10-18T06:32:13Z,2026-10-17,women,73558372ba77,2026-10-17T18:30:00Z,Primera_Division_Femenina,Real Madrid W,Espanyol W,3-1
+2026-10-18T06:32:13Z,2026-10-17,women,0dbcbcbbc7b3,2026-10-17T13:00:00Z,Damallsvenskan_Sweden,Rosengård W,Vittsjö W,2-0
+2026-10-18T06:32:13Z,2026-10-17,women,65e048d79816,2026-10-17T10:30:00Z,Serie_A_Women_Italy,Sassuolo W,Napoli W,1-4
+2026-10-18T06:32:13Z,2026-10-17,women,8f6d6506e0cf,2026-10-17T16:00:00Z,Serie_A_Women_Italy,Ternana W,Lazio W,1-0
+2026-10-18T06:32:13Z,2026-10-17,women,1547a52ad84b,2026-10-17T13:00:00Z,Damallsvenskan_Sweden,Uppsala W,Kristianstad W,0-5
+2026-10-18T06:32:13Z,2026-10-17,women,b155b2ade242,2026-10-17T22:30:00Z,USA_NWSL,Utah Royals W,Kansas City W,0-2
+2026-10-18T06:32:13Z,2026-10-17,women,04da38f30c24,2026-10-17T16:30:00Z,USA_NWSL,Washington Spirit W,NJ/NY Gotham FC W,1-0
