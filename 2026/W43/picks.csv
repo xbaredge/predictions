@@ -1,2 +1,16 @@
 published_utc,run_date,comp,match_id,kickoff_utc,league,home,away,market,gradable,model_p,model_fair_odds,odds,odds_basis,edge_pct,open_median,open_median_utc,open_books,fair_open,fair_open_utc,fair_at_publish,fair_at_publish_utc,combinations,model
 2026-10-18T06:33:11Z,2026-10-19,leagues,16df739921eb,2026-10-19T01:00:00Z,Liga_MX,Monterrey,CF Pachuca,ASIAN_OVER_2_0,0,0.8535,1.172,1.260,-,7.54,,,,,,,,,v3/binary/published
+2026-10-19T06:09:08Z,2026-10-19,leagues,65b4d8141169,2026-10-19T18:00:00Z,Eerste_Divisie,Jong Utrecht,Roda,ASIAN_OVER_2_0,0,0.8432,1.186,1.260,-,6.24,,,,,,,,,v3/binary/published
+2026-10-19T06:09:08Z,2026-10-19,leagues,a33a115d0064,2026-10-19T17:00:00Z,1_Lig_Turkey,Bursaspor,Pendikspor,HOME_WIN,1,0.6564,1.523,1.430,-,-6.13,1.410,2026-10-16T17:00:10Z,9,1.506,2026-10-16T17:00:10Z,1.442,2026-10-19T00:41:44Z,,v3/binary/published
+2026-10-19T06:09:08Z,2026-10-19,leagues,62f14c0f8703,2026-10-19T19:00:00Z,Irish_Premier_Division,Derry City,St Patrick's Athl.,DRAW,1,0.3329,3.004,3.350,-,11.52,3.320,2026-10-06T21:40:51Z,4,3.548,2026-10-06T21:40:51Z,3.536,2026-10-09T15:01:38Z,VALUE SINGLE #1,v3/binary/published
+2026-10-19T06:09:08Z,2026-10-19,leagues,228eb8808ce8,2026-10-19T18:45:00Z,Ligue_2,Rodez,Montpellier,DRAW,1,0.3226,3.100,3.600,-,16.14,3.250,2026-10-16T21:40:13Z,6,3.171,2026-10-16T21:40:13Z,3.289,2026-10-19T03:40:28Z,VALUE SINGLE #2,v3/binary/published
+2026-10-19T06:09:08Z,2026-10-19,leagues,933c99db3282,2026-10-19T15:20:00Z,Saudi_Pro_League,Abha,Al Kholood,DRAW,1,0.2936,3.406,3.100,-,-8.98,3.240,2026-10-16T17:00:10Z,3,3.671,2026-10-16T21:40:13Z,3.671,2026-10-19T03:40:28Z,,v3/binary/published
+2026-10-19T06:09:08Z,2026-10-19,leagues,a2de095b12fb,2026-10-19T18:45:00Z,Irish_Premier_Division,Waterford,Galway United,DRAW,1,0.3066,3.262,4.100,-,25.71,3.880,2026-10-06T21:40:51Z,4,4.250,2026-10-06T21:40:51Z,4.193,2026-10-09T15:01:38Z,VALUE SINGLE #3,v3/binary/published
+2026-10-19T06:09:08Z,2026-10-19,leagues,f3b89ae7da70,2026-10-19T18:45:00Z,Serie_A_Italy,Parma,Torino,UPSET,1,0.3829,2.612,,estimated,,,,,,,,,,v3/binary/published
+2026-10-19T06:09:08Z,2026-10-19,leagues,109b7aa78cbd,2026-10-19T18:30:00Z,Spanish_Segunda,Celta de Vigo II,Tenerife,DRAW,1,0.3045,3.284,3.350,-,2.01,3.210,2026-10-16T21:40:13Z,6,3.457,2026-10-16T21:40:13Z,3.428,2026-10-19T00:41:44Z,VALUE SINGLE #4,v3/binary/published
+2026-10-19T06:09:08Z,2026-10-19,leagues,8011c2504898,2026-10-19T17:00:00Z,Allsvenskan,Degerfors IF,Kalmar FF,UPSET,1,0.3695,2.706,,estimated,,,,,,,,,,v3/binary/published
+2026-10-19T06:09:08Z,2026-10-19,leagues,8d6b5dfb6be7,2026-10-19T14:00:00Z,1_Lig_Turkey,Manisa F.K.,Muğlaspor,UPSET,1,0.3501,2.856,,estimated,,,,,,,,,,v3/binary/published
+2026-10-19T06:09:08Z,2026-10-19,leagues,f30f0c9e00a8,2026-10-19T19:00:00Z,La_Liga,Getafe,Rayo Vallecano,UPSET,1,0.3405,2.937,,estimated,,,,,,,,,,v3/binary/published
+2026-10-19T06:09:08Z,2026-10-19,leagues,abd5644d2817,2026-10-19T18:00:00Z,Eerste_Divisie,Jong Ajax,De Graafschap,UPSET,1,0.3397,2.944,,estimated,,,,,,,,,,v3/binary/published
+2026-10-19T06:09:08Z,2026-10-19,leagues,98a089ba7ed2,2026-10-19T18:00:00Z,Eerste_Divisie,Jong PSV U21,Dordrecht,UPSET,1,0.3375,2.963,,estimated,,,,,,,,,,v3/binary/published
+2026-10-19T06:09:08Z,2026-10-19,leagues,bba17a512d1f,2026-10-19T17:00:00Z,Super_Lig_Turkey,Trabzonspor,Beşiktaş,UPSET,1,0.3335,2.999,,estimated,,,,,,,,,,v3/binary/published

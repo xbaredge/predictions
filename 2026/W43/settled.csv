@@ -1,0 +1,6 @@
+settled_utc,run_date,comp,match_id,kickoff_utc,home,away,market,score,result,settle_frac,odds,close_median,close_median_utc,close_books,clv_median_pct,fair_close,fair_close_utc,clv_pct
+2026-10-20T06:13:24Z,2026-10-19,leagues,a33a115d0064,2026-10-19T17:00:00Z,Bursaspor,Pendikspor,HOME_WIN,2-0,1,1,1.430,1.440,2026-10-19T11:41:31Z,9,-0.69,1.521,2026-10-19T11:41:31Z,-5.98
+2026-10-20T06:13:24Z,2026-10-19,leagues,62f14c0f8703,2026-10-19T19:00:00Z,Derry City,St Patrick's Athl.,DRAW,1-0,0,0,3.350,3.250,2026-10-19T15:00:20Z,5,3.08,3.536,2026-10-09T15:01:38Z,-5.26
+2026-10-20T06:13:24Z,2026-10-19,leagues,228eb8808ce8,2026-10-19T18:45:00Z,Rodez,Montpellier,DRAW,0-3,0,0,3.600,3.425,2026-10-19T15:00:20Z,10,5.11,3.687,2026-10-19T15:00:20Z,-2.36
+2026-10-20T06:13:24Z,2026-10-19,leagues,a2de095b12fb,2026-10-19T18:45:00Z,Waterford,Galway United,DRAW,3-2,0,0,4.100,3.600,2026-10-19T15:00:20Z,5,13.89,4.193,2026-10-09T15:01:38Z,-2.22
+2026-10-20T06:13:24Z,2026-10-19,leagues,109b7aa78cbd,2026-10-19T18:30:00Z,Celta de Vigo II,Tenerife,DRAW,1-1,1,1,3.350,3.195,2026-10-19T15:00:20Z,10,4.85,3.299,2026-10-19T15:00:20Z,1.55
