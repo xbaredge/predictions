@@ -142,3 +142,38 @@ settled_utc,run_date,comp,match_id,kickoff_utc,league,home,away,score
 2026-10-22T06:08:30Z,2026-10-21,cups,405828c964b6,2026-10-21T19:00:00Z,UEFA_Champions_League,Real Madrid,RB Leipzig,4-1
 2026-10-22T06:08:30Z,2026-10-21,cups,ce9da7f550f7,2026-10-21T19:00:00Z,UEFA_Champions_League,Sporting CP,Lask Linz,2-3
 2026-10-22T06:08:30Z,2026-10-21,cups,63fc81f8a70f,2026-10-21T17:00:00Z,DBU_Pokalen_Denmark,Vanløse,Nykobing FC,0-2
+2026-10-23T06:22:04Z,2026-10-21,leagues,043123d30db6,2026-10-21T23:00:00Z,USL_League_One,NY Cosmos,Spokane Velocity,3-3
+2026-10-23T06:22:04Z,2026-10-21,leagues,a21aae277525,2026-10-21T23:30:00Z,USL_Championship,Sporting JAX,Louisville City,0-2
+2026-10-23T06:22:04Z,2026-10-22,leagues,e96461e99228,2026-10-22T01:00:00Z,Liga_MX,Atlas,Club America,2-5
+2026-10-23T06:22:04Z,2026-10-22,leagues,227120206706,2026-10-22T03:00:00Z,Liga_MX,CF Pachuca,Cruz Azul,1-2
+2026-10-23T06:22:04Z,2026-10-22,leagues,ae7ca12f10f1,2026-10-22T01:00:00Z,Liga_MX,Puebla,Monterrey,1-4
+2026-10-23T06:22:04Z,2026-10-22,leagues,6f9c5699d371,2026-10-22T01:20:00Z,Colombia_PrimeraA,Santa Fe,Jaguares,2-1
+2026-10-23T06:22:04Z,2026-10-22,leagues,aa189235af7f,2026-10-22T03:10:00Z,Liga_MX,Santos Laguna,U.N.A.M. - Pumas,2-0
+2026-10-23T06:22:04Z,2026-10-22,leagues,f533de83f0b0,2026-10-22T01:00:00Z,Liga_MX,Toluca,Club Tijuana,2-2
+2026-10-23T06:22:04Z,2026-10-22,cups,b8534c7a6a91,2026-10-22T00:00:00Z,US_Open_Cup,Columbus Crew,St. Louis City,0-0
+2026-10-23T06:22:04Z,2026-10-22,cups,70b932baa299,2026-10-22T00:30:00Z,Copa_Libertadores,Palmeiras,Fluminense,0-1
+2026-10-23T06:22:04Z,2026-10-22,leagues,34de96a46e8f,2026-10-22T14:45:00Z,Saudi_Pro_League,Al-Fateh,Al Shabab,1-3
+2026-10-23T06:22:04Z,2026-10-22,leagues,16b903ed53c1,2026-10-22T13:40:00Z,Saudi_Pro_League,Al-Hazm,Al-Fayha,2-2
+2026-10-23T06:22:04Z,2026-10-22,cups,3b72c718ff7b,2026-10-22T19:00:00Z,UEFA_Europa_League,1899 Hoffenheim,Lyon,3-0
+2026-10-23T06:22:04Z,2026-10-22,cups,19fbd27e5190,2026-10-22T19:00:00Z,UEFA_Europa_Conference_League,Aarhus,Egnatia Rrogozhinë,1-1
+2026-10-23T06:22:04Z,2026-10-22,cups,853d721e9576,2026-10-22T16:45:00Z,UEFA_Europa_League,Ararat-Armenia,AZ Alkmaar,0-4
+2026-10-23T06:22:04Z,2026-10-22,cups,f300dfbe3a51,2026-10-22T19:00:00Z,UEFA_Europa_Conference_League,Borac Banja Luka,KuPS,2-0
+2026-10-23T06:22:04Z,2026-10-22,cups,418ccf3d5d60,2026-10-22T19:00:00Z,UEFA_Europa_League,Celje,Red Bull Salzburg,2-2
+2026-10-23T06:22:04Z,2026-10-22,cups,3754d1666cec,2026-10-22T19:00:00Z,UEFA_Europa_League,Celtic,Celta Vigo,1-2
+2026-10-23T06:22:04Z,2026-10-22,cups,e3aa52e001d8,2026-10-22T16:45:00Z,UEFA_Europa_Conference_League,FC Nordsjaelland,CSKA Sofia,2-2
+2026-10-23T06:22:04Z,2026-10-22,cups,dd5b979a905e,2026-10-22T16:45:00Z,UEFA_Europa_Conference_League,Inter Club d'Escaldes,Universitatea Craiova,1-3
+2026-10-23T06:22:04Z,2026-10-22,cups,955219e0a0fc,2026-10-22T19:00:00Z,UEFA_Europa_League,Jagiellonia,Anderlecht,0-3
+2026-10-23T06:22:04Z,2026-10-22,cups,c611a7215d33,2026-10-22T16:45:00Z,UEFA_Europa_League,Juventus,Rennes,2-2
+2026-10-23T06:22:04Z,2026-10-22,cups,d859b987151a,2026-10-22T14:30:00Z,UEFA_Europa_Conference_League,Kairat Almaty,Panathinaikos,1-5
+2026-10-23T06:22:04Z,2026-10-22,cups,ed41c73df521,2026-10-22T16:45:00Z,UEFA_Europa_Conference_League,Kauno Žalgiris,Brann,1-4
+2026-10-23T06:22:04Z,2026-10-22,cups,d2901a18bd2f,2026-10-22T19:00:00Z,UEFA_Europa_League,Lillestrom,Real Sociedad,0-6
+2026-10-23T06:22:04Z,2026-10-22,cups,51fa5f113d94,2026-10-22T19:00:00Z,UEFA_Europa_Conference_League,Lincoln Red Imps FC,Twente,1-4
+2026-10-23T06:22:04Z,2026-10-22,cups,f28a70fac6f4,2026-10-22T16:45:00Z,UEFA_Europa_League,OFI,Bayer Leverkusen,0-2
+2026-10-23T06:22:04Z,2026-10-22,cups,da84054f88b2,2026-10-22T19:00:00Z,UEFA_Europa_League,Olympiakos Piraeus,Sparta Praha,1-0
+2026-10-23T06:22:04Z,2026-10-22,cups,94a6af8e2935,2026-10-22T19:00:00Z,UEFA_Europa_League,Omonia Nicosia,Benfica,1-4
+2026-10-23T06:22:04Z,2026-10-22,cups,2e639f4b536b,2026-10-22T16:45:00Z,UEFA_Europa_Conference_League,Pafos,Riga,1-1
+2026-10-23T06:22:04Z,2026-10-22,cups,20ecb8b68cd2,2026-10-22T19:00:00Z,UEFA_Europa_League,Plzen,Levski Sofia,1-2
+2026-10-23T06:22:04Z,2026-10-22,cups,9a5f9b3e4804,2026-10-22T19:00:00Z,UEFA_Europa_Conference_League,SC Braga,Gent,2-0
+2026-10-23T06:22:04Z,2026-10-22,cups,f03074781fba,2026-10-22T16:45:00Z,UEFA_Europa_League,Sturm Graz,Marseille,1-0
+2026-10-23T06:22:04Z,2026-10-22,cups,e1cf090ee6ae,2026-10-22T16:45:00Z,UEFA_Europa_Conference_League,Trabzonspor,Heart Of Midlothian,2-0
+2026-10-23T06:22:04Z,2026-10-22,cups,18314fb1a045,2026-10-22T16:45:00Z,UEFA_Europa_League,Union St. Gilloise,Hapoel Beer Sheva,4-0

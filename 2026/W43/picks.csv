@@ -45,3 +45,8 @@ published_utc,run_date,comp,match_id,kickoff_utc,league,home,away,market,gradabl
 2026-10-21T06:11:41Z,2026-10-21,leagues,00b3bade9ba9,2026-10-21T10:00:00Z,J1_League,Avispa Fukuoka,Gamba Osaka,UPSET,1,0.3424,2.921,,estimated,,,,,,,,,,v3/binary/published
 2026-10-21T06:11:41Z,2026-10-21,leagues,cdeaa86b6b78,2026-10-21T10:00:00Z,J1_League,Nagoya Grampus,Cerezo Osaka,UPSET,1,0.3334,2.999,,estimated,,,,,,,,,,v3/binary/published
 2026-10-21T06:11:41Z,2026-10-21,leagues,496630cfdf62,2026-10-21T23:15:00Z,Colombia_PrimeraA,Llaneros,Deportivo Cali,UPSET,1,0.3235,3.091,,estimated,,,,,,,,,,v3/binary/published
+2026-10-21T06:12:29Z,2026-10-22,leagues,227120206706,2026-10-22T03:00:00Z,Liga_MX,CF Pachuca,Cruz Azul,ASIAN_OVER_2_0,0,0.8267,1.210,1.270,-,4.99,,,,,,,,,v3/binary/published
+2026-10-21T06:12:29Z,2026-10-22,leagues,e96461e99228,2026-10-22T01:00:00Z,Liga_MX,Atlas,Club America,DRAW,1,0.2899,3.449,3.850,-,11.61,3.500,2026-10-19T03:40:28Z,6,3.849,2026-10-19T03:40:28Z,3.949,2026-10-21T03:40:37Z,VALUE SINGLE #1,v3/binary/published
+2026-10-21T06:12:29Z,2026-10-22,leagues,ae7ca12f10f1,2026-10-22T01:00:00Z,Liga_MX,Puebla,Monterrey,UPSET,1,0.3525,2.837,,estimated,,,,,,,,,,v3/binary/published
+2026-10-22T06:08:30Z,2026-10-22,leagues,34de96a46e8f,2026-10-22T14:45:00Z,Saudi_Pro_League,Al-Fateh,Al Shabab,DRAW,1,0.3035,3.295,3.300,-,0.15,3.700,2026-10-20T07:41:45Z,6,4.009,2026-10-20T07:41:45Z,3.999,2026-10-22T03:51:56Z,VALUE SINGLE #1,v3/binary/published
+2026-10-22T06:08:30Z,2026-10-22,leagues,16b903ed53c1,2026-10-22T13:40:00Z,Saudi_Pro_League,Al-Hazm,Al-Fayha,UPSET,1,0.3447,2.901,,estimated,,,,,,,,,,v3/binary/published
