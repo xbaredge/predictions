@@ -1,0 +1,8 @@
+# Predictions for run_date 2026-10-27, batch 1, committed 2026-10-26T06:10:41Z - before any fixture it
+# covers kicked off. Rows are released once the day's fixtures are final;
+# until then this hash is the whole public record. Batches for one date are
+# released in order and cover consecutive rows. Check with tools/verify.py.
+be2ad3d83c882814b7e46afefcea2bbccff2ed0150937cb5d82caacc10d20ff7  board  2
+6813ad32c2ab59a4af9a52b62b4bff9c910203143a9b3dc764c40ee0bb684a35  picks  0
+7001e8863c83015ca63e1d99bb52462eb422273c35907a6b7b47c71c094e16bc  goals  2
+ce6ba759bc7fc3e315d3c5c5d2f4074afb061806af25053bc585ebf09b7696b2  scores  0
