@@ -1,0 +1,14 @@
+published_utc,run_date,comp,match_id,kickoff_utc,league,home,away,market,gradable,model_p,model_fair_odds,odds,odds_basis,edge_pct,open_median,open_median_utc,open_books,fair_open,fair_open_utc,fair_at_publish,fair_at_publish_utc,combinations,model
+2026-10-25T06:27:13Z,2026-10-26,leagues,a7d4706a1d4c,2026-10-26T03:10:00Z,Liga_MX,Club Tijuana,Santos Laguna,OVER_2_5,1,0.6589,1.518,1.680,-,10.70,1.670,2026-10-23T03:40:56Z,5,1.719,2026-10-23T03:40:56Z,1.713,2026-10-25T03:42:23Z,CORE SINGLE #1,v3/binary/published
+2026-10-25T06:27:13Z,2026-10-26,leagues,db9e97625a25,2026-10-26T01:00:00Z,Liga_MX,Club Queretaro,Cruz Azul,DRAW,1,0.2868,3.487,3.900,-,11.85,3.645,2026-10-23T03:40:56Z,10,4.038,2026-10-23T03:40:56Z,4.034,2026-10-25T03:42:23Z,VALUE SINGLE #1,v3/binary/published
+2026-10-26T06:09:44Z,2026-10-26,leagues,1b765f59e458,2026-10-26T18:30:00Z,Super_Lig_Turkey,Galatasaray,Fenerbahçe,OVER_2_5,1,0.7083,1.412,1.530,-,8.37,1.485,2026-10-23T21:41:00Z,6,1.564,2026-10-23T21:41:00Z,1.555,2026-10-26T00:41:31Z,,v3/binary/published
+2026-10-26T06:09:44Z,2026-10-26,leagues,874789a49968,2026-10-26T16:00:00Z,Super_Lig_Turkey,Beşiktaş,Başakşehir,OVER_2_5,1,0.6911,1.447,1.460,-,0.90,1.400,2026-10-23T17:00:30Z,6,1.457,2026-10-23T17:00:30Z,1.448,2026-10-26T00:41:31Z,,v3/binary/published
+2026-10-26T06:09:44Z,2026-10-26,leagues,5d3464fad602,2026-10-26T16:00:00Z,Super_Lig_Turkey,Rizespor,Trabzonspor,OVER_2_5,1,0.6706,1.491,1.610,-,7.97,1.570,2026-10-23T17:00:30Z,6,1.637,2026-10-23T17:00:30Z,1.635,2026-10-26T00:41:31Z,,v3/binary/published
+2026-10-26T06:09:44Z,2026-10-26,leagues,51aa46b762cd,2026-10-26T22:00:00Z,Liga_Profesional_Argentina,Union Santa Fe,Estudiantes L.P.,UPSET,1,0.3820,2.618,,estimated,,,,,,,,,,v3/binary/published
+2026-10-26T06:09:44Z,2026-10-26,leagues,7591ec4be2e6,2026-10-26T18:05:00Z,Superettan,Orebro SK,Falkenbergs FF,UPSET,1,0.3815,2.621,,estimated,,,,,,,,,,v3/binary/published
+2026-10-26T06:09:44Z,2026-10-26,leagues,38a712917c37,2026-10-26T20:00:00Z,League_Two,Walsall,Salford City,UPSET,1,0.3619,2.763,,estimated,,,,,,,,,,v3/binary/published
+2026-10-26T06:09:44Z,2026-10-26,leagues,92813791b165,2026-10-26T23:00:00Z,Colombia_PrimeraA,Jaguares,Llaneros,UPSET,1,0.3544,2.822,,estimated,,,,,,,,,,v3/binary/published
+2026-10-26T06:09:44Z,2026-10-26,leagues,e8215fcc6c07,2026-10-26T17:00:00Z,Polish_1_Liga,Warta Poznań,ŁKS Łódź,UPSET,1,0.3433,2.913,,estimated,,,,,,,,,,v3/binary/published
+2026-10-26T06:09:44Z,2026-10-26,leagues,d7f0665038d4,2026-10-26T19:45:00Z,Ligue_2,Boulogne,Reims,UPSET,1,0.3286,3.043,,estimated,,,,,,,,,,v3/binary/published
+2026-10-26T06:09:44Z,2026-10-26,leagues,d52bc9257536,2026-10-26T17:00:00Z,Israeli_Premier_League,Maccabi Haifa,Hapoel Beer Sheva,UPSET,1,0.3235,3.091,,estimated,,,,,,,,,,v3/binary/published
+2026-10-26T06:09:44Z,2026-10-26,leagues,2bc1dc4546d9,2026-10-26T22:30:00Z,Serie_A_Brazil,Coritiba,Gremio,UPSET,1,0.3217,3.108,,estimated,,,,,,,,,,v3/binary/published
