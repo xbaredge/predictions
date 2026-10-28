@@ -12,3 +12,6 @@ published_utc,run_date,comp,match_id,kickoff_utc,league,home,away,market,gradabl
 2026-10-26T06:09:44Z,2026-10-26,leagues,d7f0665038d4,2026-10-26T19:45:00Z,Ligue_2,Boulogne,Reims,UPSET,1,0.3286,3.043,,estimated,,,,,,,,,,v3/binary/published
 2026-10-26T06:09:44Z,2026-10-26,leagues,d52bc9257536,2026-10-26T17:00:00Z,Israeli_Premier_League,Maccabi Haifa,Hapoel Beer Sheva,UPSET,1,0.3235,3.091,,estimated,,,,,,,,,,v3/binary/published
 2026-10-26T06:09:44Z,2026-10-26,leagues,2bc1dc4546d9,2026-10-26T22:30:00Z,Serie_A_Brazil,Coritiba,Gremio,UPSET,1,0.3217,3.108,,estimated,,,,,,,,,,v3/binary/published
+2026-10-27T06:11:10Z,2026-10-27,leagues,9b991f56f3f0,2026-10-27T12:40:00Z,Saudi_Pro_League,Abha,Al-Faisaly FC,UPSET,1,0.3768,2.654,,estimated,,,,,,,,,,v3/binary/published
+2026-10-27T06:11:10Z,2026-10-27,leagues,82a0a3558ab4,2026-10-27T18:00:00Z,Allsvenskan,AIK Stockholm,IF Elfsborg,UPSET,1,0.3514,2.846,,estimated,,,,,,,,,,v3/binary/published
+2026-10-27T06:11:10Z,2026-10-27,leagues,4e4e6f8d871e,2026-10-27T23:00:00Z,Colombia_PrimeraA,Cucuta,Águilas Doradas,UPSET,1,0.3342,2.992,,estimated,,,,,,,,,,v3/binary/published

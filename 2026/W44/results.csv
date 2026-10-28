@@ -35,3 +35,69 @@ settled_utc,run_date,comp,match_id,kickoff_utc,league,home,away,score
 2026-10-27T06:11:10Z,2026-10-26,cups,b0fb8e30432f,2026-10-26T16:00:00Z,AFC_Champions_League_Elite,Al-Ahli Jeddah,Al-Gharafa,2-1
 2026-10-27T06:11:10Z,2026-10-26,cups,68f6238e8b40,2026-10-26T16:00:00Z,AFC_Champions_League_Elite,Al Ain,Tractor Sazi,2-1
 2026-10-27T06:11:10Z,2026-10-26,cups,f375fa411a8c,2026-10-26T18:15:00Z,AFC_Champions_League_Elite,Al Quwa Al Jawiya,Pakhtakor,1-0
+2026-10-28T06:17:31Z,2026-10-26,leagues,259c1b2e00cf,2026-10-26T23:30:00Z,Serie_B_Brazil,Juventude,Nautico Recife,4-0
+2026-10-28T06:17:31Z,2026-10-27,leagues,d794df3e768c,2026-10-27T00:15:00Z,Liga_Profesional_Argentina,Instituto Cordoba,Deportivo Riestra,1-0
+2026-10-28T06:17:31Z,2026-10-27,leagues,5c47b85e482d,2026-10-27T01:05:00Z,Colombia_PrimeraA,Santa Fe,Bucaramanga,2-1
+2026-10-28T06:17:31Z,2026-10-27,leagues,9b991f56f3f0,2026-10-27T12:40:00Z,Saudi_Pro_League,Abha,Al-Faisaly FC,0-1
+2026-10-28T06:17:31Z,2026-10-27,leagues,82a0a3558ab4,2026-10-27T18:00:00Z,Allsvenskan,AIK Stockholm,IF Elfsborg,2-2
+2026-10-28T06:17:31Z,2026-10-27,leagues,109f47ab818c,2026-10-27T17:30:00Z,Bulgaria_First_League,Arda Kardzhali,Levski Sofia,1-1
+2026-10-28T06:17:31Z,2026-10-27,leagues,26213c648bc1,2026-10-27T22:00:00Z,Liga_Profesional_Argentina,Argentinos JRS,Independ. Rivadavia,1-0
+2026-10-28T06:17:31Z,2026-10-27,leagues,126cae9d088a,2026-10-27T19:00:00Z,Serie_B_Italy,Ascoli,Sampdoria,2-0
+2026-10-28T06:17:31Z,2026-10-27,leagues,9b15e8c102f8,2026-10-27T19:45:00Z,Serie_A_Italy,AS Roma,Cagliari,4-2
+2026-10-28T06:17:31Z,2026-10-27,leagues,0ef246e29075,2026-10-27T19:45:00Z,League_Two,Barnet,York,3-1
+2026-10-28T06:17:31Z,2026-10-27,leagues,a6b6d8422f75,2026-10-27T18:00:00Z,Serie_B_Italy,Benevento,Catanzaro,1-1
+2026-10-28T06:17:31Z,2026-10-27,leagues,daeffdfac6b3,2026-10-27T23:00:00Z,Serie_B_Brazil,Ceara,Goias,0-2
+2026-10-28T06:17:31Z,2026-10-27,leagues,ea74f74bb12e,2026-10-27T19:00:00Z,Serie_B_Italy,Cesena,Empoli,2-1
+2026-10-28T06:17:31Z,2026-10-27,leagues,4d67de72bc02,2026-10-27T15:00:00Z,Bulgaria_First_League,Cherno More Varna,Septemvri Sofia,2-0
+2026-10-28T06:17:31Z,2026-10-27,leagues,4e4e6f8d871e,2026-10-27T23:00:00Z,Colombia_PrimeraA,Cucuta,Águilas Doradas,0-2
+2026-10-28T06:17:31Z,2026-10-27,leagues,21f0e3a84ee6,2026-10-27T17:00:00Z,Croatia_HNL,Dinamo Zagreb,HNK Rijeka,2-1
+2026-10-28T06:17:31Z,2026-10-27,leagues,6225eb5e79a7,2026-10-27T18:00:00Z,Superettan,Landskrona BoIS,Varbergs BoIS FC,1-1
+2026-10-28T06:17:31Z,2026-10-27,leagues,7087c7ab99e4,2026-10-27T19:45:00Z,League_One,Leicester,Wigan,3-0
+2026-10-28T06:17:31Z,2026-10-27,leagues,78043e889668,2026-10-27T19:45:00Z,League_One,Luton,Doncaster,3-1
+2026-10-28T06:17:31Z,2026-10-27,leagues,3655874b8457,2026-10-27T19:00:00Z,Serie_B_Italy,Mantova,Cremonese,0-2
+2026-10-28T06:17:31Z,2026-10-27,leagues,38ca28e92a3f,2026-10-27T19:45:00Z,League_One,Milton Keynes Dons,Bromley,4-1
+2026-10-28T06:17:31Z,2026-10-27,leagues,4ba0cbf334c0,2026-10-27T19:45:00Z,League_One,Oxford United,Stockport County,1-0
+2026-10-28T06:17:31Z,2026-10-27,leagues,7ddd0307c60f,2026-10-27T19:00:00Z,Serie_B_Italy,Padova,Sudtirol,2-0
+2026-10-28T06:17:31Z,2026-10-27,leagues,571403285140,2026-10-27T19:45:00Z,Scottish_League_One,Ross County,Hamilton Academical,1-1
+2026-10-28T06:17:31Z,2026-10-27,leagues,2e7004ceb8f1,2026-10-27T17:30:00Z,Serie_A_Italy,Sassuolo,Lazio,2-6
+2026-10-28T06:17:31Z,2026-10-27,leagues,f73c4632dd8e,2026-10-27T19:45:00Z,League_One,Sheffield Wednesday,Cambridge United,1-1
+2026-10-28T06:17:31Z,2026-10-27,leagues,e2c971fdce4d,2026-10-27T19:45:00Z,Scottish_Championship,Stenhousemuir,Dunfermline,0-1
+2026-10-28T06:17:31Z,2026-10-27,leagues,b074cb9d2e8c,2026-10-27T19:45:00Z,Serie_A_Italy,Torino,Como,1-3
+2026-10-28T06:17:31Z,2026-10-27,leagues,f2bbee5333db,2026-10-27T19:00:00Z,Serie_B_Italy,Vicenza Virtus,Modena,1-2
+2026-10-28T06:17:31Z,2026-10-27,leagues,181d586baacb,2026-10-27T19:00:00Z,Serie_B_Italy,Virtus Entella,Avellino,1-1
+2026-10-28T06:17:31Z,2026-10-27,cups,e9c8872c359e,2026-10-27T19:45:00Z,DFB_Pokal_Germany,1. FC Köln,Union Berlin,5-0
+2026-10-28T06:17:31Z,2026-10-27,cups,5d1654a0ad11,2026-10-27T18:30:00Z,DBU_Pokalen_Denmark,AB Copenhagen,Brondby,1-2
+2026-10-28T06:17:31Z,2026-10-27,cups,6c6d6a7c5587,2026-10-27T18:00:00Z,EFL_Trophy_England,AFC Wimbledon,Arsenal U21,1-2
+2026-10-28T06:17:31Z,2026-10-27,cups,f6426b9ae67c,2026-10-27T19:00:00Z,KNVB_Beker_Netherlands,Barendrecht,Waalwijk,1-1
+2026-10-28T06:17:31Z,2026-10-27,cups,b1857c0e0cb5,2026-10-27T12:15:00Z,AFC_Champions_League_Elite,Beijing Guoan,Jeonbuk Motors,2-2
+2026-10-28T06:17:31Z,2026-10-27,cups,e90d7e84497f,2026-10-27T19:00:00Z,EFL_Trophy_England,Blackpool,Aston Villa U21,3-2
+2026-10-28T06:17:31Z,2026-10-27,cups,65ba389d6a44,2026-10-27T19:45:00Z,DFB_Pokal_Germany,Borussia Dortmund,Werder Bremen,3-2
+2026-10-28T06:17:31Z,2026-10-27,cups,009e9209493c,2026-10-27T19:45:00Z,DFB_Pokal_Germany,Borussia Mönchengladbach,Karlsruher SC,2-0
+2026-10-28T06:17:31Z,2026-10-27,cups,f34d0d7c1ee2,2026-10-27T19:45:00Z,EFL_Cup_England,Bradford,Peterborough,2-0
+2026-10-28T06:17:31Z,2026-10-27,cups,3fffe5d124ea,2026-10-27T17:45:00Z,KNVB_Beker_Netherlands,Excelsior '31,ADO Den Haag,1-1
+2026-10-28T06:17:31Z,2026-10-27,cups,e6cbb73f2501,2026-10-27T19:00:00Z,KNVB_Beker_Netherlands,FC Eindhoven,FC Volendam,5-3
+2026-10-28T06:17:31Z,2026-10-27,cups,47280f8b4f57,2026-10-27T20:00:00Z,EFL_Cup_England,Fleetwood Town,Arsenal,1-1
+2026-10-28T06:17:31Z,2026-10-27,cups,fa6b7cc06279,2026-10-27T19:00:00Z,Copa_del_Rey_Spain,Gimnástica Segoviana,Cultural Leonesa,0-1
+2026-10-28T06:17:31Z,2026-10-27,cups,af3d89fbdde6,2026-10-27T11:30:00Z,Polish_Cup,Górnik Łęczna,GKS Katowice,1-0
+2026-10-28T06:17:31Z,2026-10-27,cups,61cdf413b4ab,2026-10-27T17:00:00Z,DFB_Pokal_Germany,Hamburger SV,Eintracht Frankfurt,1-3
+2026-10-28T06:17:31Z,2026-10-27,cups,b2124348e7a2,2026-10-27T19:00:00Z,KNVB_Beker_Netherlands,Helmond Sport,Willem II,3-4
+2026-10-28T06:17:31Z,2026-10-27,cups,445a668e6bee,2026-10-27T10:00:00Z,AFC_Champions_League_Elite,Johor Darul Takzim FC,Port FC,3-0
+2026-10-28T06:17:31Z,2026-10-27,cups,3060d8374a5e,2026-10-27T19:00:00Z,KNVB_Beker_Netherlands,Kloetinge,Cambuur,0-2
+2026-10-28T06:17:31Z,2026-10-27,cups,f0a8e3441036,2026-10-27T20:00:00Z,KNVB_Beker_Netherlands,Koninklijke HFC,GO Ahead Eagles,0-5
+2026-10-28T06:17:31Z,2026-10-27,cups,cf63c4507f32,2026-10-27T16:30:00Z,Polish_Cup,Motor Lublin,Raków Częstochowa,1-1
+2026-10-28T06:17:31Z,2026-10-27,cups,526d29f876d9,2026-10-27T11:30:00Z,Polish_Cup,Olimpia Grudziądz,Nieciecza,0-1
+2026-10-28T06:17:31Z,2026-10-27,cups,ec34ff9756be,2026-10-27T19:45:00Z,Scottish_Cup,Penicuik Athletic,Clyde,1-1
+2026-10-28T06:17:31Z,2026-10-27,cups,8e1200273a7d,2026-10-27T19:30:00Z,Polish_Cup,Piast Gliwice,Gornik Zabrze,0-0
+2026-10-28T06:17:31Z,2026-10-27,cups,3d4c2686731d,2026-10-27T19:00:00Z,EFL_Trophy_England,Port Vale,Manchester City U21,5-0
+2026-10-28T06:17:31Z,2026-10-27,cups,ae3b2c5b4db9,2026-10-27T12:15:00Z,AFC_Champions_League_Elite,Ratchaburi,Kashiwa Reysol,0-0
+2026-10-28T06:17:31Z,2026-10-27,cups,3f5c9d9d5ff5,2026-10-27T20:00:00Z,Copa_del_Rey_Spain,Recreativo Huelva,Rayo Vallecano,1-1
+2026-10-28T06:17:31Z,2026-10-27,cups,a6b9659a160f,2026-10-27T19:00:00Z,KNVB_Beker_Netherlands,Rijnsburgse Boys,Den Bosch,3-5
+2026-10-28T06:17:31Z,2026-10-27,cups,1ea70d36513f,2026-10-27T19:00:00Z,KNVB_Beker_Netherlands,Roda,De Graafschap,1-0
+2026-10-28T06:17:31Z,2026-10-27,cups,2c09591c06f1,2026-10-27T17:00:00Z,DFB_Pokal_Germany,Rot-Weiß Essen,RB Leipzig,1-2
+2026-10-28T06:17:31Z,2026-10-27,cups,4cc67ebc79a6,2026-10-27T18:00:00Z,Copa_del_Rey_Spain,Sestao River,Espanyol,2-2
+2026-10-28T06:17:31Z,2026-10-27,cups,60617fd4f4a6,2026-10-27T16:00:00Z,AFC_Champions_League_Elite,Shabab Al Ahli Dubai,Esteghlal FC,2-0
+2026-10-28T06:17:31Z,2026-10-27,cups,0bbc5339e263,2026-10-27T19:00:00Z,EFL_Trophy_England,Shrewsbury,Everton U21,2-1
+2026-10-28T06:17:31Z,2026-10-27,cups,a1d23a842007,2026-10-27T19:45:00Z,DFB_Pokal_Germany,SV Elversberg,SV Darmstadt 98,0-2
+2026-10-28T06:17:31Z,2026-10-27,cups,2ea5eafaf28c,2026-10-27T19:00:00Z,KNVB_Beker_Netherlands,Telstar,Almere City FC,0-2
+2026-10-28T06:17:31Z,2026-10-27,cups,945f0a285aa9,2026-10-27T20:00:00Z,Copa_del_Rey_Spain,Tudelano,Zaragoza,0-4
+2026-10-28T06:17:31Z,2026-10-27,cups,1d58c0c297b0,2026-10-27T17:00:00Z,DFB_Pokal_Germany,VfL Bochum,FSV Mainz 05,2-0
