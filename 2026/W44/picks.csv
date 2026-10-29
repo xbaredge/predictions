@@ -15,3 +15,13 @@ published_utc,run_date,comp,match_id,kickoff_utc,league,home,away,market,gradabl
 2026-10-27T06:11:10Z,2026-10-27,leagues,9b991f56f3f0,2026-10-27T12:40:00Z,Saudi_Pro_League,Abha,Al-Faisaly FC,UPSET,1,0.3768,2.654,,estimated,,,,,,,,,,v3/binary/published
 2026-10-27T06:11:10Z,2026-10-27,leagues,82a0a3558ab4,2026-10-27T18:00:00Z,Allsvenskan,AIK Stockholm,IF Elfsborg,UPSET,1,0.3514,2.846,,estimated,,,,,,,,,,v3/binary/published
 2026-10-27T06:11:10Z,2026-10-27,leagues,4e4e6f8d871e,2026-10-27T23:00:00Z,Colombia_PrimeraA,Cucuta,Águilas Doradas,UPSET,1,0.3342,2.992,,estimated,,,,,,,,,,v3/binary/published
+2026-10-28T06:17:31Z,2026-10-28,leagues,dc37e357ef7f,2026-10-28T18:00:00Z,Allsvenskan,Degerfors IF,Vasteras SK FK,UPSET,1,0.3685,2.714,,estimated,,,,,,,,,,v3/binary/published
+2026-10-28T06:17:31Z,2026-10-28,leagues,4ff7df1c9ece,2026-10-28T18:00:00Z,Allsvenskan,IFK Goteborg,Djurgardens IF,UPSET,1,0.3391,2.949,,estimated,,,,,,,,,,v3/binary/published
+2026-10-28T06:17:31Z,2026-10-28,leagues,2714fe11bfc8,2026-10-28T16:00:00Z,Veikkausliiga_Finland,AC Oulu,VPS,UPSET,1,0.3352,2.983,,estimated,,,,,,,,,,v3/binary/published
+2026-10-28T06:17:31Z,2026-10-28,leagues,9af1adffe3ba,2026-10-28T23:30:00Z,MLS,New England Revolution,New York Red Bulls,UPSET,1,0.3259,3.068,3.200,-,4.29,,,,,,,,,v3/binary/published
+2026-10-28T06:17:31Z,2026-10-28,cups,c0c3959c3c9c,2026-10-28T17:45:00Z,KNVB_Beker_Netherlands,Sparta Rotterdam,Fortuna Sittard,ASIAN_OVER_2_0,0,0.8144,1.228,1.260,-,2.61,,,,,,,,,v3/binary/published
+2026-10-28T06:17:31Z,2026-10-28,cups,5def14671e38,2026-10-28T19:00:00Z,KNVB_Beker_Netherlands,PEC Zwolle,FC OSS,OVER_2_5,1,0.6832,1.464,1.600,-,9.31,1.470,2026-10-27T21:43:37Z,7,1.632,2026-10-27T21:43:37Z,1.632,2026-10-28T03:43:19Z,,v3/binary/published
+2026-10-28T06:18:28Z,2026-10-29,leagues,f31db2fab719,2026-10-29T00:30:00Z,MLS,Austin,Real Salt Lake,UPSET,1,0.3773,2.650,,estimated,,,,,,,,,,v3/binary/published
+2026-10-28T06:18:28Z,2026-10-29,leagues,bebbfc43821f,2026-10-29T01:05:00Z,Colombia_PrimeraA,Internacional de Bogota,Independiente Medellin,UPSET,1,0.3622,2.761,,estimated,,,,,,,,,,v3/binary/published
+2026-10-28T06:18:28Z,2026-10-29,leagues,e45a3b388fa5,2026-10-29T00:30:00Z,Serie_A_Brazil,Remo,Botafogo,UPSET,1,0.3577,2.796,,estimated,,,,,,,,,,v3/binary/published
+2026-10-28T06:18:28Z,2026-10-29,leagues,7bbdf47b003a,2026-10-29T02:30:00Z,MLS,San Jose Earthquakes,Colorado Rapids,UPSET,1,0.3488,2.867,3.050,-,6.38,,,,,,,,,v3/binary/published
