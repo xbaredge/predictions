@@ -183,3 +183,58 @@ settled_utc,run_date,comp,match_id,kickoff_utc,league,home,away,score
 2026-10-29T06:11:00Z,2026-10-28,women,75da8efa14e0,2026-10-28T17:45:00Z,UEFA_Champions_League_Women,Chelsea W,Roma W,2-0
 2026-10-29T06:11:00Z,2026-10-28,women,da5c1756ad10,2026-10-28T20:00:00Z,UEFA_Champions_League_Women,Lyon W,Inter Milano W,6-0
 2026-10-29T06:11:00Z,2026-10-28,women,0598370931d9,2026-10-28T17:45:00Z,UEFA_Champions_League_Women,Servette Chênois W,OH Leuven W,5-1
+2026-10-30T06:18:44Z,2026-10-28,leagues,64282d97eea2,2026-10-28T23:30:00Z,MLS,Charlotte,CF Montreal,4-0
+2026-10-30T06:18:44Z,2026-10-28,leagues,780acac08037,2026-10-28T23:30:00Z,MLS,Inter Miami,FC Cincinnati,2-2
+2026-10-30T06:18:44Z,2026-10-28,leagues,9af1adffe3ba,2026-10-28T23:30:00Z,MLS,New England Revolution,New York Red Bulls,3-2
+2026-10-30T06:18:44Z,2026-10-28,leagues,abd5b6f11111,2026-10-28T23:30:00Z,MLS,New York City FC,Atlanta United FC,2-1
+2026-10-30T06:18:44Z,2026-10-28,leagues,e035bccdaf05,2026-10-28T23:30:00Z,MLS,Toronto FC,DC United,2-1
+2026-10-30T06:18:44Z,2026-10-28,leagues,98d2531feca8,2026-10-28T23:30:00Z,Chile_Primera_Division,U. Catolica,A. Italiano,1-1
+2026-10-30T06:18:44Z,2026-10-28,cups,d047b51eda86,2026-10-28T19:00:00Z,Copa_del_Rey_Spain,Numancia,Oviedo,3-3
+2026-10-30T06:18:44Z,2026-10-29,leagues,f31db2fab719,2026-10-29T00:30:00Z,MLS,Austin,Real Salt Lake,1-2
+2026-10-30T06:18:44Z,2026-10-29,leagues,db9fea7cbdd2,2026-10-29T00:30:00Z,Serie_A_Brazil,Bahia,Sao Paulo,3-2
+2026-10-30T06:18:44Z,2026-10-29,leagues,3ae84f50536b,2026-10-29T00:30:00Z,MLS,Chicago Fire,Orlando City SC,2-2
+2026-10-30T06:18:44Z,2026-10-29,leagues,6d1d2d77f859,2026-10-29T03:00:00Z,Liga_MX,Club America,Club Tijuana,1-1
+2026-10-30T06:18:44Z,2026-10-29,leagues,4182e05b6795,2026-10-29T00:30:00Z,MLS,FC Dallas,Columbus Crew,0-2
+2026-10-30T06:18:44Z,2026-10-29,leagues,bebbfc43821f,2026-10-29T01:05:00Z,Colombia_PrimeraA,Internacional de Bogota,Independiente Medellin,3-1
+2026-10-30T06:18:44Z,2026-10-29,leagues,5213296ee5f5,2026-10-29T00:30:00Z,MLS,Minnesota United FC,Sporting Kansas City,3-1
+2026-10-30T06:18:44Z,2026-10-29,leagues,eb8919744722,2026-10-29T00:30:00Z,MLS,Nashville SC,Philadelphia Union,0-0
+2026-10-30T06:18:44Z,2026-10-29,leagues,e45a3b388fa5,2026-10-29T00:30:00Z,Serie_A_Brazil,Remo,Botafogo,2-1
+2026-10-30T06:18:44Z,2026-10-29,leagues,7bbdf47b003a,2026-10-29T02:30:00Z,MLS,San Jose Earthquakes,Colorado Rapids,2-2
+2026-10-30T06:18:44Z,2026-10-29,leagues,84556a2e7938,2026-10-29T02:30:00Z,MLS,Seattle Sounders,Houston Dynamo,0-1
+2026-10-30T06:18:44Z,2026-10-29,leagues,c6ec5c6d457e,2026-10-29T00:30:00Z,MLS,St. Louis City,Portland Timbers,2-3
+2026-10-30T06:18:44Z,2026-10-29,leagues,9f74aa575027,2026-10-29T02:30:00Z,MLS,Vancouver Whitecaps,San Diego,4-1
+2026-10-30T06:18:44Z,2026-10-29,leagues,201ce240049d,2026-10-29T14:35:00Z,Saudi_Pro_League,Al Khaleej Saihat,Al-Hazm,4-2
+2026-10-30T06:18:44Z,2026-10-29,leagues,116587e94a02,2026-10-29T18:00:00Z,Saudi_Pro_League,Al-Nassr,Al Kholood,5-3
+2026-10-30T06:18:44Z,2026-10-29,leagues,b8df7e52da49,2026-10-29T18:00:00Z,Saudi_Pro_League,Al Riyadh,Al-Qadisiyah FC,0-6
+2026-10-30T06:18:44Z,2026-10-29,leagues,9ad5a2e1be39,2026-10-29T19:45:00Z,Championnat_National,Amiens,Thionville Lusitanos,1-1
+2026-10-30T06:18:44Z,2026-10-29,leagues,0d382270ad1a,2026-10-29T22:30:00Z,Serie_A_Brazil,Atletico-MG,Cruzeiro,0-1
+2026-10-30T06:18:44Z,2026-10-29,leagues,a12b74f96d81,2026-10-29T19:45:00Z,Serie_A_Italy,Fiorentina,Atalanta,2-2
+2026-10-30T06:18:44Z,2026-10-29,leagues,f7e5d1e92096,2026-10-29T17:30:00Z,Serie_A_Italy,Frosinone,Lecce,5-1
+2026-10-30T06:18:44Z,2026-10-29,leagues,43f07ad280c6,2026-10-29T17:30:00Z,Allsvenskan,Hammarby FF,Sirius,2-0
+2026-10-30T06:18:44Z,2026-10-29,leagues,cf9ab66f7777,2026-10-29T16:00:00Z,Veikkausliiga_Finland,Inter Turku,HJK Helsinki,2-4
+2026-10-30T06:18:44Z,2026-10-29,leagues,a8247a62955a,2026-10-29T18:00:00Z,Allsvenskan,Kalmar FF,Gais,0-1
+2026-10-30T06:18:44Z,2026-10-29,leagues,175d00ce85e1,2026-10-29T17:00:00Z,Veikkausliiga_Finland,KuPS,Gnistan,1-1
+2026-10-30T06:18:44Z,2026-10-29,leagues,036c7bbd8c5f,2026-10-29T18:00:00Z,Allsvenskan,Orgryte IS,Mjallby AIF,1-2
+2026-10-30T06:18:44Z,2026-10-29,leagues,fdf2ad5b45b5,2026-10-29T23:00:00Z,Serie_A_Brazil,Vasco DA Gama,Flamengo,1-4
+2026-10-30T06:18:44Z,2026-10-29,cups,b447cf5c261d,2026-10-29T12:30:00Z,DBU_Pokalen_Denmark,Aarhus Fremad,FC Copenhagen,0-3
+2026-10-30T06:18:44Z,2026-10-29,cups,c4b36a4df750,2026-10-29T19:00:00Z,KNVB_Beker_Netherlands,ACV,AFC Amsterdam,0-0
+2026-10-30T06:18:44Z,2026-10-29,cups,303b4be3ab8e,2026-10-29T18:00:00Z,Polish_Cup,Arka Gdynia,Stal Rzeszów,1-2
+2026-10-30T06:18:44Z,2026-10-29,cups,f46a8c80e964,2026-10-29T18:00:00Z,Copa_del_Rey_Spain,Atlético Baleares,Eldense,0-1
+2026-10-30T06:18:44Z,2026-10-29,cups,3334f92ff01e,2026-10-29T11:30:00Z,Polish_Cup,Avia Świdnik,Radomiak Radom,1-1
+2026-10-30T06:18:44Z,2026-10-29,cups,9e60348f2984,2026-10-29T16:30:00Z,Polish_Cup,Chrobry Głogów,Polonia Bytom,2-0
+2026-10-30T06:18:44Z,2026-10-29,cups,cde963585edd,2026-10-29T19:00:00Z,KNVB_Beker_Netherlands,De Treffers,Heracles,1-0
+2026-10-30T06:18:44Z,2026-10-29,cups,818b665899e3,2026-10-29T19:45:00Z,EFL_Cup_England,Everton,Newcastle,3-1
+2026-10-30T06:18:44Z,2026-10-29,cups,5b6a24711de9,2026-10-29T18:30:00Z,DBU_Pokalen_Denmark,FC Midtjylland,Odense,2-1
+2026-10-30T06:18:44Z,2026-10-29,cups,6a5db3b57fdc,2026-10-29T20:00:00Z,KNVB_Beker_Netherlands,Groningen,Emmen,0-2
+2026-10-30T06:18:44Z,2026-10-29,cups,e3810ecb8926,2026-10-29T19:00:00Z,Copa_del_Rey_Spain,Guijuelo,Sporting Gijon,1-3
+2026-10-30T06:18:44Z,2026-10-29,cups,1543f15d867e,2026-10-29T19:00:00Z,KNVB_Beker_Netherlands,GVVV Veenendaal,Noordwijk,3-0
+2026-10-30T06:18:44Z,2026-10-29,cups,47e416032a91,2026-10-29T19:00:00Z,KNVB_Beker_Netherlands,Hoek,Sparta Nijkerk,4-2
+2026-10-30T06:18:44Z,2026-10-29,cups,a0c36d803fed,2026-10-29T17:45:00Z,KNVB_Beker_Netherlands,Kozakken Boys,Utrecht,0-1
+2026-10-30T06:18:44Z,2026-10-29,cups,6727dd9f67a6,2026-10-29T19:30:00Z,Polish_Cup,Odra Opole,Slask Wroclaw,1-1
+2026-10-30T06:18:44Z,2026-10-29,cups,4385009d4ba6,2026-10-29T16:30:00Z,Polish_Cup,Polonia Warszawa,Korona Kielce,2-1
+2026-10-30T06:18:44Z,2026-10-29,cups,fc1c698a2e87,2026-10-29T19:00:00Z,KNVB_Beker_Netherlands,RKAV Volendam,ROHDA Raalte,3-0
+2026-10-30T06:18:44Z,2026-10-29,women,9970be5f7b00,2026-10-29T17:45:00Z,UEFA_Champions_League_Women,Austria Wien W,Juventus W,1-4
+2026-10-30T06:18:44Z,2026-10-29,women,e1a91d4dfb85,2026-10-29T20:00:00Z,UEFA_Champions_League_Women,Køge W,Barcelona W,0-8
+2026-10-30T06:18:44Z,2026-10-29,women,0e7c29586a56,2026-10-29T20:00:00Z,UEFA_Champions_League_Women,Manchester City W,Paris Saint Germain W,1-1
+2026-10-30T06:18:44Z,2026-10-29,women,2668acd72419,2026-10-29T17:45:00Z,UEFA_Champions_League_Women,Paris FC W,Häcken W,1-1
+2026-10-30T06:18:44Z,2026-10-29,women,491655b3eaf7,2026-10-29T17:00:00Z,Frauen_Bundesliga,Werder Bremen W,1899 Hoffenheim W,3-0
