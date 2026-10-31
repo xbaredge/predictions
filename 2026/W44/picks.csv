@@ -36,3 +36,16 @@ published_utc,run_date,comp,match_id,kickoff_utc,league,home,away,market,gradabl
 2026-10-29T06:11:00Z,2026-10-29,women,e1a91d4dfb85,2026-10-29T20:00:00Z,UEFA_Champions_League_Women,Køge W,Barcelona W,OVER_2_5,1,0.6191,1.615,1.120,-,-30.66,1.100,2026-10-26T21:45:08Z,3,,,,,,v3/binary/published
 2026-10-29T06:12:01Z,2026-10-30,leagues,9756922b8530,2026-10-30T00:30:00Z,Serie_A_Brazil,Gremio,Atletico Paranaense,UPSET,1,0.3206,3.119,,estimated,,,,,,,,,,v3/binary/published
 2026-10-29T06:12:01Z,2026-10-30,leagues,710498aec442,2026-10-30T01:00:00Z,Liga_de_Expansion_MX,Alebrijes de Oaxaca,Mineros de Zacatecas,UPSET,1,0.3205,3.120,,estimated,,,,,,,,,,v3/binary/published
+2026-10-30T06:18:44Z,2026-10-30,leagues,844439fef3d7,2026-10-30T19:00:00Z,Belgium_Challenger_Pro,Seraing United,Liège,UPSET,1,0.3972,2.518,,estimated,,,,,,,,,,v3/binary/published
+2026-10-30T06:18:44Z,2026-10-30,leagues,f1be3cd521d4,2026-10-30T19:00:00Z,Belgium_Challenger_Pro,KAA Gent II,K. Lierse S.K.,UPSET,1,0.3899,2.565,,estimated,,,,,,,,,,v3/binary/published
+2026-10-30T06:18:44Z,2026-10-30,leagues,d25b1d6cba6f,2026-10-30T17:00:00Z,Croatia_HNL,NK Slaven Belupo,Istra 1961,UPSET,1,0.3645,2.743,,estimated,,,,,,,,,,v3/binary/published
+2026-10-30T06:18:44Z,2026-10-30,leagues,ce1c1d4a7668,2026-10-30T17:30:00Z,Austrian_2_Liga,Austria Salzburg,SKU Amstetten,UPSET,1,0.3612,2.769,,estimated,,,,,,,,,,v3/binary/published
+2026-10-30T06:18:44Z,2026-10-30,leagues,3ae36a21694f,2026-10-30T17:30:00Z,Bulgaria_First_League,Lokomotiv Sofia,Botev Plovdiv,UPSET,1,0.3611,2.769,,estimated,,,,,,,,,,v3/binary/published
+2026-10-30T06:18:44Z,2026-10-30,leagues,d2c0504b0fd3,2026-10-30T17:00:00Z,Ekstraklasa,Cracovia Krakow,Motor Lublin,UPSET,1,0.3556,2.812,,estimated,,,,,,,,,,v3/binary/published
+2026-10-30T06:18:44Z,2026-10-30,leagues,589ffe35c86f,2026-10-30T18:00:00Z,Danish_Superliga,Lyngby,Randers FC,UPSET,1,0.3526,2.836,,estimated,,,,,,,,,,v3/binary/published
+2026-10-30T06:18:44Z,2026-10-30,leagues,f1732b7afa47,2026-10-30T19:00:00Z,Eerste_Divisie,Helmond Sport,FC Eindhoven,UPSET,1,0.3494,2.862,,estimated,,,,,,,,,,v3/binary/published
+2026-10-30T06:18:44Z,2026-10-30,leagues,c724af141bd3,2026-10-30T14:50:00Z,Saudi_Pro_League,Al Diriyah,NEOM,UPSET,1,0.3481,2.873,,estimated,,,,,,,,,,v3/binary/published
+2026-10-30T06:18:44Z,2026-10-30,leagues,1d481b9f49fb,2026-10-30T18:30:00Z,Austrian_Bundesliga,Grazer AK,TSV Hartberg,UPSET,1,0.3338,2.996,,estimated,,,,,,,,,,v3/binary/published
+2026-10-30T06:18:44Z,2026-10-30,leagues,6ef1b2d5e63e,2026-10-30T09:00:00Z,Australian_A_League,Brisbane Roar,Auckland,UPSET,1,0.3442,2.905,2.660,estimated,-8.44,,,,,,,,,v3/binary/published
+2026-10-30T06:18:44Z,2026-10-30,leagues,af1ad141b65f,2026-10-30T18:30:00Z,Swiss_Challenge_League,Stade Lausanne-Ouchy,Yverdon Sport,UPSET,1,0.3164,3.161,,estimated,,,,,,,,,,v3/binary/published
+2026-10-30T06:18:44Z,2026-10-30,leagues,ba13c15c6b80,2026-10-30T19:00:00Z,Eerste_Divisie,Waalwijk,Almere City FC,UPSET,1,0.3162,3.163,,estimated,,,,,,,,,,v3/binary/published
