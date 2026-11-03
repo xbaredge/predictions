@@ -786,3 +786,5 @@ settled_utc,run_date,comp,match_id,kickoff_utc,league,home,away,score
 2026-11-02T06:14:58Z,2026-11-01,women,29f4d0fa7777,2026-11-01T14:00:00Z,Damallsvenskan_Sweden,Uppsala W,Hammarby W,0-7
 2026-11-02T06:14:58Z,2026-11-01,women,571cd1b80384,2026-11-01T22:00:00Z,USA_NWSL,Washington Spirit W,Chicago Red Stars W,2-0
 2026-11-02T06:14:58Z,2026-11-01,women,54a24c6d7a4f,2026-11-01T14:00:00Z,England_WSL,West Ham W,Liverpool W,4-1
+2026-11-03T06:09:32Z,2026-11-01,leagues,f8433f4dbf70,2026-11-01T23:45:00Z,Liga_Profesional_Argentina,Lanus,Gimnasia M.,1-1
+2026-11-03T06:09:32Z,2026-11-01,leagues,e4a1227c8382,2026-11-01T20:00:00Z,Spanish_Segunda,Tenerife,FC Andorra,2-2
