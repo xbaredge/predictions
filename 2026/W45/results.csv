@@ -152,3 +152,35 @@ settled_utc,run_date,comp,match_id,kickoff_utc,league,home,away,score
 2026-11-05T06:07:51Z,2026-11-04,cups,701a41b2bb87,2026-11-04T15:30:00Z,UEFA_Europa_League,Rennes,Olympiakos Piraeus,0-0
 2026-11-05T06:07:51Z,2026-11-04,cups,50132959fc2c,2026-11-04T20:00:00Z,UEFA_Champions_League,Slavia Praha,Arsenal,1-2
 2026-11-05T06:07:51Z,2026-11-04,cups,e55c639a1e0a,2026-11-04T20:00:00Z,UEFA_Champions_League,Viking,Sabah FA,4-1
+2026-11-06T06:16:39Z,2026-11-04,leagues,9cb5796c0265,2026-11-04T23:30:00Z,Colombia_PrimeraA,Cucuta,Santa Fe,1-0
+2026-11-06T06:16:39Z,2026-11-05,leagues,d07e1082d5fb,2026-11-05T00:30:00Z,Serie_A_Brazil,Botafogo,Atletico-MG,1-0
+2026-11-06T06:16:39Z,2026-11-05,leagues,6f59614b3a37,2026-11-05T01:30:00Z,Colombia_PrimeraA,Millonarios,America de Cali,0-0
+2026-11-06T06:16:39Z,2026-11-05,leagues,7dea0c0d52d3,2026-11-05T00:30:00Z,Serie_A_Brazil,Sao Paulo,Corinthians,0-0
+2026-11-06T06:16:39Z,2026-11-05,leagues,8faecf52316a,2026-11-05T01:05:00Z,Liga_de_Expansion_MX,Tlaxcala,CA La Paz,0-1
+2026-11-06T06:16:39Z,2026-11-05,leagues,90191b3b4920,2026-11-05T18:00:00Z,Liga_Profesional_Argentina,Aldosivi,River Plate,0-2
+2026-11-06T06:16:39Z,2026-11-05,leagues,70b9c97c868d,2026-11-05T22:30:00Z,Serie_B_Brazil,Botafogo SP,Londrina,4-0
+2026-11-06T06:16:39Z,2026-11-05,leagues,9e1055ea5718,2026-11-05T22:15:00Z,Liga_Profesional_Argentina,Gimnasia L.P.,Belgrano Cordoba,2-1
+2026-11-06T06:16:39Z,2026-11-05,leagues,1f5327d0959b,2026-11-05T22:30:00Z,Serie_A_Brazil,Palmeiras,Remo,6-1
+2026-11-06T06:16:39Z,2026-11-05,leagues,4a01f293c5d9,2026-11-05T19:45:00Z,Championnat_National,Valenciennes,Orleans,2-2
+2026-11-06T06:16:39Z,2026-11-05,cups,61ff699a876f,2026-11-05T17:45:00Z,UEFA_Europa_Conference_League,Aarhus,SC Braga,0-0
+2026-11-06T06:16:39Z,2026-11-05,cups,f9b1ca42439c,2026-11-05T17:45:00Z,UEFA_Europa_League,AC Milan,Ferencvarosi TC,0-2
+2026-11-06T06:16:39Z,2026-11-05,cups,c3285d0886f5,2026-11-05T17:45:00Z,UEFA_Europa_League,Anderlecht,Red Bull Salzburg,2-0
+2026-11-06T06:16:39Z,2026-11-05,cups,108a1837fb2b,2026-11-05T20:00:00Z,UEFA_Europa_League,AZ Alkmaar,Juventus,1-2
+2026-11-06T06:16:39Z,2026-11-05,cups,9820089ecfb9,2026-11-05T20:00:00Z,UEFA_Europa_League,Bayer Leverkusen,Marseille,0-1
+2026-11-06T06:16:39Z,2026-11-05,cups,d429c55b6ad1,2026-11-05T20:00:00Z,UEFA_Europa_League,Benfica,Lech Poznan,3-1
+2026-11-06T06:16:39Z,2026-11-05,cups,091809432953,2026-11-05T20:00:00Z,UEFA_Europa_League,Celta Vigo,Union St. Gilloise,1-2
+2026-11-06T06:16:39Z,2026-11-05,cups,a487e2562113,2026-11-05T20:00:00Z,UEFA_Europa_League,Celtic,Beşiktaş,3-2
+2026-11-06T06:16:39Z,2026-11-05,cups,3658d05a06f0,2026-11-05T20:00:00Z,UEFA_Europa_Conference_League,FC Copenhagen,FC Iberia 1999,2-1
+2026-11-06T06:16:39Z,2026-11-05,cups,bf29e8b7a0a4,2026-11-05T20:00:00Z,UEFA_Europa_Conference_League,FC Lugano,Kauno Žalgiris,3-0
+2026-11-06T06:16:39Z,2026-11-05,cups,5e3d384fa5b1,2026-11-05T17:45:00Z,UEFA_Europa_Conference_League,FC Midtjylland,Ajax,1-6
+2026-11-06T06:16:39Z,2026-11-05,cups,781b6090c607,2026-11-05T20:00:00Z,UEFA_Europa_League,Hapoel Beer Sheva,OFI,0-2
+2026-11-06T06:16:39Z,2026-11-05,cups,16958cd50bb0,2026-11-05T17:45:00Z,UEFA_Europa_Conference_League,KuPS,Gent,0-0
+2026-11-06T06:16:39Z,2026-11-05,cups,b62acaf09bc8,2026-11-05T17:45:00Z,UEFA_Europa_League,Levski Sofia,Jagiellonia,1-0
+2026-11-06T06:16:39Z,2026-11-05,cups,8a512a446222,2026-11-05T17:45:00Z,UEFA_Europa_League,Lillestrom,Plzen,0-1
+2026-11-06T06:16:39Z,2026-11-05,cups,745c895b152f,2026-11-05T17:45:00Z,UEFA_Europa_Conference_League,Lincoln Red Imps FC,HNK Hajduk Split,1-0
+2026-11-06T06:16:39Z,2026-11-05,cups,71f44bd8cd3e,2026-11-05T20:00:00Z,UEFA_Europa_Conference_League,Panathinaikos,CSKA Sofia,2-1
+2026-11-06T06:16:39Z,2026-11-05,cups,6fad2d175883,2026-11-05T17:45:00Z,UEFA_Europa_League,Real Sociedad,Lyon,1-1
+2026-11-06T06:16:39Z,2026-11-05,cups,e504fa9753f7,2026-11-05T20:00:00Z,UEFA_Europa_Conference_League,Riga,FK Jablonec,1-1
+2026-11-06T06:16:39Z,2026-11-05,cups,29ff592f6d61,2026-11-05T20:00:00Z,UEFA_Europa_League,Sturm Graz,Celje,2-3
+2026-11-06T06:16:39Z,2026-11-05,cups,9170cf2ff4f4,2026-11-05T20:00:00Z,UEFA_Europa_Conference_League,Twente,Pafos,3-1
+2026-11-06T06:16:39Z,2026-11-05,cups,18ae8a9c141a,2026-11-05T20:00:00Z,UEFA_Europa_Conference_League,Universitatea Craiova,Egnatia Rrogozhinë,2-0
