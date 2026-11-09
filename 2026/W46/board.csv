@@ -1,0 +1,6 @@
+published_utc,run_date,comp,match_id,kickoff_utc,league,home,away,model,p_HOME_WIN,p_DRAW,p_AWAY_WIN,p_OVER_1_5,p_OVER_2_5,p_UNDER_2_5,p_UNDER_3_5,p_BTTS,p_GOALS_1_3,p_GOALS_2_3,p_UPSET,backed
+2026-11-08T06:28:42Z,2026-11-09,leagues,aa51a78ee80c,2026-11-09T01:15:00Z,Colombia_PrimeraA,Alianza Valledupar,Llaneros,v3/binary/published,0.4392,0.3056,0.2551,0.7005,0.4197,0.5823,0.7767,0.5202,0.6965,0.4705,0.2764,
+2026-11-08T06:28:42Z,2026-11-09,leagues,47ecfd0dcd6d,2026-11-09T00:00:00Z,USL_League_One,Charlotte Independence,Forward Madison,v3/binary/published,0.3579,0.2674,0.3747,0.8135,0.5959,0.4002,0.6410,0.5944,0.5736,0.4295,0.3282,
+2026-11-08T06:28:42Z,2026-11-09,leagues,8dd07c42dedb,2026-11-09T00:00:00Z,Liga_MX,Club Queretaro,Puebla,v3/binary/published,0.4928,0.2700,0.2372,0.7930,0.5526,0.4626,0.6750,0.5698,0.6543,0.4737,0.2443,
+2026-11-08T06:28:42Z,2026-11-09,leagues,99e1a6cae621,2026-11-09T02:10:00Z,Liga_MX,Leon,Guadalajara Chivas,v3/binary/published,0.2711,0.2655,0.4633,0.8110,0.6040,0.3963,0.6319,0.6125,0.6107,0.4706,0.3441,
+2026-11-08T06:28:42Z,2026-11-09,leagues,2e56b9b6aec1,2026-11-09T01:00:00Z,Liga_de_Expansion_MX,Piratas,Cancún,v3/binary/published,0.5923,0.2390,0.1687,0.7581,0.5463,0.4656,0.7094,0.5147,0.6431,0.4551,0.1877,
