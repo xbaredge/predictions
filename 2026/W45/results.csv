@@ -776,3 +776,7 @@ settled_utc,run_date,comp,match_id,kickoff_utc,league,home,away,score
 2026-11-09T06:06:11Z,2026-11-08,women,e361df0456a0,2026-11-08T13:00:00Z,Frauen_Bundesliga,Union Berlin W,1899 Hoffenheim W,1-1
 2026-11-09T06:06:11Z,2026-11-08,women,9480d0f29bac,2026-11-08T14:00:00Z,Damallsvenskan_Sweden,Växjö W,Norrköping W,0-1
 2026-11-09T06:06:11Z,2026-11-08,women,b5c425315643,2026-11-08T14:00:00Z,Damallsvenskan_Sweden,Vittsjö W,Brommapojkarna W,5-4
+2026-11-10T06:05:00Z,2026-11-07,leagues,59e99e43b284,2026-11-07T15:00:00Z,Eliteserien,Kristiansund BK,Valerenga,1-0
+2026-11-10T06:05:00Z,2026-11-07,women,c7b14f0febc4,2026-11-07T17:00:00Z,USA_NWSL,Kansas City W,Angel City W,0-0
+2026-11-10T06:05:00Z,2026-11-08,women,42f957f0bd81,2026-11-08T17:30:00Z,USA_NWSL,NJ/NY Gotham FC W,Seattle Reign FC W,1-0
+2026-11-10T06:05:00Z,2026-11-08,women,2e1d30c5eaba,2026-11-08T20:00:00Z,USA_NWSL,Washington Spirit W,Portland Thorns W,4-1
