@@ -12,3 +12,24 @@ settled_utc,run_date,comp,match_id,kickoff_utc,league,home,away,score
 2026-11-10T06:05:00Z,2026-11-09,women,57a3d437eec0,2026-11-09T18:00:00Z,Primera_Division_Femenina,Atletico Madrid W,FC Levante Badalona W,3-0
 2026-11-10T06:05:00Z,2026-11-09,women,512623af72af,2026-11-09T20:00:00Z,Primera_Division_Femenina,Deportivo de La Coruña W,Valencia W,0-2
 2026-11-10T06:05:00Z,2026-11-09,women,f0c039ba067d,2026-11-09T17:00:00Z,Frauen_Bundesliga,FC Koln W,RB Leipzig W,3-1
+2026-11-11T06:06:49Z,2026-11-10,leagues,2c7e799b8683,2026-11-10T00:00:00Z,Colombia_PrimeraA,Junior,Cucuta,2-0
+2026-11-11T06:06:49Z,2026-11-10,cups,70cbfacfb55a,2026-11-10T19:00:00Z,Copa_del_Rey_Spain,Amorebieta,UD Logroñés,1-0
+2026-11-11T06:06:49Z,2026-11-10,cups,cc2a7d8f5524,2026-11-10T19:00:00Z,EFL_Trophy_England,Barnet,Leyton Orient,4-2
+2026-11-11T06:06:49Z,2026-11-10,cups,7fae11876269,2026-11-10T19:30:00Z,EFL_Trophy_England,Bradford,York,4-0
+2026-11-11T06:06:49Z,2026-11-10,cups,5f2b4e0bca51,2026-11-10T19:00:00Z,EFL_Trophy_England,Bristol Rovers,Reading,2-2
+2026-11-11T06:06:49Z,2026-11-10,cups,ec492c8ac519,2026-11-10T19:30:00Z,EFL_Trophy_England,Bromley,Milton Keynes Dons,1-2
+2026-11-11T06:06:49Z,2026-11-10,cups,e5f414dc0c48,2026-11-10T19:00:00Z,EFL_Trophy_England,Burton Albion,Notts County,0-3
+2026-11-11T06:06:49Z,2026-11-10,cups,40877606d9d0,2026-11-10T19:00:00Z,EFL_Trophy_England,Crewe,Wigan,1-2
+2026-11-11T06:06:49Z,2026-11-10,cups,8768cb84964b,2026-11-10T19:00:00Z,EFL_Trophy_England,Grimsby,Nottingham Forest U21,0-3
+2026-11-11T06:06:49Z,2026-11-10,cups,a41ad6e6af0b,2026-11-10T19:00:00Z,EFL_Trophy_England,Huddersfield,Liverpool U21,4-0
+2026-11-11T06:06:49Z,2026-11-10,cups,77671bf97394,2026-11-10T19:00:00Z,EFL_Trophy_England,Mansfield Town,Chesterfield,3-5
+2026-11-11T06:06:49Z,2026-11-10,cups,ebc2e4ad370f,2026-11-10T19:00:00Z,EFL_Trophy_England,Northampton,Gillingham,1-2
+2026-11-11T06:06:49Z,2026-11-10,cups,26f287ceb36d,2026-11-10T19:00:00Z,EFL_Trophy_England,Oxford United,Cheltenham,4-0
+2026-11-11T06:06:49Z,2026-11-10,cups,77581906f144,2026-11-10T19:00:00Z,EFL_Trophy_England,Plymouth,Swindon Town,2-1
+2026-11-11T06:06:49Z,2026-11-10,cups,74a8bb8aaf96,2026-11-10T19:00:00Z,EFL_Trophy_England,Stevenage,Fulham U21,2-2
+2026-11-11T06:06:49Z,2026-11-10,cups,1bb5013d7895,2026-11-10T19:00:00Z,EFL_Trophy_England,Stockport County,Tranmere,0-0
+2026-11-11T06:06:49Z,2026-11-10,women,919153b5a632,2026-11-10T17:45:00Z,UEFA_Champions_League_Women,Häcken W,Chelsea W,0-0
+2026-11-11T06:06:49Z,2026-11-10,women,8d909551ef48,2026-11-10T20:00:00Z,UEFA_Champions_League_Women,Inter Milano W,Manchester City W,1-4
+2026-11-11T06:06:49Z,2026-11-10,women,db8770b148f2,2026-11-10T20:00:00Z,UEFA_Champions_League_Women,Paris Saint Germain W,Bayern Munich W,1-2
+2026-11-11T06:06:49Z,2026-11-10,women,1c05935679f1,2026-11-10T17:45:00Z,UEFA_Champions_League_Women,Real Madrid W,Paris FC W,3-0
+2026-11-11T06:06:49Z,2026-11-10,women,822d44d9a764,2026-11-10T20:00:00Z,UEFA_Champions_League_Women,Roma W,Servette Chênois W,2-1
