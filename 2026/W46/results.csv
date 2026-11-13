@@ -43,3 +43,20 @@ settled_utc,run_date,comp,match_id,kickoff_utc,league,home,away,score
 2026-11-12T06:07:45Z,2026-11-11,women,981eec5c3068,2026-11-11T16:00:00Z,Feminine_Division,FC Fleury 91 W,Toulouse W,7-0
 2026-11-12T06:07:45Z,2026-11-11,women,489971a10cc4,2026-11-11T20:00:00Z,UEFA_Champions_League_Women,Juventus W,Lyon W,0-6
 2026-11-12T06:07:45Z,2026-11-11,women,b37334e085e8,2026-11-11T17:45:00Z,UEFA_Champions_League_Women,OH Leuven W,Køge W,1-1
+2026-11-13T06:08:50Z,2026-11-11,women,66c2c17250f6,2026-11-11T20:00:00Z,UEFA_Champions_League_Women,SL Benfica W,Austria Wien W,3-1
+2026-11-13T06:08:50Z,2026-11-12,leagues,a7d144985e71,2026-11-12T00:00:00Z,Liga_de_Expansion_MX,Piratas,CA La Paz,1-1
+2026-11-13T06:08:50Z,2026-11-12,leagues,e0227ae5a1a2,2026-11-12T23:00:00Z,Primera_Division_Uruguay,Cerro Largo,Progreso,2-2
+2026-11-13T06:08:50Z,2026-11-12,leagues,eafc24c3b524,2026-11-12T22:00:00Z,Colombia_PrimeraA,Deportivo Pasto,Junior,0-1
+2026-11-13T06:08:50Z,2026-11-12,leagues,c808dc0c0661,2026-11-12T22:00:00Z,Serie_B_Brazil,Ponte Preta,Operario-PR,0-2
+2026-11-13T06:08:50Z,2026-11-12,leagues,448ec21217d1,2026-11-12T23:00:00Z,Serie_B_Brazil,São Bernardo,Athletic Club,2-2
+2026-11-13T06:08:50Z,2026-11-12,cups,6a8e787dfe35,2026-11-12T18:00:00Z,Coupe_de_France,Chambéry,Grenoble,0-2
+2026-11-13T06:08:50Z,2026-11-12,cups,d684db06a080,2026-11-12T18:00:00Z,Copa_del_Rey_Spain,Navalcarnero,Real Betis,2-2
+2026-11-13T06:08:50Z,2026-11-12,women,db2f1b64cce5,2026-11-12T17:45:00Z,UEFA_Champions_League_Women,Barcelona W,Arsenal W,1-1
+2026-11-13T06:08:50Z,2026-11-12,women,9c3c77da457d,2026-11-12T20:00:00Z,UEFA_Champions_League_Women,SL Benfica W,Austria Wien W,3-1
+2026-11-13T06:08:50Z,2026-11-12,international_comp,a6cd9948181d,2026-11-12T19:45:00Z,UEFA_Nations_League,Albania,Finland,2-0
+2026-11-13T06:08:50Z,2026-11-12,international_comp,a54d05c04ab8,2026-11-12T17:00:00Z,UEFA_Nations_League,Armenia,Cyprus,1-1
+2026-11-13T06:08:50Z,2026-11-12,international_comp,2b771edd6af2,2026-11-12T19:45:00Z,UEFA_Nations_League,England,Croatia,2-1
+2026-11-13T06:08:50Z,2026-11-12,international_comp,cc9f573c8872,2026-11-12T19:45:00Z,UEFA_Nations_League,Italy,France,3-1
+2026-11-13T06:08:50Z,2026-11-12,international_comp,3bdfd28c2cba,2026-11-12T19:45:00Z,UEFA_Nations_League,Montenegro,Latvia,2-1
+2026-11-13T06:08:50Z,2026-11-12,international_comp,32dde18eb183,2026-11-12T19:45:00Z,UEFA_Nations_League,San Marino,Belarus,0-2
+2026-11-13T06:08:50Z,2026-11-12,international_comp,ad2b0d642ddc,2026-11-12T17:00:00Z,UEFA_Nations_League,Türkiye,Belgium,1-2
