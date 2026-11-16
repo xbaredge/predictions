@@ -1,0 +1,2 @@
+published_utc,run_date,comp,match_id,kickoff_utc,league,home,away,model,p_HOME_WIN,p_DRAW,p_AWAY_WIN,p_OVER_1_5,p_OVER_2_5,p_UNDER_2_5,p_UNDER_3_5,p_BTTS,p_GOALS_1_3,p_GOALS_2_3,p_UPSET,backed
+2026-11-15T06:13:03Z,2026-11-16,leagues,7e088cec4980,2026-11-16T00:00:00Z,USL_Championship,New Mexico United,Sacramento Republic,v3/binary/published,0.3086,0.3037,0.3877,0.6954,0.4384,0.5606,0.7830,0.5240,0.6878,0.4564,0.3367,
