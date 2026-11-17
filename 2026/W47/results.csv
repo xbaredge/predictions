@@ -1,0 +1,14 @@
+settled_utc,run_date,comp,match_id,kickoff_utc,league,home,away,score
+2026-11-17T06:03:54Z,2026-11-16,leagues,84a8f20fc0b6,2026-11-16T19:30:00Z,Spanish_Segunda,Albacete,Celta de Vigo II,1-0
+2026-11-17T06:03:54Z,2026-11-16,leagues,d067167d044f,2026-11-16T23:00:00Z,Primera_Division_Uruguay,Wanderers,Juventud,2-1
+2026-11-17T06:03:54Z,2026-11-16,women,42c2c91508b7,2026-11-16T17:00:00Z,Frauen_Bundesliga,Stuttgart W,Bayer Leverkusen W,2-3
+2026-11-17T06:03:54Z,2026-11-16,international_comp,7bbdb1cf1038,2026-11-16T17:00:00Z,UEFA_Nations_League,Estonia,Bulgaria,2-1
+2026-11-17T06:03:54Z,2026-11-16,international_comp,8e4ea8112768,2026-11-16T15:00:00Z,UEFA_Nations_League,Faroe Islands,Moldova,1-0
+2026-11-17T06:03:54Z,2026-11-16,international_comp,93839db02faa,2026-11-16T19:45:00Z,UEFA_Nations_League,FYR Macedonia,Slovenia,0-3
+2026-11-17T06:03:54Z,2026-11-16,international_comp,bc70e97d8cbe,2026-11-16T19:45:00Z,UEFA_Nations_League,Germany,Netherlands,5-0
+2026-11-17T06:03:54Z,2026-11-16,international_comp,fc0eab3d6fd7,2026-11-16T19:45:00Z,UEFA_Nations_League,Gibraltar,Malta,1-1
+2026-11-17T06:03:54Z,2026-11-16,international_comp,9f5c1554af65,2026-11-16T19:45:00Z,UEFA_Nations_League,Greece,Serbia,1-0
+2026-11-17T06:03:54Z,2026-11-16,international_comp,0466aa4cd62b,2026-11-16T17:00:00Z,UEFA_Nations_League,Iceland,Luxembourg,3-0
+2026-11-17T06:03:54Z,2026-11-16,international_comp,a94e0ffd3c27,2026-11-16T15:00:00Z,UEFA_Nations_League,Kazakhstan,Slovakia,2-2
+2026-11-17T06:03:54Z,2026-11-16,international_comp,d1aa8adcade9,2026-11-16T17:00:00Z,UEFA_Nations_League,Lithuania,Liechtenstein,2-1
+2026-11-17T06:03:54Z,2026-11-16,international_comp,6823774214e6,2026-11-16T19:45:00Z,UEFA_Nations_League,Switzerland,Scotland,4-0
