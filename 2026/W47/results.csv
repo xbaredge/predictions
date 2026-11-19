@@ -22,3 +22,28 @@ settled_utc,run_date,comp,match_id,kickoff_utc,league,home,away,score
 2026-11-18T06:07:38Z,2026-11-17,international_comp,2993739d43a1,2026-11-17T19:45:00Z,UEFA_Nations_League,Rep. Of Ireland,Kosovo,3-0
 2026-11-18T06:07:38Z,2026-11-17,international_comp,82c15419a618,2026-11-17T19:45:00Z,UEFA_Nations_League,Ukraine,Georgia,1-0
 2026-11-18T06:07:38Z,2026-11-17,international_comp,150accd94d12,2026-11-17T19:45:00Z,UEFA_Nations_League,Wales,Portugal,2-3
+2026-11-19T06:05:32Z,2026-11-18,leagues,c1dea44e8c0e,2026-11-18T10:00:00Z,2_Lig_Turkey,12 Bingölspor,Sakaryaspor,0-1
+2026-11-19T06:05:32Z,2026-11-18,leagues,79df23022327,2026-11-18T10:00:00Z,2_Lig_Turkey,1461 Trabzon FK, Kahramanmaraş İstiklal Spor,1-0
+2026-11-19T06:05:32Z,2026-11-18,leagues,d4bbe3ee7d0c,2026-11-18T10:00:00Z,2_Lig_Turkey,Adana Demirspor,Kastamonuspor,2-2
+2026-11-19T06:05:32Z,2026-11-18,leagues,d5508c8d92a6,2026-11-18T12:30:00Z,2_Lig_Turkey,Aliağa FAŞ,Sebat Gençlikspor,2-0
+2026-11-19T06:05:32Z,2026-11-18,leagues,0c16ec653508,2026-11-18T10:00:00Z,2_Lig_Turkey,Ankara Demirspor,Yeni Orduspor,0-2
+2026-11-19T06:05:32Z,2026-11-18,leagues,386ffbc62c6e,2026-11-18T11:00:00Z,2_Lig_Turkey,Ankaragücü,Kırklarelispor,1-1
+2026-11-19T06:05:32Z,2026-11-18,leagues,15e297786869,2026-11-18T11:00:00Z,2_Lig_Turkey,Arnavutköy Belediyespor,68 Aksaray Belediyespor,2-3
+2026-11-19T06:05:32Z,2026-11-18,leagues,f471f74a68e0,2026-11-18T22:30:00Z,Serie_A_Brazil,Coritiba,Santos,0-1
+2026-11-19T06:05:32Z,2026-11-18,leagues,2ea073d71b0d,2026-11-18T10:00:00Z,2_Lig_Turkey,Çorluspor 1947,Muş Sport Klübü,1-4
+2026-11-19T06:05:32Z,2026-11-18,leagues,c40ebeffa94b,2026-11-18T10:00:00Z,2_Lig_Turkey,Elazığspor,Menemen FK,1-1
+2026-11-19T06:05:32Z,2026-11-18,leagues,217b00e87df3,2026-11-18T12:30:00Z,2_Lig_Turkey,Fethiyespor,Kütahyaspor,2-1
+2026-11-19T06:05:32Z,2026-11-18,leagues,bf9021d66856,2026-11-18T10:00:00Z,2_Lig_Turkey,Güzide Gebzespor,Ankaraspor,2-1
+2026-11-19T06:05:32Z,2026-11-18,leagues,8f4c4aece7bc,2026-11-18T10:00:00Z,2_Lig_Turkey,Hatayspor,İnegöl Kafkas Gençlik,0-2
+2026-11-19T06:05:32Z,2026-11-18,leagues,00bb948ab89a,2026-11-18T12:00:00Z,2_Lig_Turkey,İnegölspor,İskenderunspor,2-0
+2026-11-19T06:05:32Z,2026-11-18,leagues,30e4059e1231,2026-11-18T10:00:00Z,2_Lig_Turkey,Isparta 32 Spor,Somaspor,0-0
+2026-11-19T06:05:32Z,2026-11-18,leagues,d7d1b43695d7,2026-11-18T12:30:00Z,2_Lig_Turkey,Karacabey Belediyespor,Beyoğlu Yeni Çarşı,0-3
+2026-11-19T06:05:32Z,2026-11-18,leagues,2dd2f19df58a,2026-11-18T23:00:00Z,Serie_A_Brazil,Remo,Chapecoense-sc,2-0
+2026-11-19T06:05:32Z,2026-11-18,leagues,fd4d1b549818,2026-11-18T12:30:00Z,2_Lig_Turkey,Şanlıurfaspor,Erbaaspor,2-1
+2026-11-19T06:05:32Z,2026-11-18,leagues,ac0ac346ad30,2026-11-18T10:00:00Z,2_Lig_Turkey,Serik Spor,24 Erzincanspor,0-1
+2026-11-19T06:05:32Z,2026-11-18,cups,9aa7eff1a360,2026-11-18T19:00:00Z,Copa_del_Rey_Spain,Alcoyano,Mallorca,1-1
+2026-11-19T06:05:32Z,2026-11-18,cups,e4b189e9777b,2026-11-18T19:00:00Z,Copa_del_Rey_Spain,Badajoz,Tenerife,2-5
+2026-11-19T06:05:32Z,2026-11-18,women,71cce9c7480d,2026-11-18T20:00:00Z,UEFA_Champions_League_Women,Chelsea W,Paris Saint Germain W,1-0
+2026-11-19T06:05:32Z,2026-11-18,women,cbb70fc7f4b9,2026-11-18T17:45:00Z,UEFA_Champions_League_Women,Häcken W,Manchester City W,0-2
+2026-11-19T06:05:32Z,2026-11-18,women,6fcdcd9ac41d,2026-11-18T20:00:00Z,UEFA_Champions_League_Women,Juventus W,OH Leuven W,2-0
+2026-11-19T06:05:32Z,2026-11-18,women,c79225efcd11,2026-11-18T17:45:00Z,UEFA_Champions_League_Women,Real Madrid W,Inter Milano W,3-1
