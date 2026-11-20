@@ -47,3 +47,20 @@ settled_utc,run_date,comp,match_id,kickoff_utc,league,home,away,score
 2026-11-19T06:05:32Z,2026-11-18,women,cbb70fc7f4b9,2026-11-18T17:45:00Z,UEFA_Champions_League_Women,Häcken W,Manchester City W,0-2
 2026-11-19T06:05:32Z,2026-11-18,women,6fcdcd9ac41d,2026-11-18T20:00:00Z,UEFA_Champions_League_Women,Juventus W,OH Leuven W,2-0
 2026-11-19T06:05:32Z,2026-11-18,women,c79225efcd11,2026-11-18T17:45:00Z,UEFA_Champions_League_Women,Real Madrid W,Inter Milano W,3-1
+2026-11-20T06:17:31Z,2026-11-18,leagues,46ee1b37ac37,2026-11-18T23:30:00Z,Serie_A_Brazil,Cruzeiro,Palmeiras,2-1
+2026-11-20T06:17:31Z,2026-11-18,leagues,a4375731d57f,2026-11-18T23:30:00Z,Serie_A_Brazil,Flamengo,Atletico Paranaense,2-1
+2026-11-20T06:17:31Z,2026-11-19,leagues,4e941f291437,2026-11-19T00:30:00Z,Serie_A_Brazil,Corinthians,Botafogo,4-0
+2026-11-20T06:17:31Z,2026-11-19,leagues,d1cb4a10b4b1,2026-11-19T00:30:00Z,Serie_A_Brazil,Gremio,Bahia,0-0
+2026-11-20T06:17:31Z,2026-11-19,leagues,c904ea3cbd58,2026-11-19T19:45:00Z,Championnat_National,Amiens,Caen,2-1
+2026-11-20T06:17:31Z,2026-11-19,leagues,98c61425de17,2026-11-19T19:30:00Z,Primera_Division_Uruguay,Boston River,Deportivo Maldonado,1-0
+2026-11-20T06:17:31Z,2026-11-19,leagues,e4af960abb29,2026-11-19T18:00:00Z,Danish_1st_Division,FC Fredericia,Hillerød,4-1
+2026-11-20T06:17:31Z,2026-11-19,leagues,b83d6781b6aa,2026-11-19T19:30:00Z,Primera_Division_Uruguay,Penarol,Cerro Largo,3-0
+2026-11-20T06:17:31Z,2026-11-19,leagues,2e066ff40bc4,2026-11-19T19:30:00Z,Primera_Division_Uruguay,Progreso,Atletico Torque,1-1
+2026-11-20T06:17:31Z,2026-11-19,leagues,67fdf6138875,2026-11-19T22:30:00Z,Serie_A_Brazil,Vasco DA Gama,Internacional,2-1
+2026-11-20T06:17:31Z,2026-11-19,leagues,745bb23ea710,2026-11-19T22:30:00Z,Serie_A_Brazil,Vitoria,RB Bragantino,2-1
+2026-11-20T06:17:31Z,2026-11-19,women,65f949dbf33e,2026-11-19T20:00:00Z,UEFA_Champions_League_Women,Arsenal W,Lyon W,0-2
+2026-11-20T06:17:31Z,2026-11-19,women,37e40821b15d,2026-11-19T17:45:00Z,UEFA_Champions_League_Women,Austria Wien W,Bayern Munich W,0-4
+2026-11-20T06:17:31Z,2026-11-19,women,7bbfd16bfeff,2026-11-19T20:00:00Z,UEFA_Champions_League_Women,Barcelona W,Servette Chênois W,6-0
+2026-11-20T06:17:31Z,2026-11-19,women,827c304e664e,2026-11-19T17:00:00Z,Damallsvenskan_Sweden,KIF Örebro W,Rosengård W,2-1
+2026-11-20T06:17:31Z,2026-11-19,women,1613656fb8c3,2026-11-19T17:45:00Z,UEFA_Champions_League_Women,Paris FC W,Køge W,2-1
+2026-11-20T06:17:31Z,2026-11-19,women,e02ee5593d7e,2026-11-19T20:00:00Z,UEFA_Champions_League_Women,SL Benfica W,Roma W,2-3
