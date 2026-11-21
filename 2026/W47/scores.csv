@@ -11,3 +11,9 @@ published_utc,run_date,comp,match_id,kickoff_utc,home,away,scoreline,p,p_covered
 2026-11-17T06:03:54Z,2026-11-17,international_comp,82c15419a618,2026-11-17T19:45:00Z,Ukraine,Georgia,1-1,0.1330,0.3395
 2026-11-17T06:03:54Z,2026-11-17,international_comp,82c15419a618,2026-11-17T19:45:00Z,Ukraine,Georgia,1-0,0.1035,0.3395
 2026-11-17T06:03:54Z,2026-11-17,international_comp,82c15419a618,2026-11-17T19:45:00Z,Ukraine,Georgia,0-0,0.1030,0.3395
+2026-11-20T06:17:31Z,2026-11-20,leagues,e4eed69f759d,2026-11-20T19:00:00Z,Jong Utrecht,Emmen,1-1,0.1031,0.2669
+2026-11-20T06:17:31Z,2026-11-20,leagues,e4eed69f759d,2026-11-20T19:00:00Z,Jong Utrecht,Emmen,1-2,0.0875,0.2669
+2026-11-20T06:17:31Z,2026-11-20,leagues,e4eed69f759d,2026-11-20T19:00:00Z,Jong Utrecht,Emmen,2-1,0.0763,0.2669
+2026-11-20T06:17:31Z,2026-11-20,leagues,e28b9bba594a,2026-11-20T19:30:00Z,Racing Montevideo,Central Espanol,1-0,0.1477,0.3891
+2026-11-20T06:17:31Z,2026-11-20,leagues,e28b9bba594a,2026-11-20T19:30:00Z,Racing Montevideo,Central Espanol,1-1,0.1289,0.3891
+2026-11-20T06:17:31Z,2026-11-20,leagues,e28b9bba594a,2026-11-20T19:30:00Z,Racing Montevideo,Central Espanol,0-0,0.1125,0.3891
