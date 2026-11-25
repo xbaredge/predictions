@@ -1,0 +1,67 @@
+settled_utc,batch,comp,match_id,kickoff_utc,home,away,pick,min_odds,post_mean,post_books,post_mean_utc,last_mean,last_books,last_mean_utc,clv_mean_pct,score,result,settle_frac
+2026-11-25T11:03:09Z,uncommitted,leagues,3ebca169e63c,2026-11-20T17:00:05Z,Piast Gliwice,Korona Kielce,Piast Gliwice +0,1.81,,,,1.89,5,2026-11-20T11:41:36Z,,2-0,Landed,1
+2026-11-25T11:03:09Z,uncommitted,leagues,39a4f3736ad5,2026-11-20T17:29:43Z,Rapid Wien II,FC BW Linz,FC BW Linz -1.5,1.99,,,,2.08,7,2026-11-20T11:41:36Z,,1-6,Landed,1
+2026-11-25T11:03:09Z,uncommitted,leagues,8e906322d68a,2026-11-20T17:29:43Z,SKN ST. Polten,Voitsberg,Under 2.5,2.30,,,,2.31,6,2026-11-20T11:41:36Z,,0-2,Landed,1
+2026-11-25T11:03:09Z,uncommitted,leagues,127dd9178d8f,2026-11-20T17:59:43Z,Molde,Bodo/Glimt,Molde +0.5,1.97,,,,2.09,5,2026-11-20T15:01:09Z,,2-4,Missed,0
+2026-11-25T11:03:09Z,uncommitted,leagues,97cc7f40a997,2026-11-20T19:00:00Z,Club Brugge II,Excelsior Virton,Club Brugge II -0.25,2.00,1.91,5,2026-11-20T15:01:09Z,1.91,5,2026-11-20T15:01:09Z,0.00,2-2,Half missed,0.25
+2026-11-25T11:03:09Z,uncommitted,leagues,e80fc8c6f0ba,2026-11-20T19:00:00Z,Den Bosch,VVV Venlo,VVV Venlo +0.5,1.91,1.81,4,2026-11-17T21:41:28Z,1.78,5,2026-11-20T15:01:09Z,1.69,1-0,Missed,0
+2026-11-25T11:03:09Z,uncommitted,leagues,a17c7a973e77,2026-11-20T19:00:00Z,FC Volendam,Jong Ajax,Jong Ajax +0.75,1.82,1.74,6,2026-11-20T07:40:07Z,1.69,6,2026-11-20T15:01:09Z,2.96,1-2,Landed,1
+2026-11-25T11:03:09Z,uncommitted,leagues,69189677d422,2026-11-20T19:30:00Z,Hellas Verona,Cesena,Hellas Verona -0.75,1.92,1.82,6,2026-11-20T15:01:09Z,1.82,6,2026-11-20T15:01:09Z,0.00,0-2,Missed,0
+2026-11-25T11:03:09Z,uncommitted,leagues,f587f85b1cf3,2026-11-20T19:30:00Z,Liverpool Montevideo,Wanderers,Liverpool Montevideo -0.25,1.82,1.72,6,2026-11-20T03:40:21Z,1.66,6,2026-11-20T15:01:09Z,3.61,0-2,Missed,0
+2026-11-25T11:03:09Z,uncommitted,leagues,e28b9bba594a,2026-11-20T19:30:00Z,Racing Montevideo,Central Espanol,Central Espanol +1,1.64,1.56,5,2026-11-18T03:42:04Z,1.36,6,2026-11-20T15:01:09Z,14.71,1-0,Void,0.5
+2026-11-25T11:03:09Z,uncommitted,leagues,6b53fc82607c,2026-11-20T21:30:00Z,Independiente Medellin,Santa Fe,Independiente Medellin -0.25,1.85,1.73,4,2026-11-17T21:41:28Z,1.71,6,2026-11-20T17:01:00Z,1.17,1-0,Landed,1
+2026-11-25T11:03:09Z,uncommitted,leagues,2f3cdd703860,2026-11-21T05:00:00Z,Ehime FC,FC Gifu,FC Gifu -0,1.91,1.77,5,2026-11-20T21:40:16Z,1.64,5,2026-11-21T00:42:49Z,7.93,1-2,Landed,1
+2026-11-25T11:03:09Z,uncommitted,leagues,0cd5c20d4f07,2026-11-21T10:30:00Z,Mardin 1969,Bandırmaspor,Bandırmaspor +0.75,1.78,1.68,5,2026-11-20T21:40:16Z,1.71,5,2026-11-21T07:40:30Z,-1.75,1-2,Landed,1
+2026-11-25T11:03:09Z,uncommitted,leagues,aa5596e47a9b,2026-11-21T11:00:00Z,Sokół Kleczew,Tychy 71,Tychy 71 -0.75,1.88,1.75,4,2026-11-19T21:41:03Z,1.70,5,2026-11-21T07:40:30Z,2.94,1-3,Landed,1
+2026-11-25T11:03:09Z,uncommitted,leagues,bc59ee8dbdf1,2026-11-21T11:30:00Z,Avia Świdnik,Legia Warszawa II,Avia Świdnik -0.25,2.03,1.86,5,2026-11-20T21:40:16Z,1.84,6,2026-11-21T07:40:30Z,1.09,8-2,Landed,1
+2026-11-25T11:03:09Z,uncommitted,leagues,cffaf641d0a6,2026-11-21T12:00:00Z,Enköping,Orebro SK,Orebro SK -0.25,1.77,1.67,4,2026-11-18T21:42:04Z,1.61,5,2026-11-21T07:40:30Z,3.73,2-4,Landed,1
+2026-11-25T11:03:09Z,uncommitted,leagues,76cd712bab6f,2026-11-21T12:00:00Z,Radnicki NIS,Zemun,Zemun +1,1.70,1.60,6,2026-11-19T21:41:03Z,1.67,6,2026-11-21T07:40:30Z,-4.19,1-0,Void,0.5
+2026-11-25T11:03:09Z,uncommitted,leagues,345b9559746b,2026-11-21T13:00:00Z,Amed,Rizespor,Rizespor +0.75,1.87,1.83,6,2026-11-21T07:40:30Z,1.83,6,2026-11-21T07:40:30Z,0.00,0-2,Landed,1
+2026-11-25T11:03:09Z,uncommitted,leagues,8ee6b43f283e,2026-11-21T13:00:00Z,Kayserispor,Sarıyer,Sarıyer +1.5,1.76,1.63,6,2026-11-20T03:40:21Z,1.71,5,2026-11-21T07:40:30Z,-4.68,3-1,Missed,0
+2026-11-25T11:03:09Z,uncommitted,leagues,9d7d9c802574,2026-11-21T13:00:05Z,Fortuna Köln,SV Meppen,Under 2.5,2.18,,,,2.11,6,2026-11-21T07:40:30Z,,2-1,Missed,0
+2026-11-25T11:03:09Z,uncommitted,leagues,75e5d64c0069,2026-11-21T14:00:00Z,Lazio,Lecce,Lecce +1.5,1.88,1.82,7,2026-11-20T21:40:16Z,1.64,7,2026-11-21T11:40:05Z,10.98,3-0,Missed,0
+2026-11-25T11:03:09Z,uncommitted,leagues,1ab0d2f9fc7b,2026-11-21T14:30:00Z,Žilina,Dukla Banská Bystrica,Žilina -1,1.93,1.79,6,2026-11-19T21:41:03Z,1.56,6,2026-11-21T11:40:05Z,14.74,2-0,Landed,1
+2026-11-25T11:03:09Z,uncommitted,cups,fd573289e03a,2026-11-21T15:00:00Z,AVS,Tondela,Tondela -0.25,1.83,1.72,5,2026-11-20T21:45:52Z,1.72,5,2026-11-21T11:45:30Z,0.00,1-5,Landed,1
+2026-11-25T11:03:09Z,uncommitted,leagues,a6214ca71ce5,2026-11-21T15:00:00Z,Cheltenham,Bristol Rovers,Cheltenham +0.25,1.84,1.73,5,2026-11-20T21:40:16Z,1.74,5,2026-11-21T11:40:05Z,-0.57,0-3,Missed,0
+2026-11-25T11:03:09Z,uncommitted,leagues,1cd88fdcb260,2026-11-21T15:00:00Z,Clyde,Stirling Albion,Stirling Albion +1,1.95,1.81,6,2026-11-19T21:41:03Z,2.02,6,2026-11-21T11:40:05Z,-10.40,4-3,Void,0.5
+2026-11-25T11:03:09Z,uncommitted,leagues,e4f59b384bb8,2026-11-21T15:00:00Z,Lincoln,Wrexham,Lincoln +0,2.01,1.91,5,2026-11-20T21:40:16Z,1.82,5,2026-11-21T11:40:05Z,4.95,0-1,Missed,0
+2026-11-25T11:03:09Z,uncommitted,leagues,11dc42b34d3e,2026-11-21T15:00:00Z,Peterhead,East Kilbride,Peterhead +0.75,1.94,1.83,5,2026-11-19T21:41:03Z,1.70,5,2026-11-21T11:40:05Z,7.65,1-0,Landed,1
+2026-11-25T11:03:09Z,uncommitted,leagues,3a325f858e87,2026-11-21T15:00:00Z,Queen of the South,Hamilton Academical,Queen of the South +1.25,1.72,1.62,5,2026-11-19T21:41:03Z,1.50,5,2026-11-21T11:40:05Z,8.00,1-3,Missed,0
+2026-11-25T11:03:09Z,uncommitted,leagues,0705593a828e,2026-11-21T15:00:00Z,Ross County,Cove Rangers,Ross County -2,1.88,1.75,6,2026-11-21T11:40:05Z,1.75,6,2026-11-21T11:40:05Z,0.00,5-1,Landed,1
+2026-11-25T11:03:09Z,uncommitted,leagues,916c21f05e08,2026-11-21T16:00:00Z,Fatih Karagümrük,Boluspor,Boluspor +1.75,1.98,1.84,5,2026-11-18T21:42:04Z,1.94,5,2026-11-21T11:40:05Z,-5.15,0-0,Landed,1
+2026-11-25T11:03:09Z,uncommitted,leagues,b79d11d098ec,2026-11-21T17:00:00Z,BSC Young Boys,FC Thun,BSC Young Boys -1.5,1.94,1.89,7,2026-11-21T11:40:05Z,1.89,7,2026-11-21T11:40:05Z,0.00,3-2,Missed,0
+2026-11-25T11:03:09Z,uncommitted,cups,e147b779eb46,2026-11-21T17:00:00Z,Maritimo,Chaves,Chaves +1,1.75,1.65,6,2026-11-20T21:45:52Z,1.74,7,2026-11-21T11:45:30Z,-5.17,0-0,Landed,1
+2026-11-25T11:03:09Z,uncommitted,leagues,cf45837f61d8,2026-11-21T17:30:00Z,Ferencvarosi TC,Gyori ETO FC,Ferencvarosi TC -1.25,1.98,1.85,5,2026-11-20T21:40:16Z,1.77,5,2026-11-21T11:40:05Z,4.52,1-3,Missed,0
+2026-11-25T11:03:09Z,uncommitted,leagues,838800f946e2,2026-11-21T17:30:00Z,Montrose,Alloa Athletic,Alloa Athletic +0.25,1.78,1.65,5,2026-11-19T21:41:03Z,1.72,5,2026-11-21T11:40:05Z,-4.07,1-1,Half landed,0.75
+2026-11-25T11:03:09Z,uncommitted,cups,5db543945520,2026-11-21T18:00:00Z,Sporting CP,UD da Serra,Sporting CP -3.75,1.75,1.54,5,2026-11-20T21:45:52Z,1.54,5,2026-11-21T13:44:13Z,0.00,4-0,Half landed,0.75
+2026-11-25T11:03:09Z,uncommitted,leagues,708fe710da7d,2026-11-21T18:29:43Z,Grazer AK,Rapid Vienna,Rapid Vienna -1.5,2.16,,,,2.14,6,2026-11-21T13:40:57Z,,0-3,Landed,1
+2026-11-25T11:03:09Z,uncommitted,leagues,11123c21f1f1,2026-11-21T19:30:00Z,Palmeiras,Flamengo,Palmeiras +0.25,1.79,1.69,5,2026-11-19T11:41:01Z,2.02,5,2026-11-21T13:40:57Z,-16.34,1-1,Half landed,0.75
+2026-11-25T11:03:09Z,uncommitted,leagues,83cdaaa7602c,2026-11-21T20:00:00Z,Groningen,Heerenveen,Heerenveen -0,1.88,1.79,5,2026-11-21T11:40:05Z,1.76,5,2026-11-21T15:00:02Z,1.70,1-3,Landed,1
+2026-11-25T11:03:09Z,uncommitted,women,afbbc26d8506,2026-11-21T20:00:00Z,Paris Saint Germain W,Saint-Malo W,Under 3.5,1.91,1.90,5,2026-11-19T21:47:09Z,1.83,7,2026-11-21T15:03:23Z,3.83,1-0,Landed,1
+2026-11-25T11:03:09Z,uncommitted,leagues,b3fd33865453,2026-11-21T20:00:00Z,Tenerife,Mallorca,Tenerife +0.5,1.80,1.71,5,2026-11-19T21:41:03Z,1.64,5,2026-11-21T15:00:02Z,4.27,0-0,Landed,1
+2026-11-25T11:03:09Z,uncommitted,leagues,5655416cf1ad,2026-11-22T04:00:00Z,Roasso Kumamoto,Kitakyushu,Roasso Kumamoto -0.5,1.83,1.70,4,2026-11-21T11:40:05Z,1.76,4,2026-11-22T00:40:14Z,-3.41,1-0,Landed,1
+2026-11-25T11:03:09Z,uncommitted,leagues,b762dcc41703,2026-11-22T05:00:00Z,Renofa Yamaguchi,Biwako Shiga,Renofa Yamaguchi -0.75,1.84,1.69,5,2026-11-21T11:40:05Z,1.69,5,2026-11-22T00:40:14Z,0.00,1-0,Half landed,0.75
+2026-11-25T11:03:09Z,uncommitted,leagues,ff73cd7ae58d,2026-11-22T10:00:00Z,Adana Demirspor,Aliağa FAŞ,Aliağa FAŞ -2.25,1.80,,2,2026-11-21T21:41:00Z,,2,2026-11-22T07:41:12Z,,1-3,Half missed,0.25
+2026-11-25T11:03:09Z,uncommitted,leagues,87db38cb1ade,2026-11-22T10:00:00Z,Kastamonuspor,Erbaaspor,Erbaaspor -1.75,1.59,1.53,4,2026-11-21T21:41:00Z,1.56,5,2026-11-22T07:41:12Z,-1.92,0-3,Landed,1
+2026-11-25T11:03:09Z,uncommitted,leagues,69a6e0b7d54b,2026-11-22T10:00:00Z,Kırklarelispor,Fethiyespor,Fethiyespor -0,1.99,1.89,4,2026-11-21T21:41:00Z,1.82,4,2026-11-22T07:41:12Z,3.85,5-0,Missed,0
+2026-11-25T11:03:09Z,uncommitted,leagues,0d6774d9585e,2026-11-22T10:00:00Z,Muş Sport Klübü,Hatayspor,Muş Sport Klübü -2.5,1.73,1.70,5,2026-11-21T21:41:00Z,1.58,6,2026-11-22T07:41:12Z,7.59,5-1,Landed,1
+2026-11-25T11:03:09Z,uncommitted,leagues,da8f86aa59d6,2026-11-22T11:00:00Z,Menemen FK,Şanlıurfaspor,Menemen FK +1.25,1.78,1.81,4,2026-11-21T21:41:00Z,1.81,5,2026-11-22T07:41:12Z,0.00,1-1,Landed,1
+2026-11-25T11:03:09Z,uncommitted,leagues,b5f4a9b95a7b,2026-11-22T11:00:00Z,İskenderunspor,Ankaragücü,Ankaragücü -1,1.82,1.67,5,2026-11-21T21:41:00Z,1.67,6,2026-11-22T07:41:12Z,0.00,0-3,Landed,1
+2026-11-25T11:03:09Z,uncommitted,leagues,098c8f4262bd,2026-11-22T11:30:00Z,Olimpia Grudziądz,Górnik Łęczna,Olimpia Grudziądz +0,1.83,1.75,4,2026-11-19T21:41:03Z,1.85,5,2026-11-22T07:41:12Z,-5.41,4-2,Landed,1
+2026-11-25T11:03:09Z,uncommitted,leagues,b7e8fa0e1319,2026-11-22T12:00:00Z,Beyoğlu Yeni Çarşı,İnegölspor,Beyoğlu Yeni Çarşı -0.75,1.84,1.71,4,2026-11-21T21:41:00Z,1.68,4,2026-11-22T07:41:12Z,1.79,4-0,Landed,1
+2026-11-25T11:03:09Z,uncommitted,leagues,6fd3dc696556,2026-11-22T12:00:00Z,İnegöl Kafkas Gençlik,Arnavutköy Belediyespor,Arnavutköy Belediyespor +1.5,1.98,1.83,5,2026-11-21T21:41:00Z,1.81,5,2026-11-22T07:41:12Z,1.10,4-0,Missed,0
+2026-11-25T11:03:09Z,uncommitted,leagues,9d2831d18de0,2026-11-22T12:30:00Z,Yeni Orduspor,12 Bingölspor,Yeni Orduspor -1.25,1.94,1.80,4,2026-11-21T21:41:00Z,1.76,4,2026-11-22T07:41:12Z,2.27,2-3,Missed,0
+2026-11-25T11:03:09Z,uncommitted,leagues,271d6a446ebf,2026-11-22T14:00:00Z,Levadiakos,Atromitos,Levadiakos +0,1.81,1.75,5,2026-11-22T03:42:48Z,1.70,5,2026-11-22T11:41:08Z,2.94,1-1,Void,0.5
+2026-11-25T11:03:09Z,uncommitted,cups,ee19456a2351,2026-11-22T14:00:00Z,Vianense,Rio Ave,Vianense +1,1.66,1.61,6,2026-11-21T21:45:00Z,1.57,6,2026-11-22T11:44:39Z,2.55,1-0,Landed,1
+2026-11-25T11:03:09Z,uncommitted,cups,e4f9c47d98d5,2026-11-22T14:00:00Z,Vitória de Sernache,Lusitânia Lourosa,Vitória de Sernache +1,1.78,1.67,6,2026-11-21T21:45:00Z,1.51,6,2026-11-22T11:44:39Z,10.60,0-1,Void,0.5
+2026-11-25T11:03:09Z,uncommitted,cups,c5407d3657a9,2026-11-22T15:00:00Z,Farense,Fátima,Farense -1.75,1.80,1.69,5,2026-11-20T21:45:52Z,1.91,5,2026-11-22T11:44:39Z,-11.52,1-0,Missed,0
+2026-11-25T11:03:09Z,uncommitted,leagues,638c1e562b5d,2026-11-22T15:30:05Z,IF Brommapojkarna,Halmstad,IF Brommapojkarna -0.25,1.91,,,,1.80,6,2026-11-22T11:41:08Z,,0-3,Missed,0
+2026-11-25T11:03:09Z,uncommitted,leagues,266499665a0e,2026-11-22T16:00:00Z,Bursaspor,Sivasspor,Sivasspor +2,1.94,1.82,5,2026-11-19T21:41:03Z,1.81,7,2026-11-22T11:41:08Z,0.55,2-0,Void,0.5
+2026-11-25T11:03:09Z,uncommitted,leagues,474bdc956f5d,2026-11-22T16:00:05Z,Botev Plovdiv,CSKA Sofia,Botev Plovdiv +0.75,2.01,,,,1.86,6,2026-11-22T11:41:08Z,,3-3,Landed,1
+2026-11-25T11:03:09Z,uncommitted,cups,957409270526,2026-11-22T18:00:00Z,Estrela,Portimonense,Portimonense +0.75,1.98,1.85,5,2026-11-21T21:45:00Z,1.85,5,2026-11-22T13:42:56Z,0.00,1-0,Half missed,0.25
+2026-11-25T11:03:09Z,uncommitted,leagues,37b4e8644908,2026-11-22T18:30:00Z,Zawisza Bydgoszcz,Podhale Nowy Targ,Podhale Nowy Targ +0.25,1.87,1.76,4,2026-11-19T21:41:03Z,1.70,5,2026-11-22T13:40:30Z,3.53,3-2,Missed,0
+2026-11-25T11:03:09Z,uncommitted,leagues,12c2544fa034,2026-11-22T19:00:00Z,Atletico Paranaense,Remo,Atletico Paranaense -1,1.88,1.80,5,2026-11-19T21:41:03Z,1.94,7,2026-11-22T13:40:30Z,-7.22,4-2,Landed,1
+2026-11-25T11:03:09Z,uncommitted,cups,1a8a6b0b611e,2026-11-22T19:30:00Z,União de Leiria,Leça,União de Leiria -1,1.84,1.76,6,2026-11-21T21:45:00Z,1.72,6,2026-11-22T13:42:56Z,2.33,2-2,Missed,0
+2026-11-25T11:03:09Z,uncommitted,leagues,2aaa23540582,2026-11-22T20:00:00Z,Burgos,Albacete,Albacete +0.5,1.93,1.85,5,2026-11-20T11:41:36Z,1.78,5,2026-11-22T15:00:59Z,3.93,1-0,Missed,0
+2026-11-25T11:03:09Z,uncommitted,cups,7e2b376ef0b3,2026-11-22T20:45:00Z,Torreense,Benfica,Torreense +2.25,1.83,1.73,5,2026-11-21T21:45:00Z,1.73,6,2026-11-22T15:03:23Z,0.00,1-3,Half landed,0.75
+2026-11-25T11:03:09Z,uncommitted,leagues,0c0a97d4302a,2026-11-22T23:30:05Z,Chicago Fire,Charlotte,Charlotte +1,1.86,,,,1.88,6,2026-11-22T21:40:50Z,,1-2,Landed,1

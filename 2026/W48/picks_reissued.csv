@@ -1,0 +1,7 @@
+published_utc,run_date,comp,match_id,kickoff_utc,league,home,away,market,gradable,model_p,model_fair_odds,price,price_basis,edge_pct,open_mean,open_mean_utc,open_books,combinations,model,reissued_utc
+2026-11-23T06:11:07Z,2026-11-23,leagues,dd338bee1ae0,2026-11-23T20:00:00Z,Premier_League,Brentford,Everton,UPSET,1,0.3139,3.186,3.02,min,-5.20,,,,,v3/binary/published,2026-11-25T11:03:09Z
+2026-11-23T06:11:07Z,2026-11-23,leagues,8efedd40703d,2026-11-23T20:00:00Z,La_Liga,Levante,Elche,DRAW,1,0.2721,3.675,3.56,min,-3.13,3.58,2026-11-20T21:40:16Z,9,VALUE SINGLE #2,v3/binary/published,2026-11-25T11:03:09Z
+2026-11-24T06:08:39Z,2026-11-24,cups,199e053228c2,2026-11-24T19:00:00Z,EFL_Trophy_England,Fleetwood Town,Leeds United U21,OVER_2_5,1,0.7240,1.381,1.30,min,-5.88,1.27,2026-11-22T03:46:26Z,3,,v3/binary/published,2026-11-25T11:03:09Z
+2026-11-24T06:08:39Z,2026-11-24,cups,b245fae8a63e,2026-11-24T19:00:00Z,EFL_Trophy_England,Oxford United,Tottenham Hotspur U21,OVER_2_5,1,0.7405,1.350,1.29,min,-4.48,1.35,2026-11-22T03:46:26Z,3,,v3/binary/published,2026-11-25T11:03:09Z
+2026-11-24T06:08:39Z,2026-11-24,cups,5e2721d7706d,2026-11-24T19:00:00Z,EFL_Trophy_England,Salford City,Sunderland U21,OVER_2_5,1,0.7103,1.408,1.28,min,-9.08,1.31,2026-11-22T03:46:26Z,3,,v3/binary/published,2026-11-25T11:03:09Z
+2026-11-24T06:08:39Z,2026-11-24,cups,d2db0d132fe8,2026-11-24T19:00:00Z,EFL_Trophy_England,Tranmere,Everton U21,OVER_2_5,1,0.6514,1.535,1.30,min,-15.32,1.31,2026-11-22T03:46:26Z,3,,v3/binary/published,2026-11-25T11:03:09Z

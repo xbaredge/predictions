@@ -1,0 +1,78 @@
+settled_utc,run_date,comp,match_id,kickoff_utc,league,home,away,score
+2026-11-24T06:08:39Z,2026-11-23,leagues,ad013751432a,2026-11-23T01:10:00Z,Liga_MX,Club Queretaro,Necaxa,2-2
+2026-11-24T06:08:39Z,2026-11-23,leagues,d08eb6e640da,2026-11-23T01:00:00Z,Liga_Profesional_Argentina,Instituto Cordoba,Huracan,2-1
+2026-11-24T06:08:39Z,2026-11-23,leagues,73e02d9d8d93,2026-11-23T01:30:00Z,MLS,Vancouver Whitecaps,Real Salt Lake,2-0
+2026-11-24T06:08:39Z,2026-11-23,leagues,188d43438fa9,2026-11-23T19:30:00Z,Spanish_Segunda,AD Ceuta FC,Almeria,2-3
+2026-11-24T06:08:39Z,2026-11-23,leagues,30bcc1452c14,2026-11-23T22:30:00Z,Primera_Division_Uruguay,Albion FC,Danubio,1-1
+2026-11-24T06:08:39Z,2026-11-23,leagues,414956ab801f,2026-11-23T15:00:00Z,Super_League_Greece,Asteras Tripolis,Aris Thessalonikis,0-1
+2026-11-24T06:08:39Z,2026-11-23,leagues,b6b6782eee74,2026-11-23T17:00:00Z,Super_Lig_Turkey,Başakşehir,Çorum FK,4-2
+2026-11-24T06:08:39Z,2026-11-23,leagues,744f08730a79,2026-11-23T17:00:00Z,1_Lig_Turkey,Bodrum FK,Vanspor FK,2-1
+2026-11-24T06:08:39Z,2026-11-23,leagues,fccc5b2821f0,2026-11-23T23:00:00Z,Serie_A_Brazil,Botafogo,Sao Paulo,1-1
+2026-11-24T06:08:39Z,2026-11-23,leagues,dd338bee1ae0,2026-11-23T20:00:00Z,Premier_League,Brentford,Everton,4-0
+2026-11-24T06:08:39Z,2026-11-23,leagues,3aa81933e435,2026-11-23T18:00:00Z,Danish_Superliga,Brondby,FC Midtjylland,0-2
+2026-11-24T06:08:39Z,2026-11-23,leagues,9fed5f45e53d,2026-11-23T18:30:00Z,Hungarian_NB_II,Diosgyori VTK,Karcag SE,2-1
+2026-11-24T06:08:39Z,2026-11-23,leagues,9bcb4e9dcbe3,2026-11-23T20:00:00Z,Liga_Profesional_Argentina,Gimnasia L.P.,Newells Old Boys,2-2
+2026-11-24T06:08:39Z,2026-11-23,leagues,215b15fc5fd7,2026-11-23T18:00:00Z,Allsvenskan,Hammarby FF,IFK Goteborg,3-1
+2026-11-24T06:08:39Z,2026-11-23,leagues,caf1e5671bc2,2026-11-23T22:30:00Z,Serie_A_Brazil,Internacional,Vitoria,2-5
+2026-11-24T06:08:39Z,2026-11-23,leagues,8b8ae996c639,2026-11-23T19:00:00Z,Eerste_Divisie,Jong Ajax,Jong AZ,3-0
+2026-11-24T06:08:39Z,2026-11-23,leagues,1be3b8272241,2026-11-23T19:00:00Z,Eerste_Divisie,Jong PSV U21,Jong Utrecht,3-2
+2026-11-24T06:08:39Z,2026-11-23,leagues,a23143316b42,2026-11-23T19:30:00Z,Primera_Division_Uruguay,Juventud,Defensor Sporting,0-1
+2026-11-24T06:08:39Z,2026-11-23,leagues,8efedd40703d,2026-11-23T20:00:00Z,La_Liga,Levante,Elche,1-1
+2026-11-24T06:08:39Z,2026-11-23,leagues,f466288e1bd0,2026-11-23T16:00:00Z,Bulgaria_First_League,Ludogorets,Dunav Ruse,1-0
+2026-11-24T06:08:39Z,2026-11-23,leagues,003df27db00a,2026-11-23T19:45:00Z,Serie_A_Italy,Monza,Fiorentina,3-0
+2026-11-24T06:08:39Z,2026-11-23,leagues,448ee47d1030,2026-11-23T19:45:00Z,Ligue_2,Nantes,Grenoble,1-0
+2026-11-24T06:08:39Z,2026-11-23,leagues,b5c984f26b61,2026-11-23T17:00:00Z,Croatia_HNL,NK Slaven Belupo,NK Osijek,1-0
+2026-11-24T06:08:39Z,2026-11-23,leagues,e87879d9a3cb,2026-11-23T18:00:00Z,Allsvenskan,Orgryte IS,Kalmar FF,3-2
+2026-11-24T06:08:39Z,2026-11-23,leagues,adf8752a12dd,2026-11-23T19:45:00Z,Championnat_National,Orleans,Thionville Lusitanos,1-0
+2026-11-24T06:08:39Z,2026-11-23,leagues,b2d86d32e8ba,2026-11-23T17:00:00Z,Polish_1_Liga,Podbeskidzie,Nieciecza,1-1
+2026-11-24T06:08:39Z,2026-11-23,leagues,c0c90c8b4955,2026-11-23T18:00:00Z,Romania_Liga1,Sepsi OSK Sfantu Gheorghe,Rapid,1-3
+2026-11-24T06:08:39Z,2026-11-23,leagues,1f7051daa037,2026-11-23T19:45:00Z,Ligue_2,Sochaux,Dunkerque,2-3
+2026-11-24T06:08:39Z,2026-11-23,leagues,d50104a5af8e,2026-11-23T19:00:00Z,Eerste_Divisie,Vitesse,De Graafschap,0-1
+2026-11-24T06:08:39Z,2026-11-23,leagues,f86f8c5df639,2026-11-23T18:00:00Z,Ekstraklasa,Wieczysta Kraków,Motor Lublin,2-1
+2026-11-24T06:08:39Z,2026-11-23,cups,20efb1ff9a64,2026-11-23T16:00:00Z,AFC_Champions_League_Elite,Al Ain,Esteghlal FC,1-1
+2026-11-24T06:08:39Z,2026-11-23,cups,121c03744539,2026-11-23T18:15:00Z,AFC_Champions_League_Elite,Al-Ittihad FC,Pakhtakor,2-0
+2026-11-24T06:08:39Z,2026-11-23,cups,d366b9149be1,2026-11-23T18:15:00Z,AFC_Champions_League_Elite,Al Quwa Al Jawiya,Al-Gharafa,2-1
+2026-11-24T06:08:39Z,2026-11-23,cups,13f182d75d91,2026-11-23T16:00:00Z,AFC_Champions_League_Elite,Tractor Sazi,Al-Wasl FC,1-5
+2026-11-24T06:08:39Z,2026-11-23,women,e422a4dec743,2026-11-23T17:00:00Z,Frauen_Bundesliga,Bayern Munich W,1899 Hoffenheim W,1-0
+2026-11-24T06:08:39Z,2026-11-23,women,ece7a7321f13,2026-11-23T19:00:00Z,Primera_Division_Femenina,Espanyol W,Valencia W,2-0
+2026-11-25T06:10:05Z,2026-11-24,leagues,0eb066fe182a,2026-11-24T00:00:00Z,Serie_A_Brazil,Santos,Gremio,0-2
+2026-11-25T06:10:05Z,2026-11-24,leagues,890da4327451,2026-11-24T01:00:00Z,MLS,St. Louis City,Los Angeles FC,3-2
+2026-11-25T06:10:05Z,2026-11-24,cups,9d5db4418ad8,2026-11-24T07:45:00Z,AFC_Champions_League_Elite,Newcastle Jets,Kashiwa Reysol,1-2
+2026-11-25T06:10:05Z,2026-11-24,leagues,875124678c13,2026-11-24T19:00:00Z,Serie_B_Italy,Benevento,Empoli,5-0
+2026-11-25T06:10:05Z,2026-11-24,leagues,00a056fca744,2026-11-24T19:45:00Z,League_One,Blackpool,Leicester,1-1
+2026-11-25T06:10:05Z,2026-11-24,leagues,21bf4fe9ccc1,2026-11-24T19:45:00Z,League_One,Bradford,Barnsley,3-0
+2026-11-25T06:10:05Z,2026-11-24,leagues,3f699ce31bdb,2026-11-24T19:45:00Z,Championship,Bristol City,Wrexham,1-1
+2026-11-25T06:10:05Z,2026-11-24,leagues,fd03980bb22f,2026-11-24T19:45:00Z,League_One,Bromley,Wycombe,1-1
+2026-11-25T06:10:05Z,2026-11-24,leagues,483e5538187d,2026-11-24T19:45:00Z,Championship,Cardiff,Preston,0-4
+2026-11-25T06:10:05Z,2026-11-24,leagues,5fda907052ea,2026-11-24T19:00:00Z,Serie_B_Italy,Cesena,Ascoli,5-1
+2026-11-25T06:10:05Z,2026-11-24,leagues,408f96102bd8,2026-11-24T21:00:00Z,Serie_A_Brazil,Chapecoense-sc,Palmeiras,3-0
+2026-11-25T06:10:05Z,2026-11-24,leagues,bd24d24883bd,2026-11-24T19:45:00Z,Championship,Charlton,Lincoln,4-0
+2026-11-25T06:10:05Z,2026-11-24,leagues,d3b4edd07a6f,2026-11-24T19:45:00Z,League_Two,Crawley Town,Barnet,0-0
+2026-11-25T06:10:05Z,2026-11-24,leagues,4b7378cb6574,2026-11-24T19:45:00Z,Scottish_Premiership,Hibernian,Dundee,2-1
+2026-11-25T06:10:05Z,2026-11-24,leagues,915e050b12c9,2026-11-24T18:00:00Z,Serie_B_Italy,Juve Stabia,Catanzaro,1-3
+2026-11-25T06:10:05Z,2026-11-24,leagues,f8b1e486ae7e,2026-11-24T19:45:00Z,Championship,Middlesbrough,Swansea,2-1
+2026-11-25T06:10:05Z,2026-11-24,leagues,fcbe6c0b5db2,2026-11-24T23:20:00Z,Colombia_PrimeraA,Millonarios,Bucaramanga,4-1
+2026-11-25T06:10:05Z,2026-11-24,leagues,fda7c6312fdd,2026-11-24T19:45:00Z,Championship,Norwich,QPR,1-1
+2026-11-25T06:10:05Z,2026-11-24,leagues,bd808fc9c9e1,2026-11-24T19:00:00Z,Serie_B_Italy,Palermo,Sudtirol,4-1
+2026-11-25T06:10:05Z,2026-11-24,leagues,7e4f5276a3ce,2026-11-24T19:45:00Z,Championship,Portsmouth,West Ham,1-0
+2026-11-25T06:10:05Z,2026-11-24,leagues,da0283f68c31,2026-11-24T19:45:00Z,League_Two,Port Vale,Northampton,1-1
+2026-11-25T06:10:05Z,2026-11-24,leagues,bfb6402f09a9,2026-11-24T20:00:00Z,Scottish_Premiership,Rangers,Aberdeen,3-2
+2026-11-25T06:10:05Z,2026-11-24,leagues,24ff12318494,2026-11-24T19:45:00Z,Championship,Sheffield Utd,Southampton,1-1
+2026-11-25T06:10:05Z,2026-11-24,leagues,5899978c8dfd,2026-11-24T19:45:00Z,League_One,Stevenage,Sheffield Wednesday,0-0
+2026-11-25T06:10:05Z,2026-11-24,leagues,27b22b0c6b44,2026-11-24T19:00:00Z,Serie_B_Italy,Vicenza Virtus,Carrarese,0-1
+2026-11-25T06:10:05Z,2026-11-24,leagues,bfc1a3e41989,2026-11-24T19:00:00Z,Serie_B_Italy,Virtus Entella,Hellas Verona,2-1
+2026-11-25T06:10:05Z,2026-11-24,leagues,f085fd89a2e9,2026-11-24T20:00:00Z,Championship,Wolves,Derby,3-0
+2026-11-25T06:10:05Z,2026-11-24,cups,95a75441bddb,2026-11-24T18:15:00Z,AFC_Champions_League_Elite,Al-Nassr,Al Sadd,2-1
+2026-11-25T06:10:05Z,2026-11-24,cups,d8e6dfd6484b,2026-11-24T20:00:00Z,UEFA_Champions_League,Arsenal,Borussia Dortmund,1-1
+2026-11-25T06:10:05Z,2026-11-24,cups,a6cee71edba0,2026-11-24T17:45:00Z,UEFA_Champions_League,Bodo/Glimt,Lask Linz,1-0
+2026-11-25T06:10:05Z,2026-11-24,cups,da52782d3a00,2026-11-24T12:15:00Z,AFC_Champions_League_Elite,Công An Nhân Dân,Vissel Kobe,3-1
+2026-11-25T06:10:05Z,2026-11-24,cups,234a993b7cb5,2026-11-24T20:00:00Z,UEFA_Champions_League,Feyenoord,FC Porto,0-1
+2026-11-25T06:10:05Z,2026-11-24,cups,32120fece2ce,2026-11-24T17:45:00Z,UEFA_Champions_League,Galatasaray,Aston Villa,1-0
+2026-11-25T06:10:05Z,2026-11-24,cups,82a35f84adfd,2026-11-24T20:00:00Z,UEFA_Champions_League,Manchester City,Napoli,2-2
+2026-11-25T06:10:05Z,2026-11-24,cups,b245fae8a63e,2026-11-24T19:00:00Z,EFL_Trophy_England,Oxford United,Tottenham Hotspur U21,2-1
+2026-11-25T06:10:05Z,2026-11-24,cups,befcbff60bb5,2026-11-24T12:15:00Z,AFC_Champions_League_Elite,Ratchaburi,Johor Darul Takzim FC,1-1
+2026-11-25T06:10:05Z,2026-11-24,cups,905c255a8918,2026-11-24T20:00:00Z,UEFA_Champions_League,RB Leipzig,Lens,3-1
+2026-11-25T06:10:05Z,2026-11-24,cups,a41841202676,2026-11-24T20:00:00Z,UEFA_Champions_League,Real Madrid,PSV Eindhoven,5-1
+2026-11-25T06:10:05Z,2026-11-24,cups,5e2721d7706d,2026-11-24T19:00:00Z,EFL_Trophy_England,Salford City,Sunderland U21,3-2
+2026-11-25T06:10:05Z,2026-11-24,cups,eafd3c221695,2026-11-24T12:15:00Z,AFC_Champions_League_Elite,SHANGHAI SIPG,Buriram United,3-1
+2026-11-25T06:10:05Z,2026-11-24,cups,d2db0d132fe8,2026-11-24T19:00:00Z,EFL_Trophy_England,Tranmere,Everton U21,2-1
