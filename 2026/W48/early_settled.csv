@@ -48,3 +48,4 @@ settled_utc,batch,comp,match_id,kickoff_utc,home,away,pick,min_odds,post_mean,po
 2026-11-26T06:29:12Z,2026-11-25.1,cups,6552380a8893,2026-11-25T20:00:00Z,Shakhtar Donetsk,Fenerbahçe,Fenerbahçe -0,1.88,1.80,5,2026-11-24T21:43:57Z,1.86,5,2026-11-25T15:01:32Z,-3.23,0-1,Landed,1
 2026-11-26T06:29:12Z,2026-11-25.1,cups,306f036c1911,2026-11-25T20:00:00Z,Sporting CP,Manchester United,Manchester United +0.25,1.78,1.70,6,2026-11-25T03:43:57Z,1.63,6,2026-11-25T15:01:32Z,4.29,2-2,Half landed,0.75
 2026-11-26T06:29:12Z,2026-11-25.2,leagues,3aaf75d40f0c,2026-11-25T20:00:00Z,Stoke City,Millwall,Stoke City -0.25,1.98,1.86,6,2026-11-25T11:41:45Z,1.82,6,2026-11-25T15:00:56Z,2.20,2-1,Landed,1
+2026-11-26T06:29:26Z,2026-11-25.3,leagues,374276e54ece,2026-11-25T19:00:00Z,Mantova,Arezzo,Mantova -0.75,1.86,1.75,6,2026-11-25T15:00:56Z,1.75,6,2026-11-25T15:00:56Z,0.00,3-0,Landed,1
