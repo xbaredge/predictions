@@ -1,0 +1,4 @@
+# Early picks kicking off on 2026-11-27 (UTC), batch 9, committed 2026-11-27T11:48:30Z, before any of them
+# kicked off. The rows are released to early.csv in that date's week folder once its matches are
+# final; each row carries its batch and a random salt. Until then this hash is the whole public record.
+2d5c5745422422ed2d92366434b44091e2658e4bbb6ff16c0c03cd703eb9d62f  early  3
