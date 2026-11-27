@@ -129,3 +129,7 @@ settled_utc,run_date,comp,match_id,kickoff_utc,league,home,away,score
 2026-11-26T06:08:53Z,2026-11-25,cups,6552380a8893,2026-11-25T20:00:00Z,UEFA_Champions_League,Shakhtar Donetsk,Fenerbahçe,0-1
 2026-11-26T06:08:53Z,2026-11-25,cups,ded60b2bdb9e,2026-11-25T17:45:00Z,UEFA_Champions_League,Slavia Praha,Villarreal,0-1
 2026-11-26T06:08:53Z,2026-11-25,cups,306f036c1911,2026-11-25T20:00:00Z,UEFA_Champions_League,Sporting CP,Manchester United,2-2
+2026-11-27T06:13:21Z,2026-11-26,leagues,46da583b9f58,2026-11-26T01:30:00Z,Colombia_PrimeraA,Atletico Nacional,Independiente Medellin,3-1
+2026-11-27T06:13:21Z,2026-11-26,leagues,ed969a74d576,2026-11-26T00:00:00Z,Liga_Profesional_Argentina,Boca Juniors,Independ. Rivadavia,2-0
+2026-11-27T06:13:21Z,2026-11-26,leagues,09d6e9d11570,2026-11-26T03:10:00Z,Liga_MX,Monterrey,Club America,0-0
+2026-11-27T06:13:21Z,2026-11-26,leagues,c28dc843331e,2026-11-26T01:00:00Z,Liga_MX,Toluca,Atlas,2-0
