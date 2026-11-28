@@ -168,3 +168,56 @@ settled_utc,run_date,comp,match_id,kickoff_utc,league,home,away,score
 2026-11-27T06:14:17Z,2026-11-26,cups,f721ba49e9f7,2026-11-26T17:45:00Z,UEFA_Europa_League,Union St. Gilloise,Lech Poznan,2-2
 2026-11-28T06:30:45Z,2026-11-27,leagues,1557cd7d1e74,2026-11-27T01:00:00Z,Liga_MX,CF Pachuca,Guadalajara Chivas,2-1
 2026-11-28T06:30:45Z,2026-11-27,leagues,fa51245d428b,2026-11-27T03:10:00Z,Liga_MX,Leon,Cruz Azul,0-4
+2026-11-28T06:30:57Z,2026-11-27,leagues,6a77e5b1facc,2026-11-27T17:30:00Z,Germany_2_Bundesliga,1. FC Heidenheim,1. FC Nürnberg,3-1
+2026-11-28T06:30:57Z,2026-11-27,leagues,2d478a222f57,2026-11-27T18:00:00Z,Danish_1st_Division,AB Copenhagen,Vejle,2-2
+2026-11-28T06:30:57Z,2026-11-27,leagues,d46080b608fd,2026-11-27T17:00:00Z,Super_Lig_Turkey,Alanyaspor,Konyaspor,1-2
+2026-11-28T06:30:57Z,2026-11-27,leagues,bdf64d3e6359,2026-11-27T17:30:00Z,Saudi_Pro_League,Al-Ittihad FC,NEOM,1-0
+2026-11-28T06:30:57Z,2026-11-27,leagues,cec4be2eadbc,2026-11-27T12:15:00Z,Saudi_Pro_League,Al Kholood,Al Khaleej Saihat,2-1
+2026-11-28T06:30:57Z,2026-11-27,leagues,5a6a15620fc5,2026-11-27T14:20:00Z,Saudi_Pro_League,Al-Qadisiyah FC,Al-Fayha,2-0
+2026-11-28T06:30:57Z,2026-11-27,leagues,de862e92c054,2026-11-27T17:00:00Z,Czech_First_League,Artis,Slovácko,4-1
+2026-11-28T06:30:57Z,2026-11-27,leagues,b90d392da644,2026-11-27T19:30:00Z,Polish_1_Liga,Chrobry Głogów,Unia Skierniewice,0-2
+2026-11-28T06:30:57Z,2026-11-27,leagues,352d42d5cb57,2026-11-27T19:15:00Z,Swiss_Challenge_League,Étoile Carouge,Stade Lausanne-Ouchy,0-2
+2026-11-28T06:30:57Z,2026-11-27,leagues,b90e05a49881,2026-11-27T19:15:00Z,Swiss_Challenge_League,FC Winterthur,Rapperswil,6-1
+2026-11-28T06:30:57Z,2026-11-27,leagues,1bdd702658b7,2026-11-27T18:00:00Z,Liga_Portugal_2,Feirense,Portimonense,1-2
+2026-11-28T06:30:57Z,2026-11-27,leagues,da744fb7e84b,2026-11-27T23:00:00Z,Serie_A_Brazil,Fluminense,Cruzeiro,0-1
+2026-11-28T06:30:57Z,2026-11-27,leagues,19bc43ad4214,2026-11-27T19:00:00Z,Belgium_Challenger_Pro,Francs Borains,AS Eupen,2-2
+2026-11-28T06:30:57Z,2026-11-27,leagues,9e3843853d9e,2026-11-27T19:30:00Z,Ekstraklasa,Gornik Zabrze,Wisla Plock,3-2
+2026-11-28T06:30:57Z,2026-11-27,leagues,74aa0f562923,2026-11-27T18:30:00Z,Austrian_Bundesliga,Grazer AK,SCR Altach,2-3
+2026-11-28T06:30:57Z,2026-11-27,leagues,ffe3630ae74a,2026-11-27T19:00:00Z,Eredivisie,Groningen,Willem II,1-1
+2026-11-28T06:30:57Z,2026-11-27,leagues,be181b3b14cf,2026-11-27T18:30:00Z,Hungarian_NB_I,Gyori ETO FC,Debreceni VSC,2-2
+2026-11-28T06:30:57Z,2026-11-27,leagues,70d7ab7152e8,2026-11-27T18:00:00Z,Germany_3_Liga,Hansa Rostock,Havelse,2-0
+2026-11-28T06:30:57Z,2026-11-27,leagues,2d011cda7f67,2026-11-27T18:00:00Z,Danish_1st_Division,Hvidovre,Kolding IF,2-1
+2026-11-28T06:30:57Z,2026-11-27,leagues,9c68455a131e,2026-11-27T16:00:00Z,Serbia_SuperLiga,IMT Novi Beograd,Macva,2-1
+2026-11-28T06:30:57Z,2026-11-27,leagues,73921e63ff20,2026-11-27T17:00:00Z,Croatia_HNL,Istra 1961,NK Varazdin,2-1
+2026-11-28T06:30:57Z,2026-11-27,leagues,4966dd32c2d2,2026-11-27T19:00:00Z,Eerste_Divisie,Jong Ajax,Heracles,4-4
+2026-11-28T06:30:57Z,2026-11-27,leagues,f835b13101be,2026-11-27T19:00:00Z,Belgium_Challenger_Pro,KRC Genk II,RSC Anderlecht II,0-5
+2026-11-28T06:30:57Z,2026-11-27,leagues,8e3d91e902d6,2026-11-27T19:30:00Z,Spanish_Segunda,Leganes,Sabadell,0-0
+2026-11-28T06:30:57Z,2026-11-27,leagues,a160297ad0e6,2026-11-27T20:00:00Z,La_Liga,Levante,Racing Santander,1-3
+2026-11-28T06:30:57Z,2026-11-27,leagues,f426cfc4acb6,2026-11-27T16:30:00Z,Bulgaria_First_League,Lokomotiv Sofia,Slavia Sofia,0-0
+2026-11-28T06:30:57Z,2026-11-27,leagues,945f38ec4b91,2026-11-27T08:40:00Z,Australian_A_League,Macarthur,Melbourne City,2-0
+2026-11-28T06:30:57Z,2026-11-27,leagues,8a12beaf5f19,2026-11-27T12:00:00Z,Israeli_Premier_League,Maccabi Petah Tikva,Hapoel Tel Aviv,2-0
+2026-11-28T06:30:57Z,2026-11-27,leagues,64cab6314968,2026-11-27T20:15:00Z,Liga_Portugal,Maritimo,Nacional,1-2
+2026-11-28T06:30:57Z,2026-11-27,leagues,0ab3acecd54e,2026-11-27T19:00:00Z,Eerste_Divisie,MVV,Jong PSV U21,3-2
+2026-11-28T06:30:57Z,2026-11-27,leagues,07c77ea19350,2026-11-27T19:00:00Z,Eerste_Divisie,NAC Breda,Den Bosch,6-2
+2026-11-28T06:30:57Z,2026-11-27,leagues,36bc975e2811,2026-11-27T20:00:00Z,Premier_League,Nottingham Forest,Chelsea,3-2
+2026-11-28T06:30:57Z,2026-11-27,leagues,462a991eacee,2026-11-27T19:45:00Z,Belgium_Pro_League,OH Leuven,Kortrijk,2-2
+2026-11-28T06:30:57Z,2026-11-27,leagues,50c442508fef,2026-11-27T18:30:00Z,Romania_Liga1,Petrolul Ploiesti,Arges Pitesti,0-1
+2026-11-28T06:30:57Z,2026-11-27,leagues,f92ac676fceb,2026-11-27T17:00:00Z,Ekstraklasa,Raków Częstochowa,Piast Gliwice,1-2
+2026-11-28T06:30:57Z,2026-11-27,leagues,66a23689b053,2026-11-27T17:00:00Z,Super_Lig_Turkey,Rizespor,Kasımpaşa,3-2
+2026-11-28T06:30:57Z,2026-11-27,leagues,0f6017cfedb5,2026-11-27T17:00:00Z,1_Lig_Turkey,Sarıyer,İstanbulspor,1-0
+2026-11-28T06:30:57Z,2026-11-27,leagues,04da64b98c98,2026-11-27T18:30:00Z,Swiss_Challenge_League,SC Kriens,FC Aarau,0-2
+2026-11-28T06:30:57Z,2026-11-27,leagues,2b0ce40a695a,2026-11-27T18:00:00Z,Danish_Superliga,Sonderjyske,Brondby,1-1
+2026-11-28T06:30:57Z,2026-11-27,leagues,8bbe5b2d121c,2026-11-27T20:00:00Z,Championship,Southampton,Middlesbrough,2-0
+2026-11-28T06:30:57Z,2026-11-27,leagues,f55cedfeb491,2026-11-27T19:45:00Z,Ligue_1,Stade Brestois 29,Paris FC,1-0
+2026-11-28T06:30:57Z,2026-11-27,leagues,addf60f376c2,2026-11-27T16:30:00Z,Polish_2_Liga,Stal Stalowa Wola,Legia Warszawa II,3-2
+2026-11-28T06:30:57Z,2026-11-27,leagues,497dd42afd85,2026-11-27T17:00:00Z,Polish_2_Liga,Tychy 71,Chojniczanka Chojnice,0-2
+2026-11-28T06:30:57Z,2026-11-27,leagues,94894528c94a,2026-11-27T17:00:00Z,1_Lig_Turkey,Ümraniyespor,Manisa F.K.,2-2
+2026-11-28T06:30:57Z,2026-11-27,leagues,d403fec605d2,2026-11-27T15:30:00Z,Romania_Liga1,Universitatea Cluj,Sepsi OSK Sfantu Gheorghe,0-1
+2026-11-28T06:30:57Z,2026-11-27,leagues,c1b271d0e875,2026-11-27T19:45:00Z,Serie_A_Italy,Venezia,Bologna,0-0
+2026-11-28T06:30:57Z,2026-11-27,leagues,24aac97cc51e,2026-11-27T17:30:00Z,Germany_2_Bundesliga,VfL Bochum,SV Darmstadt 98,2-0
+2026-11-28T06:30:57Z,2026-11-27,leagues,f32a952ea066,2026-11-27T23:00:00Z,Serie_B_Brazil,Vila Nova,Atletico Goianiense,2-0
+2026-11-28T06:30:57Z,2026-11-27,leagues,82ba8447e020,2026-11-27T19:30:00Z,Austrian_2_Liga,Wacker Innsbruck,First Vienna,0-1
+2026-11-28T06:30:57Z,2026-11-27,leagues,38e767c706fd,2026-11-27T17:00:00Z,Polish_1_Liga,Warta Poznań,Pogoń Siedlce,2-0
+2026-11-28T06:30:57Z,2026-11-27,leagues,9e53b5b54431,2026-11-27T19:30:00Z,Germany_Bundesliga,Werder Bremen,Borussia Mönchengladbach,3-3
+2026-11-28T06:30:57Z,2026-11-27,cups,f4c7cdafc00c,2026-11-27T18:00:00Z,Coupe_de_France,Cannes,Le Puy Foot,1-1
+2026-11-28T06:30:57Z,2026-11-27,cups,ab3cee8b6fad,2026-11-27T19:00:00Z,Coupe_de_France,Saint-Omer,Caen,1-0

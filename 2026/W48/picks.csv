@@ -1,3 +1,7 @@
 published_utc,run_date,comp,match_id,kickoff_utc,league,home,away,market,gradable,model_p,model_fair_odds,price,price_basis,edge_pct,open_mean,open_mean_utc,open_books,combinations,model
 2026-11-26T06:29:26Z,2026-11-26,leagues,49cfbdba046f,2026-11-26T20:00:00Z,League_One,Doncaster,Huddersfield,AWAY_WIN,1,0.6014,1.663,1.68,min,1.04,1.77,2026-11-23T21:41:56Z,7,,v3/binary/published
 2026-11-26T06:29:26Z,2026-11-26,cups,779752a316e6,2026-11-26T20:00:00Z,UEFA_Europa_Conference_League,Borac Banja Luka,Atalanta,UNDER_3_5,1,0.7102,1.408,1.63,min,15.76,1.54,2026-11-23T21:44:32Z,6,VALUE SINGLE #1,v3/binary/published
+2026-11-27T06:14:17Z,2026-11-27,leagues,70d7ab7152e8,2026-11-27T18:00:00Z,Germany_3_Liga,Hansa Rostock,Havelse,HOME_WIN,1,0.7301,1.370,1.27,min,-7.28,1.23,2026-11-24T21:41:05Z,7,,v3/binary/published
+2026-11-27T06:14:17Z,2026-11-27,leagues,04da64b98c98,2026-11-27T18:30:00Z,Swiss_Challenge_League,SC Kriens,FC Aarau,HOME_WIN,1,0.3844,2.601,2.83,min,8.79,2.88,2026-11-24T21:41:05Z,7,,v3/binary/published
+2026-11-27T06:14:17Z,2026-11-27,leagues,74aa0f562923,2026-11-27T18:30:00Z,Austrian_Bundesliga,Grazer AK,SCR Altach,HOME_WIN,1,0.2504,3.994,3.50,min,-12.36,3.29,2026-11-24T21:41:05Z,8,,v3/binary/published
+2026-11-27T06:14:17Z,2026-11-27,cups,f4c7cdafc00c,2026-11-27T18:00:00Z,Coupe_de_France,Cannes,Le Puy Foot,DRAW,1,0.2164,4.621,3.10,min,-32.92,3.41,2026-11-26T21:48:19Z,5,VALUE SINGLE #1,v3/binary/published
