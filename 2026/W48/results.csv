@@ -166,3 +166,5 @@ settled_utc,run_date,comp,match_id,kickoff_utc,league,home,away,score
 2026-11-27T06:14:17Z,2026-11-26,cups,8fcbd8b0d146,2026-11-26T20:00:00Z,UEFA_Europa_Conference_League,SC Freiburg,Twente,2-1
 2026-11-27T06:14:17Z,2026-11-26,cups,c4b74e3ee4e4,2026-11-26T20:00:00Z,UEFA_Europa_League,Sparta Praha,AZ Alkmaar,2-4
 2026-11-27T06:14:17Z,2026-11-26,cups,f721ba49e9f7,2026-11-26T17:45:00Z,UEFA_Europa_League,Union St. Gilloise,Lech Poznan,2-2
+2026-11-28T06:30:45Z,2026-11-27,leagues,1557cd7d1e74,2026-11-27T01:00:00Z,Liga_MX,CF Pachuca,Guadalajara Chivas,2-1
+2026-11-28T06:30:45Z,2026-11-27,leagues,fa51245d428b,2026-11-27T03:10:00Z,Liga_MX,Leon,Cruz Azul,0-4
