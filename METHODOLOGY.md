@@ -180,6 +180,8 @@ The columns of `early.csv`:
 `comp`, `match_id`, `kickoff_utc`, `league`, `home` and `away` mean what they mean in the other
 files.
 
+When we have the odds from the moment a pick was posted, at least one bookmaker was offering its minimum odds or better.
+
 **Rows marked `uncommitted`.** A row whose `batch` reads `uncommitted` is an early pick the
 website published that was never committed before kickoff. Early picks were added to the ledger
 on 25 November 2026; the ones the website published from 20 November until then are included so
